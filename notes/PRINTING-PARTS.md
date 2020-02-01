@@ -31,3 +31,6 @@ Generally Ben has recommended 90% infill and 3 shells.  That seems excessive to 
 * Supports from build plate
 * for ABS w/enclosure 50% cooling after 3rd layer
 
+### X_carriage_-_Fan_mount.stl
+* Works fine with no support
+* Print in ABS
