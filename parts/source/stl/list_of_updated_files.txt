@@ -1,0 +1,17 @@
+Left_motor_40mm_fan_mount.stl
+Bed_Holder_-_Rear_right_For_CR-10_bed_M4_screw.stl
+X_mount_-_Bottom_left.stl
+Right_Z_motor_mount.stl
+Right_corner_-_Top.stl
+Front_Panel_-_Right_leds_diffuser.stl
+Bed_Holder_-_Rear_right_For_Anet_E12_bed_M3_Screw.stl
+Right_motor_40mm_fan_mount.stl
+Right_corner_-_Block.stl
+Front_Panel_-_Smartphone_drawer.stl
+Front_Panel_-_left_grill.stl
+Main_Cable_Tube_Holder.stl
+Left_Tensioner_-_idler_holder.stl
+Front_Panel_-_right_grill.stl
+X_carriage_-_V6_Locker_BL-touch.stl
+Bed_Holder_-_Rear_left_For_Anet_E12_bed_M3_Screw.stl
+Left_Tensioner_-_mount.stl
