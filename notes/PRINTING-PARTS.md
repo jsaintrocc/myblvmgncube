@@ -59,7 +59,8 @@ Note: It useful to look at `BLV_Cube_mgn_Project_Drawing_-Hotend.pdf` to see the
 ### `Bed_frame_cover_-_front_left.stl` (front\_right/rear\_left/rear\_right)
 * These are all the same part you need Qty 4
 * Orient rectanguar side, without hole, on bottom 
-* Note: bevel on bottom curled a lot so try running fan at 50% past 3rd layer next time
+* For ABS need to print with automatic supports from build plate (To prevent currling at rounded edges
+* This could benefit from a rework
 * `Bed_frame_cover_-_all.3mf`
 
 ### `Z_mount_-_Left_mgn_mount.stl (Left/Right)`
@@ -71,6 +72,74 @@ Note: It useful to look at `BLV_Cube_mgn_Project_Drawing_-Hotend.pdf` to see the
 * These are similar (accept they are labelled right and left
 * orient with flattest side on bottom
 * Need supports for the counter sunk holes but not the writing on the side use an support bocker for that.
+
+### `Z_rail_stopper_-_Top_Left.stl (Left/Right)`
+* These are the same part you need Qty 2
+* orient flat rectangular side on bottom
+* Need supports from build plate for those slightly rouded bevels
+* Using 45 degee bevels would eliminate need for supports
+* `Z_rail_stopper_-_All.3mf`
+
+### `Z_rail_stopper_-_Bottom_Left.stl (Left/Right)`
+* These are the same part you need Qty 2
+* orient flat rectangular side on bottom (Side with countersunk holes)
+* Need supports from build plate for those slightly rouded bevels and unsupported countersunk holes
+* Using 45 degee bevels and sacrificial layer would eliminate need for supports
+* `Z_rail_stopper_-_All.3mf`
+
+### `Bed_Holder_-_Front_left_For_CR-10_bed_M4_screw.stl`
+* My bed used M4 screws so I used this vs the M3 one. Notes should be the same for the M3 one
+* Orient flat side down
+* `Bed_Holder_-_All_For_CR-10_bed_M4_screw.3mf`
+
+### `Left_Z_motor_mount.stl (Left/Right)`
+* These are the same part you need Qty 2
+* Orient with face with large hole on bottom
+* Print with supports for those oh so annoying rounded edges
+* Run the bed at 110 for all layers
+* Do not let encloser get hotter than 36C
+* I printed one at a time
+* `Left_Z_motor_mount.3mf`
+* `Right_Z_motor_mount.3mf`
+
+### `Left_corner_-_Top.stl and Right_corner_-_Top.stl
+* These parts are similar but not the same
+* Orient with flat face down
+* Print with supports from base plate because there are lots of holes
+* Run the bed at 110 for all layers
+* Optimal enclosure temp is ~33C 36C and you're X will start skipping
+* If your enclosure is in the 20's you'll see too much shrinkage
+* `Left_corner_-_Top.3mf`
+
+### `Left_corner_-_Block.stl and Right_corner_-_Block.stl`
+* These parts are similar but not the same
+* Orient with flat face down
+* only put supports from build plate under the *
+
+### `Left_corner_-_cap.stl`, `Right_Corner_-_cap.stl`, `Right_motor_40mm_fan_mount.stl`, `Left_motor_40mm_fan_mount.stl`, `Right_corner_-_bottom_aux.stl`
+* Orient with largest flat side on bottom
+* Print with supports of build plate only (For counter sunk holes)
+* Heatbed at 110C deg and max 35C enclosure temp
+* `Right_corner_-_bottom_aux.3mf`
+
+## Tensioner and X axis mounts
+### `Left_Tensioner_-_mount.stl`, `Right_Tensioner_-_mount.stl`
+* Orient mount with wheel countersink side down
+* mount needs multiple support enforcers to print correctly see 3mf file
+* `Left_tensioner_-_mount.3mf`
+* `Right_tensioner_-_mount.3mf`
+
+### `Left_Tensioner_-_idler_holder.stl`, `Right_Tensioner_-_idler_holder.stl`
+* These are the same part Qty: 2
+* Orient idler holder with square flat surface on bottom.
+* `Left_tensioner_-_mount.3mf`
+* `Right_tensioner_-_mount.3mf`
+
+### `Left_Tensioner_-_tension_wheel.stl`, `Right_Tensioner_-_tension_wheel.stl`
+* Orient tensioner wheel with hex face down
+* tensioner wheel needs support enforcer cyliner only for coutersunk hole
+* `Left_tensioner_-_mount.3mf`
+* `Right_tensioner_-_mount.3mf`
 
 ## FRAME??
 ### `Jig_main.stl`
