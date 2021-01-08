@@ -21,3 +21,7 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 
 ## Credits and inspration
 This work is based on the [BLV mgn Cube - 3d printer](https://www.thingiverse.com/thing:3382718) by [Ben Levi](https://www.facebook.com/blevi?fref=gs&dti=371460246914851&hc_location=group_dialog) and is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).  Any modified files will be clearly labelled.
+
+I got much help by watching [Fugatech3D's live stream on his build](https://www.youtube.com/user/fuganater987)
+
+Also the documentation and style modifications we're greatly inspired by [Greg Saun's Work](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/README.md) 
