@@ -1,4 +1,4 @@
-# MY MGN BLV
+# MY BLV MGN Cube
 
 ## Table of contents
   1. [Introduction](#introduction)
@@ -18,6 +18,16 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 ## Printed parts
 * Original Parts are in the /parts/source folder
 * Modified Parts are in the /parts/remixed folder (This also includes individual STLs)
+
+## Manual
+
+The manual contains bill of materials (BOM), print settings and assembly instructions.
+
+[Read the manual here](manual/README.md)
+
+## License
+
+Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ## Credits and inspration
 This work is based on the [BLV mgn Cube - 3d printer](https://www.thingiverse.com/thing:3382718) by [Ben Levi](https://www.facebook.com/blevi?fref=gs&dti=371460246914851&hc_location=group_dialog) and is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).  Any modified files will be clearly labelled.
