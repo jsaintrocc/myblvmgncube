@@ -6,9 +6,9 @@
 
 #### Parts
 
-* 18x M3 T-Nuts
-* 26x M3 8mm socket head cap screws
-* 2x 496mm (19.5in) 2040 extrusions
+* 18x M3 T-Nuts (Hammer Head/Drop In Style/)
+* 26x M3 8mm socket head cap screws (DIN912)
+* 2x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame)
 * 2x 400mm linear rails
 * 2x 2040 Jigs (2040_Jig.stl)
 * 1x Left bottom X mount (X_mount_-_Bottom_left.stl)

@@ -2,5 +2,5 @@
 
 ## Table of Content
 
-1. [Lubricate MGN Rails](rails.md)
-1. [Attach Y Rails to Extrusion](mount_y_rails.md)
+1. [Lubricate MGN Rails](01-lubricate-mgn-rails.md)
+1. [Attach Y Rails to Extrusion](02-mount-y-rails.md)
