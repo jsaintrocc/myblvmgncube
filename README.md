@@ -11,11 +11,13 @@
   1. [License](#license)
   1. [Credit and inspiration](#credit-and-inspiration)
 
+
+## Disclaimer
+**WORK IN PROGRESS**
+
+I'm in the process of building my first Cube so directions will probably change as I figure things out. Definitely consult other sources and double check what I'm saying at ever step.
+
 ## Introduction
-
-*WORK IN PROGRESS*
-I'm in the process of building my first Cube so directions will probably change as I figure things out.
-
 This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by Ben Levi. My goal is to provide a guide that others can follow to build their own cubes. This guide, at least initally, will provide instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
 
 ### My Build Specifications
