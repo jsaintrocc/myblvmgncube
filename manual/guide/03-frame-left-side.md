@@ -2,7 +2,7 @@
 
 ## Assembly Instructions
 
-### Step 2 Left Side of Frame
+### Step 3 Left Side of Frame
 
 #### Parts
 
@@ -32,22 +32,22 @@
 #### Prep
 1. Measure brackets and find 4 that are close to 20mm on one side. Might have to file them down or add a little tape. You'll use these to correctly position your first joint so the closer to 20mm the better. Mark these 4 brackets with a Sharpie.
 
-    ![](img/02-4bracketsLessThan20.jpeg)\
+    ![](img/03-4bracketsLessThan20.jpeg)\
     *fig 2.1*
 
 2. Install 2x M5 10mm bolts and T-nuts on each frame foot and attach some felt to prevent scratches.
 
-    ![](img/02-FootWFeltSide.jpeg)\
+    ![](img/03-FootWFeltSide.jpeg)\
     *fig 2.2*
 
 3. Find a the flattest surfance in your house. Hint, If you have a granite counter top that's probably the best. Make sure it's clean and then use one of your pieces of extrusion as a straight edge and a piece of paper as a thickness guage. Try and slip a piece of paper under the extrusion in a couple of places to test for flatness. Test multiple directions. Probably won't be perfect but pick the best counter you have. This will be the surface you use to build the frame.
 
-    ![](img/02-TestFlatSurface.jpeg)\
+    ![](img/03-TestFlatSurface.jpeg)\
     *fig 2.3*
 
 4. Check extrusion ends for squareness. We'll be relying on the extrusion ends being square to produce a square frame. The kits should all have pretty good cuts. To check for squareness, but two ends against each other (you should only see a hairline crack where they meet. Flip one around and check it the other way. If you have the same result you're good! If they aren't cut perfectly square or aren't to exact length it's going to be a challenge to get a square frame.
 
-    ![](img/02-ExtEndCheck.jpeg)\
+    ![](img/03-ExtEndCheck.jpeg)\
     *fig 2.4*
 
 5. Cover the surface in a large piece of craft paper to protect it. *Can't build a 3d printer if your significant other murders you for scratching their counter top with sharp edged extrusions*
@@ -56,39 +56,39 @@
 
 1. Attach the frame feet to the 560mm (~22in) 2040 extrusions.
 
-    ![](img/02-AttachFeet.jpeg)\
+    ![](img/03-AttachFeet.jpeg)\
     *fig 2.5*
 
 
 1. Arrange the spare extrusions, mentioned in the tools section, in a diamond. These will support the frame and keep it level even with the rails and the printed parts mounted on them.
 
-    ![](img/02-CounterPrepWExt.jpeg)\
+    ![](img/03-CounterPrepWExt.jpeg)\
     *fig 2.6*
 
 1. Attach M5 bolts and T-nuts to the 4 plates and lay out the extrusions with the plates installed but not tightened. Also now is the time to position the tensoner mount (Circiled in fig 2.10). Don't forget the M5 bolts/T-nuts for the tensoner mount (fig 2.8). Note one hole on the tensioner mount should remain empty (fig 2.7). Insert the top and right extrusions through the tensioner but keep the tensioners bolts loose (fig 2.9). 
 
-    ![](img/02-MissingScrewInTensioner.jpeg)\
+    ![](img/03-MissingScrewInTensioner.jpeg)\
     *fig 2.7*
 
-    ![](img/02-TensonerAttach1.jpeg)\
+    ![](img/03-TensonerAttach1.jpeg)\
     *fig 2.8*
 
-    ![](img/02-TensonerAttach2.jpeg)\
+    ![](img/03-TensonerAttach2.jpeg)\
     *fig 2.9*
 
 
-    ![](img/02-SetupPlatesLoose.jpeg)\
+    ![](img/03-SetupPlatesLoose.jpeg)\
     *fig 2.10*
 
 
 
 2. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush against feet in the cutout section of the feet. This will be used to make sure the 496mm extrusion is exactly 20mm inset, when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner.
 
-    ![](img/02-lowerBracketTighten.jpeg)\
+    ![](img/03-lowerBracketTighten.jpeg)\
     *fig 2.11*
 
 
-    ![](img/02-BottomBrackets.jpeg)\
+    ![](img/03-BottomBrackets.jpeg)\
     *fig 2.12*
 
 6. using pipe clamp ... or 3rd and 4th arms compress uprights slightly

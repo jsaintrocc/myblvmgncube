@@ -2,7 +2,7 @@
 
 ## Assembly Instructions
 
-### Step 1 Build Y Rails
+### Step 2 Build Y Rails
 
 #### Parts
 
@@ -16,38 +16,38 @@
 
 #### Assembly
 
-1. Attach T-Nuts into every other hole of linear rail using M3 8mm socket head cap screws (See Fig 1.1). If there is an extra hole just double up at the end. Be careful not to let the carriages fall off the linear rails.
+1. Attach T-Nuts into every other hole of linear rail using M3 8mm socket head cap screws. If there is an extra hole just double up at the end. Be careful not to let the carriages fall off the linear rails.
     
-    ![](img/Step1mntYrails.jpeg)\
+    ![](img/02-LinRlWnuts.jpeg)\
     *fig 1.1*
 
-2. Mount a rail on one of the 2040 extrusions and center over the left channel using the two 2040 jigs to properly center it (See Fig 1.2).
+2. Mount a rail on one of the 2040 extrusions and center over the left channel using the two 2040 jigs to properly center it.
 
-    ![](img/Step2mntYrails.jpeg)\
+    ![](img/02-LinRExtWJigs.jpeg)\
     *fig 1.2*
 
-1. If your jigs are a little loose you can use some tape placed equally on both sides to tighten them up (See Fig 1.2b). (See Fig 1.2b).
+3. If your jigs are a little loose you can use some tape placed equally on both sides to tighten them up (See Fig 1.2 and Fig 1.3).
 
 
-    ![](img/Step2bmntYrails.jpeg)\
-    *fig 1.2b*
-
-
-1. Offset the top of the rail by 70mm (See Fig 1.3). This is because the pulleys at the back of the printer take up more space than the tensioner at the front.
-
-    ![](img/Step3mntYrails.jpeg)\
+    ![](img/02-JigTapeFix.jpeg)\
     *fig 1.3*
 
 
-1. Tighten the T-Nuts using the guides to make sure the linear rail remains centered over the channel (See Fig 1.4)
+4. Offset the top of the rail by 70mm. This is because the pulleys at the back of the printer take up more space than the tensioner at the front.
 
-    ![](img/Step4mntYrails.jpeg)\
+    ![](img/02-70mmOffset.jpeg)\
     *fig 1.4*
 
 
-1. Repeat the above steps to complete the right rail.
+5. Tighten the T-Nuts using the guides to make sure the linear rail remains centered over the channel.
 
-2. Here is what it should look like when you are done (See Fig 1.6)
+    ![](img/02-TightenRails.jpeg)\
+    *fig 1.5*
 
-    ![](img/01-LTRTRailsOnExtr.jpeg)\
+
+6. Repeat the above steps to complete the right rail.
+
+7. Here is what it should look like when you are done.
+
+    ![](img/02-LTRTRailsOnExtr.jpeg)\
     *fig 1.6*
