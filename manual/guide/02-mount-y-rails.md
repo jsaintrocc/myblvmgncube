@@ -2,12 +2,12 @@
 
 ## Assembly Instructions
 
-### Step 1
+### Step 1 Build Y Rails
 
 #### Parts
 
 * 18x M3 T-Nuts (Hammer Head/Drop In Style/)
-* 26x M3 8mm socket head cap screws (DIN912)
+* 18x M3 8mm socket head cap screws (DIN912)
 * 2x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame)
 * 2x 400mm linear rails
 * 2x 2040 Jigs (2040_Jig.stl)
@@ -44,14 +44,10 @@
     ![](img/Step4mntYrails.jpeg)\
     *fig 1.4*
 
-1. Attach the left bottom X mount to the linear rail using 4x M3 8mm screws (See Fig 1.5).
-
-    ![](img/Step5mntYrails.jpeg)\
-    *fig 1.5*
 
 1. Repeat the above steps to complete the right rail.
 
 2. Here is what it should look like when you are done (See Fig 1.6)
 
-    ![](img/Step6mntYrails.jpeg)\
+    ![](img/01-LTRTRailsOnExtr.jpeg)\
     *fig 1.6*
