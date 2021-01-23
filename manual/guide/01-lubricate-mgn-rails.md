@@ -1,30 +1,42 @@
-# Lubricate MGN Rails
+# My BLV MGN Cube - Assembly Instructions
 
-**WORK IN PROGRESS**
+##**_WORK IN PROGRESS_**
 
-## Supplies
-* Simple Green
-* Safety Glasses
-* Gloves
-* Shop towels
-* micro screw drivers
-* Little sealing mason jar
-* rare earth magnets (Optional)
-* Large plastic container (to catch balls trying to escape
-* Small sealing mason jar
-* small zip ties
-* compressed air
-* replacement bearings 3/23 Chrome steel G25
-* Super Lube Multi-Purpose Synthetic Grease NLG1 Grade 2
-* 99% rubbing alcohol
+## Step 1 Lubricate MGN Rails
+
+### Step 1 BoM
+
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
+
+### Step 1 Tools/Supplies
+
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Simple Green | 24oz | | [Amazon](https://www.amazon.com/dp/B00DORUJS4/ref=cm_sw_em_r_mt_dp_IfedGbJPYB5BC?_encoding=UTF8&psc=1) |
+| Safety Glasses | 1 | | [Amazon](https://www.amazon.com/dp/B00FA4RB12/ref=cm_sw_em_r_mt_dp_ddedGb94WENMS) |
+| Shop Towels | 1 | | [Amazon](https://www.amazon.com/dp/B004IUPAPI/ref=cm_sw_em_r_mt_dp_0hedGbPR64J1T) |
+| Precision Screwdriver Set | 1 | | [Amazon](https://www.amazon.com/dp/B0872T3BVF/ref=cm_sw_em_r_mt_dp_UkedGbBXYPA1E) |
+| Little Mason Jar | 2 | | |
+| Rare Earth Magnets | 2-3 | Completely Optional | |
+| Large Plastic Container | 1 | Size? | |
+| Small Zip Ties | Lots | | |
+| Compressed Air | 1 | | |
+| Spare 3/23 Bearings | 1 | Optional but good to have If you didn't ask for extra | |
+| Super Lube Multi-Purpose Synthetic Grease NLG1 Grade 2 | 1 | Size? | |
+| Rubbing Alcohol (99%) | ??oz | |
+
 
 ## Prep
+
 1. Put some simple green into the mason jar
 2. tape the magnets to the bottom of your plastic container
 3. Put a paper towel in the bottom of the container
 4. Put the simple green jar into the container
 
 ## Procedure
+
 1. Put some simple green into the mason jar
 1. remove plug from one end of rail, i popped it out with a small allen key on the other side of the rail
 1. Carefully slide carriage off of rail (Over plastic dish)
