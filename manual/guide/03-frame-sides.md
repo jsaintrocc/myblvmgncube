@@ -5,8 +5,10 @@
 ### Step 3 BoM
 #### Left Side
 
-* 47x M5 T-Nuts (Hammer Head/Drop In Style)
-* 47x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
+* 50x M5 T-Nuts (Hammer Head/Drop In Style)
+* 42x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
+* 4x M5 10mm (for Feet)
+* 4x M5 10mm (For tensioner)
 * 4x M3 8mm socket head cap bolts (DIN912)
 * 11x 2020 M5 Angle Brackets (Brackets) *see fig 2.0*
 * 4x 90 Degree Joining Plates (Plates) *see fig 2.0*
@@ -19,10 +21,12 @@
 
 #### Right Side
 
-* 47x M5 T-Nuts (Hammer Head/Drop In Style)
-* 47x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
+* 52x M5 T-Nuts (Hammer Head/Drop In Style)
+* 44x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
+* 4x M5 10mm (for Feet)
+* 4x M5 10mm (For tensioner)
 * 4x M3 8mm socket head cap bolts (DIN912)
-* 11x 2020 M5 Angle Brackets (Brackets) *see fig 2.0*
+* 12x 2020 M5 Angle Brackets (Brackets) *see fig 2.0*
 * 4x 90 Degree Joining Plates (Plates) *see fig 2.0*
 * 1x Right Y Rail (From last step)
 * 1x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame) 
@@ -43,9 +47,9 @@
 * 2x Plates
 * 4x M5 T-Nuts
 * 4x M5 8mm or 10mm socket button head screws
-* [24" Bar Clamp](https://www.amazon.com/dp/B000FA0BMC/ref=cm_sw_em_r_mt_dp_KXHcGbPA7MM33?_encoding=UTF8&psc=1) *Either this or a helper to help compress everything*
+* [30" Bar Clamp](https://www.amazon.com/Yost-Tools-F124-24-F-Clamp/dp/B078V3NB7N/ref=sr_1_9?dchild=1&keywords=bar%2Bclamp&qid=1611447936&sr=8-9&th=1) *Either this or a helper to help compress everything*
 
-#### Prep
+### Prep
 1. Measure brackets and find 4 that are close to 20mm on one side. Might have to file them down or add a little tape. You'll use these to correctly position your first joint so the closer to 20mm the better. Mark these 4 brackets with a Sharpie.
 
     ![](img/03-4bracketsLessThan20.jpeg)\
@@ -68,7 +72,7 @@
 
 5. Cover the surface in a large piece of craft paper to protect it. *Can't build a 3d printer if your significant other murders you for scratching their counter top with sharp edged extrusions*
 
-#### Assembly - Left Side
+### Assembly - Left Side
 
 1. Attach the frame feet to the 560mm (~22in) 2040 extrusions.
 
@@ -98,7 +102,7 @@
 
 
 
-4. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush against feet in the cutout section of the feet. This will be used to make sure the 496mm extrusion is exactly 20mm inset, when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner.
+4. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush against feet in the cutout section of the feet. This will be used to make sure the 496mm extrusion is inset exactly 20mm when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner.
 
     ![](img/03-lowerBracketTighten.jpeg)\
     *fig 2.11*
@@ -175,6 +179,7 @@
     ![](img/03-LTSideFinal.jpeg)\
     *fig 2.23*
 
-#### Assembly - Right Side
+### Assembly - Right Side
 1. Use the [Right Side BoM](#right-side) and repeat the [Assembly - Left Side](#assembly---left-side) instructions.
+2. One difference is that 12 brackets are used instead of 11. The corner with the tensioner takes 2 brackets for the right side.
 
