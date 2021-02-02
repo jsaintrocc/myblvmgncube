@@ -34,7 +34,7 @@
     ![](img/04-footFelt.jpeg)\
     *fig 4.1*
 
-1. Measure brackets and find 4 that are close to 20mm on one side. Might have to file them down or add a little tape. You'll use these to correctly position your first joint so the closer to 20mm the better. Mark these 4 brackets with a Sharpie.
+2. Measure brackets and find 4 that are close to 20mm on one side. Might have to file them down or add a little tape. You'll use these to correctly position your first joint so the closer to 20mm the better. Mark these 4 brackets with a Sharpie.
 
     ![](img/03-4bracketsLessThan20.jpeg)\
     *fig 4.2*
@@ -55,7 +55,7 @@
 
 ### Assembly
 
-3. Flush mount 1 bracket on each leg of the left frame side. *Will be used to attach the cross members*
+1. Flush mount 1 bracket on each leg of the left frame side. *Will be used to attach the cross members*
 
     ![](img/04-flushMountSide.jpeg)\
     *fig 4.5*
@@ -64,54 +64,54 @@
     ![](img/04-mountedLowerBrackets.jpeg)\
     *fig 4.6*
 
-4. Attach 1st cross member using the bar clap to keep it flush against frame side. Attach one of the plates and finger tighten the plates and brackets.
+2. Attach 1st cross member using the bar clap to keep it flush against frame side. Attach one of the plates and finger tighten the plates and brackets.
 
     ![](img/04-firstCrossMember.jpeg)\
     *fig 4.7*
 
-7. Check to make sure the cross member is square. Check multiple angles. It's fairly important to make sure its square as well as flush because you don't want to build tension in and possibly rack the cube at this point.
+3. Check to make sure the cross member is square. Check multiple angles. It's fairly important to make sure its square as well as flush because you don't want to build tension in and possibly rack the cube at this point.
 
     ![](img/04-CheckSquareLowerLt.jpeg)\
     *fig 4.8*
 
-8. Now that the cross member is square tighten down the plate and bracket in the following sequence
+4. Now that the cross member is square tighten down the plate and bracket in the following sequence
 
     ![](img/04-TightenLowerLt.jpeg)\
     *fig 4.9*
 
-9. Now that the 1st cross member is done, repeat for the steps above for other lower cross member.
+5. Now that the 1st cross member is done, repeat for the steps above for other lower cross member.
 
     ![](img/04-LeftBackCrossmember.jpeg)\
     *fig 4.10*
 
-11. Now lets move to the upper back crossmember. This is the corner without the tensioner. Temporarily attach one plate to the top rail to help with aligning the crossmember and attach another plate to the left side back extrusion.
+6. Now lets move to the upper back crossmember. This is the corner without the tensioner. Temporarily attach one plate to the top rail to help with aligning the crossmember and attach another plate to the left side back extrusion.
 
     ![](img/04-BackTopPlates.jpeg)\
     *fig 4.11*
 
-15. Now attach the last cross member and make sure it is square before tightening down only the back plate.
+7. Now attach the last cross member and make sure it is square before tightening down only the back plate.
 
     ![](img/04-AttachTopCrossMember.jpeg)\
     *fig 4.12*
 
 
-16. Add 2 brackets to reinforce the cross member and then put the left side and crossmembers on the floor. Shim up a corner to keep it from rocking.
+8. Add 2 brackets to reinforce the cross member and then put the left side and crossmembers on the floor. Shim up a corner to keep it from rocking.
 
     ![](img/04-TopCrossbraceOnFloor.jpeg)\
     *fig 4.13*
 
-17. Remove the helper plate.
+9. Remove the helper plate.
 
     ![](img/04-HelperPlateRemove.jpeg)\
     *fig 4.14*
 
-17. Here's what it should look like at this point.
+10. Here's what it should look like at this point.
 
 
     ![](img/04-LeftwCrossMembers.jpeg)\
     *fig 4.15*
 
-18. Flush mount 1 bracket on each leg of the right frame side. You shoud tighten these down. *Will be used to attach the cross members*
+11. Flush mount 1 bracket on each leg of the right frame side. You shoud tighten these down. *Will be used to attach the cross members*
 
     ![](img/04-flushMountSide.jpeg)\
     *fig 4.16*
@@ -120,19 +120,19 @@
     ![](img/04-mountedLowerBrackets.jpeg)\
     *fig 4.17*
 
-19. Carefully place the right side on top of the cross members and finger tighten the leg brackets to the cross members. * You'll be using the brackets and legs together to make everything flush*
+12. Carefully place the right side on top of the cross members and finger tighten the leg brackets to the cross members. * You'll be using the brackets and legs together to make everything flush*
 
     ![](img/04-RightSideBracket.jpeg)\
     *fig 4.18*
 
-19. Attach the plates that connect Right side to cross members. Try and keep things flush). *Note the pate attaches the the 2040 channel closest to the cross member and not the one closest to the other plate*
+13. Attach the plates that connect Right side to cross members. Try and keep things flush). *Note the pate attaches the the 2040 channel closest to the cross member and not the one closest to the other plate*
 
     ![](img/04-RightSideCrossPlate.jpeg)\
     *fig 4.19*
 
-20. Now tighten everything down making sure to keep everything as flush and square as possible. *I had to slightly adjust one cross member that didn't line up. I loosened as few bolts as possible and moved it closer. Still wasn't perfect but good enough.*
+14. Now tighten everything down making sure to keep everything as flush and square as possible. *I had to slightly adjust one cross member that didn't line up. I loosened as few bolts as possible and moved it closer. Still wasn't perfect but good enough.*
 
-21. Now go around and add any missing brackets. This is what it should look like when it's done. Now would be a good time to measure and verify angles as well. **One more step after the pictures**
+15. Now go around and add any missing brackets. This is what it should look like when it's done. Now would be a good time to measure and verify angles as well. **One more step after the pictures**
 
 
     ![](img/04-FrameFront.jpeg)\
@@ -150,7 +150,7 @@
     ![](img/04-FrameBottom.jpeg)\
     *fig 4.24*
 
-22. Last add the feet.
+16. Last add the feet.
 
     ![](img/04-MountedFoot.jpeg)\
     *fig 4.25*
