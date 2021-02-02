@@ -3,62 +3,66 @@
 ## Step 3 Build Frame Sides
 
 ### Step 3 BoM
-#### Left Side
 
-* 50x M5 T-Nuts (Hammer Head/Drop In Style)
-* 42x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
-* 4x M5 10mm (for Feet)
-* 4x M5 10mm (For tensioner)
-* 4x M3 8mm socket head cap bolts (DIN912)
-* 11x 2020 M5 Angle Brackets (Brackets) *see fig 2.0*
-* 4x 90 Degree Joining Plates (Plates) *see fig 2.0*
-* 1x Left Y Rail (From last step)
-* 1x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame) 
-* 2x 560mm (~22in) 2040 extrusions (Standard 365mm Z frame) 
-* 2x Frame Feet (blv-mgn-cube-foot.stl)
-* 1x Left bottom X mount (X_mount_-_Bottom_left.stl)
-* 1x Left tensioner mount (Left_Tensioner_-_mount.stl)
+#### Left Side Parts
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M5 T-Nuts | 46 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws | 42 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws | 4 | DIN912 (For tensioner) | |
+| M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| Left Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
+| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | 
+| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame |
 
-#### Right Side
+#### Right Side Parts
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M5 T-Nuts | 48 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws | 44 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws | 4 | DIN912 (For tensioner) | |
+| M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| Right Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
+| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame |
+| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame |
 
-* 52x M5 T-Nuts (Hammer Head/Drop In Style)
-* 44x M5 8mm (or 10mm with 22 washers for Brackets) socket button head bolts
-* 4x M5 10mm (for Feet)
-* 4x M5 10mm (For tensioner)
-* 4x M3 8mm socket head cap bolts (DIN912)
-* 12x 2020 M5 Angle Brackets (Brackets) *see fig 2.0*
-* 4x 90 Degree Joining Plates (Plates) *see fig 2.0*
-* 1x Right Y Rail (From last step)
-* 1x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame) 
-* 2x 560mm (~22in) 2040 extrusions (Standard 365mm Z frame) 
-* 2x Frame Feet (blv-mgn-cube-foot.stl)
-* 1x Right bottom X mount (X_mount_-_Bottom_right.stl)
-* 1x Right tensioner mount (Right_Tensioner_-_mount.stl)
+#### Printed Parts Left Side
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| X_mount_-_Bottom_left.stl | 1 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
+| Left_Tensioner_-_mount.stl| 1 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
 
-    ![](img/03-PlateVsBracket.jpeg)\
-    *fig 2.0*
+#### Printed Parts Right Side
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| X_mount_-_Bottom_right.stl | 1 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
+| Right_Tensioner_-_mount.stl| 1 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
 
 #### Tools
-* [Framing Square](https://www.amazon.com/dp/B086R74VLK/ref=cm_sw_em_r_mt_dp_X7GcGbRTDNAJY)
-* [M5 ball end tip screwdriver](https://www.amazon.com/dp/B0073T91II/ref=cm_sw_em_r_mt_dp_x9GcGbF16JR0Y) *Especially helpfull working with the brackets*
-* M3 allen key
-* 2x 440mm (~17.5in) 2040 Extrusion *used to support frame*
-* 2x 496mm (~19.5in) 2040 Extrusion *used to support frame*
-* 2x Plates
-* 4x M5 T-Nuts
-* 4x M5 8mm or 10mm socket button head screws
-* [30" Bar Clamp](https://www.amazon.com/Yost-Tools-F124-24-F-Clamp/dp/B078V3NB7N/ref=sr_1_9?dchild=1&keywords=bar%2Bclamp&qid=1611447936&sr=8-9&th=1) *Either this or a helper to help compress everything*
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Framing Square | 1 | | [Amazon](https://www.amazon.com/dp/B086R74VLK/ref=cm_sw_em_r_mt_dp_X7GcGbRTDNAJY) |
+| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://www.amazon.com/dp/B0073T91II/ref=cm_sw_em_r_mt_dp_x9GcGbF16JR0Y) |
+| M3 Allen Key | 1 | | |
+| 440mm (~17.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
+| 496mm (~19.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 2 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws | 4 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
+| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://www.amazon.com/Yost-Tools-F124-24-F-Clamp/dp/B078V3NB7N/ref=sr_1_9?dchild=1&keywords=bar%2Bclamp&qid=1611447936&sr=8-9&th=1) |
 
 ### Prep
+
 1. Measure brackets and find 4 that are close to 20mm on one side. Might have to file them down or add a little tape. You'll use these to correctly position your first joint so the closer to 20mm the better. Mark these 4 brackets with a Sharpie.
 
     ![](img/03-4bracketsLessThan20.jpeg)\
     *fig 2.1*
 
-2. Install 2x M5 10mm bolts and T-nuts on each frame foot and attach some felt to prevent scratches.
 
-    ![](img/03-FootWFeltSide.jpeg)\
-    *fig 2.2*
 
 3. Find a the flattest surfance in your house. Hint, If you have a granite counter top that's probably the best. Make sure it's clean and then use one of your pieces of extrusion as a straight edge and a piece of paper as a thickness guage. Try and slip a piece of paper under the extrusion in a couple of places to test for flatness. Test multiple directions. Probably won't be perfect but pick the best counter you have. This will be the surface you use to build the frame.
 
@@ -74,18 +78,12 @@
 
 ### Assembly - Left Side
 
-1. Attach the frame feet to the 560mm (~22in) 2040 extrusions.
-
-    ![](img/03-AttachFeet.jpeg)\
-    *fig 2.5*
-
-
-2. Arrange the spare extrusions, mentioned in the tools section, in a diamond. These will support the frame and keep it level even with the rails and the printed parts mounted on them.
+1. Arrange the spare extrusions, mentioned in the tools section, in a diamond. These will support the frame and keep it level even with the rails and the printed parts mounted on them.
 
     ![](img/03-CounterPrepWExt.jpeg)\
     *fig 2.6*
 
-3. Attach M5 bolts and T-nuts to the 4 plates and lay out the extrusions with the plates installed but not tightened. Also now is the time to position the tensoner mount (Circiled in fig 2.10). Don't forget the M5 bolts/T-nuts for the tensoner mount (fig 2.8). Note one hole on the tensioner mount should remain empty (fig 2.7). Insert the top and right extrusions through the tensioner but keep the tensioners bolts loose (fig 2.9). 
+2. Attach M5 bolts and T-nuts to the 4 plates and lay out the extrusions with the plates installed but not tightened. Also now is the time to position the tensoner mount (Circiled in fig 2.10). Don't forget the M5 bolts/T-nuts for the tensoner mount (fig 2.8). Note one hole on the tensioner mount should remain empty (fig 2.7). Insert the top and right extrusions through the tensioner but keep the tensioners bolts loose (fig 2.9). 
 
     ![](img/03-MissingScrewInTensioner.jpeg)\
     *fig 2.7*
@@ -102,9 +100,9 @@
 
 
 
-4. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush against feet in the cutout section of the feet. This will be used to make sure the 496mm extrusion is inset exactly 20mm when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner.
+3. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush with the bottom of the extrusion. You can use one of the other pieces of extrusion to help with this, see fig 2.11. This will be used to make sure the 496mm extrusion is inset exactly 20mm when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner. **_Ignore the blue feet in these pictures, I've moved that to a later step_**
 
-    ![](img/03-lowerBracketTighten.jpeg)\
+    ![](img/all-bracketAlign.jpeg)\
     *fig 2.11*
 
 

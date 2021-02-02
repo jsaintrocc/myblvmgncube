@@ -1,18 +1,26 @@
-# My BLV MGN Cube
+# My BLV MGN Cube - Assembly Instructions
 
-## Assembly Instructions
+## Step 2 Build Y Rails
 
-### Step 2 Build Y Rails
+### Step 2 BoM
 
-#### Parts
+#### Hardware
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 T-Nuts | 18 | Hammer Head/Drop In Style | |
+| M3 8mm Socket Head Cap Screws | 18 | DIN912 | |
+| 496mm (~19.5in) 2040 extrusions | 2 | from standard 365mm Z frame |
+| MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 
-* 18x M3 T-Nuts (Hammer Head/Drop In Style/)
-* 18x M3 8mm socket head cap screws (DIN912)
-* 2x 496mm (~19.5in) 2040 extrusions (Standard 365mm Z frame)
-* 2x 400mm linear rails
-* 2x 2040 Jigs (2040_Jig.stl)
-* 1x Left bottom X mount (X_mount_-_Bottom_left.stl)
-* 1x Right bottom X mount (X_mount_-_Bottom_right.stl)
+#### Printed Parts
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| 2040_Jig.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
+
+#### Tools
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 Allen Key | 1 | | |
 
 #### Assembly
 
