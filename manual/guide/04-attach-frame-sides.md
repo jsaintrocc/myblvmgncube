@@ -8,8 +8,8 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 T-Nuts | 74 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 62 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 12 | DIN912 (For tensioner) | |
+| M5 8mm Socket Button Head Screws | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws | 12 | DIN9427 (For tensioner) | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
 | 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | 

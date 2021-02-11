@@ -8,8 +8,8 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 T-Nuts | 46 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 42 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN912 (For tensioner) | |
+| M5 8mm Socket Button Head Screws | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
@@ -21,8 +21,8 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 T-Nuts | 48 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 44 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN912 (For tensioner) | |
+| M5 8mm Socket Button Head Screws | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
@@ -45,8 +45,8 @@
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| Framing Square | 1 | | [Amazon](https://www.amazon.com/dp/B086R74VLK/ref=cm_sw_em_r_mt_dp_X7GcGbRTDNAJY) |
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://www.amazon.com/dp/B0073T91II/ref=cm_sw_em_r_mt_dp_x9GcGbF16JR0Y) |
+| Framing Square | 1 | | [Amazon](https://amzn.to/3jx02xV) |
+| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
 | M3 Allen Key | 1 | | |
 | 440mm (~17.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
 | 496mm (~19.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |

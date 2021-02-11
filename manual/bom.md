@@ -55,6 +55,24 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
 | 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | 
 
+### Step 5
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M5 16mm Socket Button Head Screws | 2 | DIN9427 (Or M5 15mm) | |
+| M5 10mm Socket Button Head Screws | 6 | DIN9427 | |
+| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
+| M3 T-Nuts | 9 | Hammer Head/Drop In Style | |
+| M3 8mm Socket Head Cap Screws | 9 | DIN912 | |
+| M3 0.7~1mm washer | 12 | | |
+| M3 35mm Socket Head Cap Screws | 4 | DIN912 | |
+| M3 50mm Socket Head Cap Screws | 4 | DIN912 | |
+| 623zz Flanged Bearing | 8 | |
+| M3 Thin Square Nut | 4 | DIN562 | [Amazon](https://amzn.to/2MPCNTI) |
+| M3 Lock Nut | 2 | |
+| MGN12H 400mm Linear Rail | 1 | Quality ... Meh... | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
+| 460mm (~18in) 2020 extrusion | 1 | From standard 365mm Z frame |
+| 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -79,6 +97,13 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 |-----------|:--------:|---------|
 | FootLv2.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
 | FootRv2.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
+
+### Step 5
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| X_mount_-_Top_left.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_mount_-_Top_right.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
 
 ## Tools BoM
 
@@ -123,3 +148,11 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/2M6R1PJ) |
 | Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
 | 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3iT4TsL) |
+
+### Step 5
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
+| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 screwdriver | 1 | | |
+| Build plate | 1 | Used to square the X beam | |
