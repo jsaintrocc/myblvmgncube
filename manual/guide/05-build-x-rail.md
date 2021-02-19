@@ -1,6 +1,6 @@
 # My BLV MGN Cube - Assembly Instructions
 
-## Step 5 Build Y Axis
+## Step 5 Build X Rail
 
 ### Step 5 BoM
 
@@ -76,7 +76,7 @@
 
 5. Prepare the 2 bearing stacks for assembly. You'll be making a sandwich of washers and bearings. (washer->bottom flanged bearing->washer->top flanged bearing->washer)
 
-    ![](img/05-BearingStack.jpeg)\
+    ![](img/all-BearingStack.jpeg)\
     *fig 5.7*
 
 6. Insert the 2x M3 35mm screws into the left upper block and assemble the bearing stacks on them. *If you have particularly skinny washers (0.5mm) you should double them to make 1mm*

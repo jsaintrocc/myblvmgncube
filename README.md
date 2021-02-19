@@ -37,7 +37,7 @@ Parts are located in the following directories
 
 ## Print Settings
 
-Setting are currently here [Print Settings](printed_parts.md)
+Setting are currently here [Print Settings](manual/partsSettings.md)
 
 ## Bill of Materials
 

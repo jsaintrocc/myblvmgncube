@@ -25,3 +25,11 @@
 | `X_carriage_-_Top.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 3 | No | [Top_and_Bottom_Plate.3mf](../parts/prusaslicer/hotened/petg/Top_and_Bottom_Plate.3mf) |
 | `X_carriage_-_Front_plate.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 4 | No | [Top_and_Bottom_Plate.3mf](../parts/prusaslicer/hotened/petg/Top_and_Bottom_Plate.3mf) |
 | `X_carriage_-_Rear_plate.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 4 | No | [Top_and_Bottom_Plate.3mf](../parts/prusaslicer/hotened/petg/Top_and_Bottom_Plate.3mf) |
+
+### Tensioners
+| Part | Quantity | Material | Layer<br>Height<br>[mm] | Infill<br>[%] | Num.<br>Perimeters | Num.<br>Top/Bottom<br>Layers | Needs<br>Supports | 3mf File |
+|:--------------|:--:|:---:|:----:|:--:|:--:|:--:|:---:|:--------------------|
+| `Right_Tensioner_-_mount.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 3 | Yes | [Tensioner_Mounts.3mf](../parts/prusaslicer/xyaxis/petg/Tensioner_Mounts.3mf) |
+| `Left_Tensioner_-_mount.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 3 | Yes | [Tensioner_Mounts.3mf](../parts/prusaslicer/hotened/petg/Tensioner_Mounts.3mf) |
+| `Right_Tensioner_-_idler_holder.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 3 | Yes | [Tensioner_Wheels.3mf](../parts/prusaslicer/xyaxis/petg/Tensioner_Wheels.3mf) |
+| `Left_Tensioner_-_idler_holder.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 3 | Yes | [Tensioner_Wheels.3mf](../parts/prusaslicer/xyaxis/petg/Tensioner_Wheels.3mf) |
