@@ -27,8 +27,8 @@ Right_Tensioner_-_idler_holder.stl
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M3 screwdriver | 1 | | |
-| Blue Tape | 1 roll | | |
+| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
 
 ### Assembly
 
