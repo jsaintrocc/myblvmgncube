@@ -73,6 +73,23 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | 460mm (~18in) 2020 extrusion | 1 | From standard 365mm Z frame |
 | 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
+### Step 6
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M4 30mm Hex Head Screws | 2 | DIN???? | |
+| M4 Nuts | 2 | DIN??? | |
+| 623zz Flanged Bearing | 4 | |
+| M3 washers | 6 | double up if they are 0.5mm | |
+| M3 18mm Socket Head Cap Screws | 2 | DIN912 | |
+| Blue Tape | 1 roll | | |
+
+### Step 7
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 10mm Socket Head Cap Screws | 4 | DIN912 | |
+| M3 40mm Socket Head Cap Screws | 4 | DIN912 | |
+| M3 Nuts | 10 | DIN934 | |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -104,6 +121,22 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | X_mount_-_Top_left.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | X_mount_-_Top_right.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
+
+### Step 6
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| Right_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Left_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Right_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Left_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
+
+### Step 7
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| X_carriage_-_Bottom.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_Top.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_Front_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_Rear_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
 ## Tools BoM
 
@@ -156,3 +189,16 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
 | M3 screwdriver | 1 | | |
 | Build plate | 1 | Used to square the X beam | |
+
+### Step 6
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
+
+### Step 7
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3ujyctH) |
+| 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
+| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
