@@ -1,6 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Back Corners and Belt
 
-## Step 8 Partially Build Back Corners
+## Step 8 Build Y Axis
 
 ### Step 8 BoM
 
@@ -10,10 +10,11 @@
 | M5 10mm Socket Button Head Screws | 7 | DIN9427 | |
 | M5 T-Nuts | 7 | Hammer Head/Drop In Style | |
 | M3 0.7~1mm washer | 9 | Or double up of they are 0.5mm | |
-| M3 35mm Socket Head Cap Screws | 5 | DIN912 | |
+| M3 35mm Socket Head Cap Screws | 8 | DIN912 | |
 | 623zz Flanged Bearing | 6 | |
+| M3 Lock Nut | 3 | |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
-| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
+| GT2 16T Stepper Pulley | 1 | 5mm bore |
 
 #### Hardware Right Block
 | Parts     | Quantity | Details | Example Links |
@@ -21,23 +22,28 @@
 | M5 10mm Socket Button Head Screws | 6 | DIN9427 | |
 | M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
 | M3 0.7~1mm washer | 9 | Or double up of they are 0.5mm | |
-| M3 35mm Socket Head Cap Screws | 3 | DIN912 | |
-| M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
+| M3 35mm Socket Head Cap Screws | 2 | DIN912 | |
+| M3 25mm Socket Head Cap Screws | 3 | DIN912 | |
 | 623zz Flanged Bearing | 6 | |
+| M3 Lock Nut | 3 | |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
-| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
+| GT2 16T Stepper Pulley | 1 | 5mm bore |
 
 
 #### Printed Parts Left Block
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
+| Left_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Left_corner_-_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Left_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
 #### Printed Parts Right Block
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
+| Right_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Right_corner_-_Block.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Right_corner_-_bottom_aux.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Right_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
@@ -139,26 +145,13 @@
 
 13. Set the Right pulley on the Stepper according to the measurement and carefully tighten. Don't overtighten!! Stripping set screws is no fun.
 
-    ![](img/08-35mmWSpacer.jpeg)\
-    *fig 8.19*
-
     ![](img/08-RTPulleyAdjustment.jpeg)\
-    *fig 8.20*
+    *fig 8.19*
 
 14. Temporarily attach the right stepper to the bottom block using 3x M3 25mm with M3 nuts as spacers.
 
-    ![](img/08-25mmWSpacer.jpeg)\
-    *fig 8.21*
-
-    ![](img/08-RTStepperAttach.jpeg)\
-    *fig 8.22*
-
-15. Here's what it should look like when this step is done.
-
-    ![](img/08-Final.jpeg)\
-    *fig 8.23*
-
-
+    ![](img/08-LTStepperAttach.jpeg)\
+    *fig 8.17*
 
 
 
