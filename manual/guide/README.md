@@ -7,7 +7,7 @@
 3. [Build Frame Sides](03-frame-sides.md)
 4. [Attach Frame Sides](04-attach-frame-sides.md)
 5. [Build X Rail](05-build-x-rail.md)
-6. [Build Tesnsoners](06-build-tensioners.md)
+6. [Build Tensioners](06-build-tensioners.md)
 7. [Partially Build Extruder Carraiage](07-extruder-carraige-a.md)
 8. [Partially Build Back Corners](08-back-corners-a.md)
 9. [Install Belts](09-belts.md)
