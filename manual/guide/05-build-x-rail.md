@@ -17,7 +17,7 @@
 | M3 50mm Socket Head Cap Screws | 4 | DIN912 | |
 | 623zz Flanged Bearing | 8 | |
 | M3 Thin Square Nut | 4 | DIN562 | [Amazon](https://amzn.to/2MPCNTI) |
-| M3 Lock Nut | 2 | |
+| M3 Lock Nut | 2 | DIN934 | |
 | MGN12H 400mm Linear Rail | 1 | Quality ... Meh... | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 | 460mm (~18in) 2020 extrusion | 1 | From standard 365mm Z frame |
 | 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
