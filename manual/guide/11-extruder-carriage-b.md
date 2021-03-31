@@ -13,10 +13,14 @@
 | M2 15mm Philips Pan Head Screws | 2 | DIN7985 | |
 | M2 Nuts | 2 | DIN934 | |
 | M3 14mm Socket Head Cap Screws | 1 | DIN912 | |
+| M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
 | Heat Shrink Tubing | 10mm | Enough to cover 3 Pins <BR>of a JST-XH Male Connector | |
 | M3 Nuts | 1 | DIN934 | |
+| M3 Lock Nut | 1 | DIN934 | |
+| M3 Washers | 2 | | |
 | Male 3 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 | 3mm x 10.16cm zip ties (4in)  | 1-9 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+| 5015 Blower fan | 1 | 24V Ball Bearings | [Aliexpress](https://s.click.aliexpress.com/e/_A9XEXg) |
 
 
  
@@ -25,6 +29,7 @@
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
 | X_carriage_-_modified_MK3_fan_blower.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_Fan_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
@@ -34,6 +39,7 @@
 | Threadlocker | 0.2 Fl. Oz | Blue (removable) formula | [Amazon](https://amzn.to/3w539Tr) |
 | M3 screwdriver | 1 | | |
 | Small Philips screwdriver |1 | | |
+| M3 Nut Wrench | 1 | Or small Needle Nose Pliers | |
 
 ### Prep
 
@@ -104,3 +110,32 @@
 
     ![](img/11-TrimBelts.jpeg)\
     *fig 11.14*
+
+10. Insert the 2xM3 25mm Socket Head Cap Screws, with washers, into the 5015 blower fan.
+
+    ![](img/11-screwsInBlower.jpeg)\
+    *fig 11.15*
+
+11. Put the Fan mount over the screw ends.
+
+    ![](img/11-addFanMount.jpeg)\
+    *fig 11.16*
+
+12. Secure the screw closest to the blower opening with a lock nut. *Don't overtighten or you will damage the fan*
+
+    ![](img/11-lockNutFanMount.jpeg)\
+    *fig 11.17*
+
+13. Attach the blower fan to the X carraige and blower duct. Make sure the mouth of the blower is inserted into the duct correctly. *Don't overtighten or you will damage the fan*
+
+    ![](img/11-attachBlowerFan.jpeg)\
+    *fig 11.18*
+
+14. Secure the blower fan and limit switch wire with a zip tie and the mount point on the back x carrage plate. Leave a little slack on the blower wire but make sure it doesn't run into the linear rail mount when the carriage is all the way to the left.
+
+    ![](img/11-FanCableCleanup.jpeg)\
+    *fig 11.19*
+
+
+
+

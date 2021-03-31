@@ -12,4 +12,4 @@
 8. [Partially Build Back Corners](08-back-corners-a.md)
 9. [Install Belts](09-belts.md)
 10. [Finish Building Back Corners](10-back-corners-b.md)
-11. [Finish Building Extruder Carrage](11-extruder-carriage-b.md)
+11. [Finish Building Extruder Carriage](11-extruder-carriage-b.md)

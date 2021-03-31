@@ -10,7 +10,7 @@
 | M5 10mm Socket Button Head Screws | 6 | DIN9427 | |
 | M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
 | M3 35mm Socket Head Cap Screws | 1 | DIN912 | |
-| M3 locking nut | 6 | |
+| M3 Lock Nuts | 6 | DIN934 | |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
