@@ -9,9 +9,9 @@
 |-----------|:--------:|---------|---------------|
 | M5 10mm Socket Button Head Screws | 7 | DIN9427 | |
 | M5 T-Nuts | 7 | Hammer Head/Drop In Style | |
-| M3 0.7~1mm washer | 9 | Or double up of they are 0.5mm | |
+| M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
 | M3 35mm Socket Head Cap Screws | 5 | DIN912 | |
-| 623zz Flanged Bearing | 6 | |
+| 623zz Flanged Bearing | 6 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
 | GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
 
@@ -20,10 +20,10 @@
 |-----------|:--------:|---------|---------------|
 | M5 10mm Socket Button Head Screws | 6 | DIN9427 | |
 | M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
-| M3 0.7~1mm washer | 9 | Or double up of they are 0.5mm | |
+| M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
 | M3 35mm Socket Head Cap Screws | 3 | DIN912 | |
 | M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
-| 623zz Flanged Bearing | 6 | |
+| 623zz Flanged Bearing | 6 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
 | GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
 
@@ -42,10 +42,10 @@
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 screwdriver | 1 | | |
-| 2mm Allen Wrench | 1 | For pulley | |
-| M3 Nuts | 11 | 6 to temporarily secure the idlers, 5 to temporarily attach motors | |
+| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| 2mm Allen Wrench | 1 | For pulley | [Amazon](https://amzn.to/3qNmEgs) |
+| M3 Nuts | 11 | DIN934 6 to temporarily secure the idlers, 5 to temporarily attach motors | |
 
 ### Prep
 1. Install 4x M5 10mm screws and T-nuts in the left corner block.

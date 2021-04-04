@@ -14,7 +14,7 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
-| M3 screwdriver | 1 | | |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
 ### Assembly
 1. Thread the end of the belt through the front left opening on the X-carriage. A zip tie can be handy to guide the belt through the hole. Stick the zip tie into the hole far enough that it bends and goes parallel to the extrusion. Then thread the belt along the zip tie and out the hole.

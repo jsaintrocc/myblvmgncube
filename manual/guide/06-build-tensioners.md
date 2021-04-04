@@ -7,12 +7,11 @@
 #### Hardware
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M4 30mm Hex Head Screws | 2 | DIN???? | |
-| M4 Nuts | 2 | DIN??? | |
-| 623zz Flanged Bearing | 4 | |
-| M3 washers | 6 | double up if they are 0.5mm | |
+| M4 30mm Hex Head Screws | 2 | DIN933 | |
+| M4 Nuts | 2 | DIN934 | |
+| 623zz Flanged Bearing | 4 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
+| M3 Washers | 6 | DIN125 double up if they are 0.5mm | |
 | M3 18mm Socket Head Cap Screws | 2 | DIN912 | |
-| Blue Tape | 1 roll | | |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -22,12 +21,10 @@
 | Right_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Left_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
-Right_Tensioner_-_idler_holder.stl
-
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
 
 ### Assembly

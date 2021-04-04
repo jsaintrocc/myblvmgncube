@@ -14,18 +14,18 @@
 
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| Simple Green | 24oz | | [Amazon](https://www.amazon.com/dp/B00DORUJS4/ref=cm_sw_em_r_mt_dp_IfedGbJPYB5BC?_encoding=UTF8&psc=1) |
-| Safety Glasses | 1 | | [Amazon](https://www.amazon.com/dp/B00FA4RB12/ref=cm_sw_em_r_mt_dp_ddedGb94WENMS) |
-| Shop Towels | 1 | | [Amazon](https://www.amazon.com/dp/B004IUPAPI/ref=cm_sw_em_r_mt_dp_0hedGbPR64J1T) |
-| Precision Screwdriver Set | 1 | | [Amazon](https://www.amazon.com/dp/B0872T3BVF/ref=cm_sw_em_r_mt_dp_UkedGbBXYPA1E) |
-| Little Mason Jar | 2 | | |
-| Rare Earth Magnets | 2-3 | Completely Optional | |
-| Large Plastic Container | 1 | Size? | |
-| Small Zip Ties | Lots | | |
-| Compressed Air | 1 | | |
-| Spare 3/23 Bearings | 1 | Optional but good to have If you didn't ask for extra | |
-| Super Lube Multi-Purpose Synthetic Grease NLG1 Grade 2 | 1 | Size? | |
-| Rubbing Alcohol (99%) | ??oz | |
+| Simple Green | 24oz | | [Amazon](https://amzn.to/3fB6eox) |
+| Safety Glasses | 1 | | [Amazon](https://amzn.to/39I7W3M) |
+| Shop Towels | 1 | | [Amazon](https://amzn.to/3fBgsFv) |
+| Precision Screwdriver Set | 1 | | [Amazon](https://amzn.to/3fDZgyZ) |
+| Little Mason Jar | 2 | | [Amazon](https://amzn.to/3fJf7fJ) |
+| Rare Earth Magnets | 2-3 | Completely Optional | [Amazon](https://amzn.to/2PzUrMD) |
+| Plastic Container | 1 | Whatever you have | [Amazon](https://amzn.to/39IcuHo) |
+| 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+| Compressed Air | 1 Can | | [Amazon](https://amzn.to/3umXBSO) |
+| Spare 3/32" Bearings | 10 or more | Optional but good to have If you didn't ask for extra | [Amazon](https://amzn.to/3ujElVZ) |
+| Super Lube Multi-Purpose Synthetic Grease NLG1 Grade 2 | 1 Tube | | [Amazon](https://amzn.to/3dxe5kj) |
+| Rubbing Alcohol (99%) | 16 Fl. Oz. | [Amazon](https://amzn.to/39G8UNU) |
 
 
 ## Prep
@@ -48,11 +48,10 @@
    4. Use spray air to quickly dry the alcohol
    5. Spray the rail with silicone lubricant and wipe off excess
    6. set aside to dry
-   
 1. Now go back to the carriage
 1. Remove red seal with micro driver and philips bit PZ00 and put in simple green jar
 1. Carefully remove wire retainers (Note ball bearings will now fall out) briefly rinse in simple green and then put on paper towel
-   Note: there are 66 bearing per carriage 33 per side (But it's not really going to matter
+   Note: there are 66 bearing per carriage 33 per side (But it's not really going to matter)
 1. Rinse wires in jar of alcohol and set aside
 1. Remove green plugs gently (There are too parts to each green plug make sure to separate them) put in simple green jar
 1. Carefully remove any remaining bearings and set aside (Maybe they're good? In any case can probably use them as spares)
@@ -67,5 +66,6 @@
 1. Push in with finger
 1. Now using tweesers push bearing into bearing return one at a time. This will get tough as the grease will be pushed out the other end.
 1. You've loaded all 33 bearings when there is one space left. 
+2. Put the carriage back on the rail and use some zip ties through the mounting holes to keep it from sliding off.
 
 Source: https://clevercreations.eu/clean-repair-linear-guide-rails/

@@ -9,7 +9,7 @@
 |-----------|:--------:|---------|---------------|
 | M3 T-Nuts | 18 | Hammer Head/Drop In Style | |
 | M3 8mm Socket Head Cap Screws | 18 | DIN912 | |
-| 496mm (~19.5in) 2040 extrusions | 2 | from standard 365mm Z frame |
+| 496mm (~19.5in) 2040 Extrusions | 2 | from standard 365mm Z frame |
 | MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 
 #### Printed Parts
@@ -20,12 +20,12 @@
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M3 Allen Key | 1 | | |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
 #### Assembly
 
 1. Attach T-Nuts into every other hole of linear rail using M3 8mm socket head cap screws. If there is an extra hole just double up at the end. Be careful not to let the carriages fall off the linear rails.
-    
+
     ![](img/02-LinRlWnuts.jpeg)\
     *fig 1.1*
 

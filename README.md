@@ -2,52 +2,43 @@
 
 ## Table of contents
   1. [Introduction](#introduction)
-  1. [Printed parts](#printed-parts)
-  1. [Print settings](#print-settings)
-  1. [Bill of materials](#bill-of-materials)
-  1. [Manual](#manual)
-  1. [Images](#images)
-  1. [Source](#source)
+  2. [Bill of materials](manual/bom.md)
+  3. [Printed parts](parts/README.md)
+  4. [Print settings](manual/partsSettings.md)
+  5. [Assembly Guide](manual/guide/README.md)
   1. [License](#license)
   1. [Credit and inspiration](#credit-and-inspiration)
-
 
 ## Disclaimer
 **WORK IN PROGRESS**
 
-I'm in the process of building my first Cube so directions will probably change as I figure things out. Definitely consult other sources and double check what I'm saying at ever step.
+I'm in the process of building my first Cube so directions will probably change as I figure things out. Definitely consult other sources and double check what I'm saying at every step.
 
 ## Introduction
 This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by Ben Levi. My goal is to provide a guide that others can follow to build their own cubes. This guide, at least initally, will provide instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
 
+### Current Build Picture
+![Current Progress](manual/guide/img/all-CurrentBuild.jpeg)
+
 ### My Build Specifications
 * Standard 365mm build height frame (The one listed on BLV's site)
+* E3D V6 Cloned Hotend
 * BLTouch ABL probe
 * SKR v1.4 controller
 * TMC2208 stepper drivers
 * TFT35 LCD touch screen
 
-
-## Printed Parts
-Parts are located in the following directories
-
-* Original Parts: [/parts/source/](parts/source)
-* Remixed Parts: [/parts/remixed/](parts/remixed) *working on separating out original step files right now*
-* Community Parts: [/parts/extra/](parts/extra) *improved parts from community members that are I used*
-
-## Print Settings
-
-Setting are currently here [Print Settings](manual/partsSettings.md)
-
 ## Bill of Materials
-
 [Read the BoM here](manual/bom.md)
 
-## Manual
+## Printed Parts
+[Printed parts](parts/README.md)
 
-The manual contains bill of materials (BOM), print settings and assembly instructions.
+## Print Settings
+[Print Settings](manual/partsSettings.md)
 
-[Read the manual here](manual/README.md)
+## Assembly Guide
+[Assembly Guide](manual/guide/README.md)
 
 ## License
 

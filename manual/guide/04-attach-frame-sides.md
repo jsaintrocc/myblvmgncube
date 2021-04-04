@@ -10,9 +10,9 @@
 | M5 T-Nuts | 74 | Hammer Head/Drop In Style | |
 | M5 8mm Socket Button Head Screws | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
 | M5 10mm Socket Button Head Screws | 12 | DIN9427 (For tensioner) | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
-| 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | 
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://amzn.to/3rOTwoo) |
+| 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -24,9 +24,9 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | Framing Square | 1 | | [Amazon](https://amzn.to/39Z2RTU) |
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/2M6R1PJ) |
+| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
 | Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
-| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3iT4TsL) |
+| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
 
 ### Prep
 1. Install 3x M5 10mm bolts and T-nuts on each frame foot and attach some felt to prevent scratches.

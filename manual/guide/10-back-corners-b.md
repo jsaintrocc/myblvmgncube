@@ -23,8 +23,8 @@
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 screwdriver | 1 | | |
+| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
 ### Prep
 1. Install 3x M5 10mm screws and T-nuts on the left and right corner tops.

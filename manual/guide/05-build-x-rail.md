@@ -12,10 +12,10 @@
 | M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
 | M3 T-Nuts | 9 | Hammer Head/Drop In Style | |
 | M3 8mm Socket Head Cap Screws | 9 | DIN912 | |
-| M3 0.7~1mm washer | 12 | | |
+| M3 Washers | 12 | DIN125 double up if they are 0.5mm | |
 | M3 35mm Socket Head Cap Screws | 4 | DIN912 | |
 | M3 50mm Socket Head Cap Screws | 4 | DIN912 | |
-| 623zz Flanged Bearing | 8 | |
+| 623zz Flanged Bearing | 8 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
 | M3 Thin Square Nut | 4 | DIN562 | [Amazon](https://amzn.to/2MPCNTI) |
 | M3 Lock Nut | 2 | DIN934 | |
 | MGN12H 400mm Linear Rail | 1 | Quality ... Meh... | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
@@ -33,10 +33,9 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | Build plate | 1 | Used to square the X beam | |
-
 
 ### Prep
 1. Install M5 8mm screws and T-nuts in the top blocks.

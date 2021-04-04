@@ -11,11 +11,11 @@
 | M5 8mm Socket Button Head Screws | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
 | M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
 | Left Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | 
-| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame |
+| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | |
+| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame | |
 
 #### Right Side Parts
 | Parts     | Quantity | Details | Example Links |
@@ -24,11 +24,11 @@
 | M5 8mm Socket Button Head Screws | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
 | M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://www.amazon.com/dp/B07GGLYX9V/ref=cm_sw_em_r_mt_dp_YZedGbMJETNH6?_encoding=UTF8&psc=1) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
 | Right Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame |
-| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame |
+| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | |
+| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame | |
 
 #### Printed Parts Left Side
 | Parts     | Quantity | Details |
@@ -46,14 +46,14 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | Framing Square | 1 | | [Amazon](https://amzn.to/3jx02xV) |
-| M5 ball end tip screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 Allen Key | 1 | | |
+| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | 440mm (~17.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
 | 496mm (~19.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 2 | | [Amazon](https://www.amazon.com/dp/B07RW2Z941/ref=cm_sw_em_r_mt_dp_U1edGbVK1DXZ4) |
+| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 2 | | [Amazon](https://amzn.to/3rOTwoo) |
 | M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
 | M5 8mm Socket Button Head Screws | 4 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
-| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://www.amazon.com/Yost-Tools-F124-24-F-Clamp/dp/B078V3NB7N/ref=sr_1_9?dchild=1&keywords=bar%2Bclamp&qid=1611447936&sr=8-9&th=1) |
+| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
 
 ### Prep
 

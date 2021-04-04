@@ -22,7 +22,7 @@
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M3 screwdriver | 1 | | [Amazon](https://amzn.to/3ujyctH) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
 | Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
 

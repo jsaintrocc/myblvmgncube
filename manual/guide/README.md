@@ -1,4 +1,4 @@
-# Assembly Guide (My BLV MGN)
+# MY BLV MGN Cube - Assembly Guide
 
 ## Table of Content
 
