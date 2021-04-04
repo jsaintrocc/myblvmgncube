@@ -7,7 +7,7 @@
   4. [Print settings](manual/partsSettings.md)
   5. [Assembly Guide](manual/guide/README.md)
   1. [License](#license)
-  1. [Credit and inspiration](#credit-and-inspiration)
+  1. [Credits and inspiration](#credits-and-inspiration)
 
 ## Disclaimer
 **WORK IN PROGRESS**
@@ -44,8 +44,8 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 
 Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-## Credits and inspration
-This work is based on the [BLV mgn Cube - 3d printer](https://www.thingiverse.com/thing:3382718) by [Ben Levi](https://www.facebook.com/blevi?fref=gs&dti=371460246914851&hc_location=group_dialog) and is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).  Any modified files will be clearly labelled.
+## Credits and inspiration
+This work is based on the [BLV mgn Cube - 3d printer](https://www.blvprojects.com/blv-mgn-cube-3d-printer) graciously donated the the community by [Ben Levi](https://www.facebook.com/blevi?fref=gs&dti=371460246914851&hc_location=group_dialog) and is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).  Any modified files will be clearly labelled.
 
 Lots of tips and pointers from watching [Fugatech3D's live stream on his build](https://www.youtube.com/user/fuganater987)
 
