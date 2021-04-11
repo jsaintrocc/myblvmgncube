@@ -152,6 +152,16 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | PTFE Tubing | 1m |  1.9mm ID 4mm OD Capricorn Clone W/Cutter | [Aliexpress](https://s.click.aliexpress.com/e/_Anh45s) |
 | 3mm x 10.16cm zip ties (4in)  | 2 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
+### Step 12
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| 496mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
+| 442mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
+| M5 8mm Socket Button Head Screws | 48 | DIN9427 | |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | |
+| M5 T-Nuts | 50 | Hammer Head/Drop In Style | |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -227,6 +237,13 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | X_carriage_-_V6_Locker_BL-touch.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | X_carriage_-_Cable_locker.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl | 1 | [Printed Parts Settings](../partsSettings) |
+
+### Step 12
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| Z_rail_stopper_-_Top_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_rail_stopper_-_Top_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings) |
 
 ## Tools BoM
 
@@ -324,4 +341,12 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
 | Butane Mini Torch | 1 | | [Amazon](https://amzn.to/2R3ymGG) |
 
-
+### Step 12
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M5 Allen Key | 1 | Need an Allen Key for the tight spaces | [Amazon](https://amzn.to/3qNmEgs) |
+| Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
+| Flat Corner Braces | 4 | As long at it fits an M5 size isn't really important | [Aliexpress](https://s.click.aliexpress.com/e/_A0mpPm Brackets) [Home Depot](https://www.homedepot.com/p/Everbilt-2-1-2-in-Zinc-Plated-Flat-Corner-Brace-4-Pack-15295/202034147) |
+| Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
+| M5 8mm Socket Button Head Screws | 16 | DIN9427 (Temporary) | |
+| M5 T-Nuts | 16 | Hammer Head/Drop In Style (Temporary) | |
