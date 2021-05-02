@@ -14,7 +14,7 @@ LDO would be my 1st pick followed by Robodigg and last would be CNA. For CNA I'd
 |-----------|---------|-------|---------------|
 | MGN12H 400mm Linear Rail | [CNA/RDBB](img/CNAManufacturer.JPG) (Cheap Cheap Cheap) | $20.92 | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 | SS-MGN12-1H-400mm | RobotDigg (Middle Quality) | $34.20 | [Aliexpress](https://s.click.aliexpress.com/e/_AA8VKF) |
-| LDO-MGN12H | LDO (Best Quality) | $34.80 (Free ship over $60) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) |
+| LDO-MGN12H | LDO (Best Quality) | $34.80 (Free ship over $60) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) [Filastruder](https://www.filastruder.com/products/ldo-linear-rails) |
 
 
 ### Tools I used
