@@ -14,3 +14,4 @@
 10. [Finish Building Back Corners](10-back-corners-b.md)
 11. [Finish Building Extruder Carriage](11-extruder-carriage-b.md)
 12. [Build Z-Axis Frame](12-z-axis-frame.md)
+13. [Build Z Rails and Motors](13-z-rails-motors.md)

@@ -30,6 +30,7 @@
 | Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
 | M5 8mm Socket Button Head Screws | 16 | DIN9427 (Temporary) | |
 | M5 T-Nuts | 16 | Hammer Head/Drop In Style (Temporary) | |
+| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
 
 ### Prep
 1. Print 1 main jig in PLA

@@ -10,7 +10,7 @@
 | M3 T-Nuts | 18 | Hammer Head/Drop In Style | |
 | M3 8mm Socket Head Cap Screws | 18 | DIN912 | |
 | 496mm (~19.5in) 2040 Extrusions | 2 | from standard 365mm Z frame |
-| MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
+| MGN12H 400mm Linear Rail | 2 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
