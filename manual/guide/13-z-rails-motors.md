@@ -81,7 +81,7 @@
 
 5. Attach the Left motor mount at the intersection of the 442mm Z Extrusion and the 496mm left side horizontal extrusion.
 
-    ![](img/13-AttachMgnMount.JPG)\
+    ![](img/13-AttachLeftMotorMount.JPG)\
     *fig 13.10*
 
 6. Attach the left Z stepper motor to the motor mount using 4x M3 12mm screws and washers.
