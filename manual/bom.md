@@ -109,7 +109,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | M3 35mm Socket Head Cap Screws | 3 | DIN912 | |
 | M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
 | 623zz Flanged Bearing | 6 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
-| XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
+| XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S1 | |
 | GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
 
 ### Step 9
