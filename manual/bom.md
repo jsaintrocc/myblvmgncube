@@ -89,7 +89,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | M3 40mm Socket Head Cap Screws | 4 | DIN912 | |
 | M3 Nuts | 10 | DIN934 | |
 
-#### Step 8 Left Block
+### Step 8 Left Block
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 10mm Socket Button Head Screws | 7 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
@@ -101,7 +101,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-8v-42x42x48mm-4-wires-full-d-cut-shaft.html?search=17HM19-2004S) |
 | GT2 Pulley | 1 | 16 Tooth W/5mm bore | [AliExpress](https://s.click.aliexpress.com/e/_9y5zje) |
 
-#### Step 8 Right Block
+### Step 8 Right Block
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
