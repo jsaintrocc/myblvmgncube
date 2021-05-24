@@ -9,7 +9,7 @@
 |-----------|:--------:|---------|---------------|
 | M5 T-Nuts | 46 | Hammer Head/Drop In Style | |
 | M5 8mm Socket Button Head Screws | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
+| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://amzn.to/3rRVq7U) |
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
@@ -22,7 +22,7 @@
 |-----------|:--------:|---------|---------------|
 | M5 T-Nuts | 48 | Hammer Head/Drop In Style | |
 | M5 8mm Socket Button Head Screws | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
+| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://amzn.to/3rRVq7U) |
 | [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
@@ -64,7 +64,7 @@
 
 
 
-3. Find a the flattest surfance in your house. Hint, If you have a granite counter top that's probably the best. Make sure it's clean and then use one of your pieces of extrusion as a straight edge and a piece of paper as a thickness guage. Try and slip a piece of paper under the extrusion in a couple of places to test for flatness. Test multiple directions. Probably won't be perfect but pick the best counter you have. This will be the surface you use to build the frame.
+3. Find a the flattest surface in your house. Hint, If you have a granite counter top that's probably the best. Make sure it's clean and then use one of your pieces of extrusion as a straight edge and a piece of paper as a thickness gauge. Try and slip a piece of paper under the extrusion in a couple of places to test for flatness. Test multiple directions. Probably won't be perfect but pick the best counter you have. This will be the surface you use to build the frame.
 
     ![](img/03-TestFlatSurface.jpeg)\
     *fig 2.3*
@@ -83,7 +83,7 @@
     ![](img/03-CounterPrepWExt.jpeg)\
     *fig 2.6*
 
-2. Attach M5 bolts and T-nuts to the 4 plates and lay out the extrusions with the plates installed but not tightened. Also now is the time to position the tensoner mount (Circiled in fig 2.10). Don't forget the M5 bolts/T-nuts for the tensoner mount (fig 2.8). Note one hole on the tensioner mount should remain empty (fig 2.7). Insert the top and right extrusions through the tensioner but keep the tensioners bolts loose (fig 2.9). 
+2. Attach M5 bolts and T-nuts to the 4 plates and lay out the extrusions with the plates installed but not tightened. Also now is the time to position the tensioner mount (Circled in fig 2.10). Don't forget the M5 bolts/T-nuts for the tensioner mount (fig 2.8). Note one hole on the tensioner mount should remain empty (fig 2.7). Insert the top and right extrusions through the tensioner, but keep the tensioner's bolts loose (fig 2.9).
 
     ![](img/03-MissingScrewInTensioner.jpeg)\
     *fig 2.7*

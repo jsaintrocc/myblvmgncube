@@ -10,7 +10,7 @@
 | 496mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
 | 442mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
 | M5 8mm Socket Button Head Screws | 48 | DIN9427 | |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M5 T-Nuts | 50 | Hammer Head/Drop In Style | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
 

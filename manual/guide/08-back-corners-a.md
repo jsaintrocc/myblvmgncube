@@ -7,28 +7,27 @@
 #### Hardware Left Block
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M5 10mm Socket Button Head Screws | 7 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 10mm Socket Button Head Screws | 7 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M5 T-Nuts | 7 | Hammer Head/Drop In Style | |
 | M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
 | M3 35mm Socket Head Cap Screws | 5 | DIN912 | |
 | M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
-| 623zz Flanged Bearing | 6 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
+| 623zz Flanged Bearing | 6 | | [AliExpress](https://s.click.aliexpress.com/e/_AdhoaW) |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-8v-42x42x48mm-4-wires-full-d-cut-shaft.html?search=17HM19-2004S) |
 | GT2 Pulley | 1 | 16 Tooth W/5mm bore | [AliExpress](https://s.click.aliexpress.com/e/_9y5zje) |
 
 #### Hardware Right Block
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
 | M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
 | M3 35mm Socket Head Cap Screws | 3 | DIN912 | |
 | M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
 | M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
-| 623zz Flanged Bearing | 6 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
+| 623zz Flanged Bearing | 6 | | [AliExpress](https://s.click.aliexpress.com/e/_AdhoaW) |
 | XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
-| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [Aliexpres](https://s.click.aliexpress.com/e/_9y5zje) |
-
+| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [AliExpress](https://s.click.aliexpress.com/e/_9y5zje) |
 
 #### Printed Parts Left Block
 | Parts     | Quantity | Details |

@@ -8,7 +8,7 @@
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | M5 16mm Socket Button Head Screws | 2 | DIN9427 (Or M5 15mm) | |
-| M5 10mm Socket Button Head Screws | 6 | DIN9427 | |
+| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
 | M3 T-Nuts | 9 | Hammer Head/Drop In Style | |
 | M3 8mm Socket Head Cap Screws | 9 | DIN912 | |

@@ -12,7 +12,7 @@
 | M3 12mm Socket Head Cap Screws | 8 | DIN912 | |
 | M3 Washers | 8 | DIN125 | |
 | LDO-MGN12H Liner Rails 400mm | 2 | LDO (Good Quality) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) [Filastruder](https://www.filastruder.com/products/ldo-linear-rails) [VRParts](https://vrparts.de/.../ldo-linearschienen-mgn12h-1r-l-400mm) |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
 | M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
 | Z Stepper Motors | 2 | STEPPERONLINE 17HS19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html?search=17HS19-2004S1) |
 
