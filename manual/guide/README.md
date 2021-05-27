@@ -15,4 +15,4 @@
 11. [Finish Building Extruder Carriage](11-extruder-carriage-b.md)
 12. [Build Z-Axis Frame](12-z-axis-frame.md)
 13. [Build Z Rails and Motors](13-z-rails-motors.md)
-14. [Build Heated Bed and Frame](13-heated-bed-frame.md)
+14. [Build Heated Bed Frame and Finish Z-Axis](14-heated-bed-frame.md)

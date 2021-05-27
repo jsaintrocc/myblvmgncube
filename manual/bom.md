@@ -164,6 +164,34 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | M5 T-Nuts | 50 | Hammer Head/Drop In Style | |
 | [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
 
+### Step 13
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 T-Nuts | 16 | Hammer Head/Drop In Style | |
+| M3 8mm Socket Head Cap Screws | 24 | DIN912 | |
+| M3 12mm Socket Head Cap Screws | 8 | DIN912 | |
+| M3 Washers | 8 | DIN125 | |
+| LDO-MGN12H Liner Rails 400mm | 2 | LDO (Good Quality) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) [Filastruder](https://www.filastruder.com/products/ldo-linear-rails) [VRParts](https://vrparts.de/.../ldo-linearschienen-mgn12h-1r-l-400mm) |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
+| Z Stepper Motors | 2 | STEPPERONLINE 17HS19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html?search=17HS19-2004S1) |
+
+### Step 14
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| 405mm (~16in) 2020 Extrusion | 2 | | |
+| 173mm (~6 3/4in) 2020 Extrusion | 2 | For CR-10 sized bed | |
+| M3 22mm Socket Head Cap Screws | 8 | DIN912 | |
+| M3 Lock Nuts | 8 | DIN934 | |
+| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3vUgD3F) |
+| M5 10mm Socket Button Head Screws | 18 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts | 26 | Hammer Head/Drop In Style | |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 8 | | [Amazon](https://amzn.to/3rRVq7U) |
+| T8 Lead Screw 400mm | 2 | T8 (8mm Lead) 4 Start Lead Screw | [AliExpress](https://s.click.AliExpress.com/e/_9f89Ix) |
+| T8 Lead Screw Nuts | 2 | Usually comes with the Lead Screws | |
+| M5 35mm Socket Button Head Screws | 4 | DIN9427 | |
+| Flexible 5mm to 8mm Coupler | 2 | D20 L25 | [Amazon](https://www.amazon.com/dp/B08JZ1D5BY/ref=cm_sw_em_r_mt_dp_DZ5SPXRJW4RJVQ7R2R6J) [AliExpress](https://s.click.aliexpress.com/e/_AeyRm7) |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -246,6 +274,27 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Z_rail_stopper_-_Top_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Z_rail_stopper_-_Top_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings) |
+
+### Step 13
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| Z_rail_stopper_-_Bottom_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_rail_stopper_-_Bottom_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Left_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Right_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
+| Left_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Right_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+
+### Step 14
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| Bed_Holder_-_Front_left_For_CR-10_bed_M4_screw.stl | 4 | [Printed Parts Settings](../partsSettings) |
+| Bed_frame_cover_-_front_left.stl | 4 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
 
 ## Tools BoM
 
@@ -352,3 +401,29 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
 | M5 8mm Socket Button Head Screws | 16 | DIN9427 (Temporary) | |
 | M5 T-Nuts | 16 | Hammer Head/Drop In Style (Temporary) | |
+
+### Step 13
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
+
+### Step 14
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Flat Corner Braces | 4 | As long at it fits an M5 size isn't really important | [AliExpress](https://s.click.AliExpress.com/e/_A0mpPm Brackets) [Home Depot](https://www.homedepot.com/p/Everbilt-2-1-2-in-Zinc-Plated-Flat-Corner-Brace-4-Pack-15295/202034147) |
+| M5 10mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
+| 6mm Allen Key | 1 | For M4 Socket Head Screws | [Amazon](https://amzn.to/3vPmQh5) |
+| Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
+| 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
+| Bed Leveling Springs 8mm OD/20mm L | 4 | | [Amazon](https://www.amazon.com/dp/B07QCN4LB9/ref=cm_sw_em_r_mt_dp_BKWCXA4WK9HANDE8ZSKY) [AliExpress](https://s.click.AliExpress.com/e/_A6GVPZ) |
+| M4 35mm Flat Head Socket Cap Screws | 4 | DIN7991 | [Amazon](https://amzn.to/2QeNmkQ) |
+| M4 Nuts | 4 | DIN934 | |
+| M4 Washers | 8 | DIN125 | [Amazon](https://amzn.to/3uNDUUy) |
+| Heated Bed 300mm x 300mm | 1 | Suggested by BLV's BoM but<BR>I suspect this might warp when heated | [AliExpress](https://s.click.AliExpress.com/e/_A6jzZb) |
