@@ -33,11 +33,11 @@
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| X_carriage_-_modified_MK3_fan_blower.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Fan_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_V6_Locker_BL-touch.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Cable_locker.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_modified_MK3_fan_blower.stl](../../parts/source/stl/X_carriage_-_modified_MK3_fan_blower.stl) | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_Fan_mount.stl](../../parts/source/stl/X_carriage_-_Fan_mount.stl) | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_V6_Locker_BL-touch.stl](../../parts/source/stl/X_carriage_-_V6_Locker_BL-touch.stl) | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_Cable_locker_JSR.stl](../../parts/remixed/X_carriage_-_Cable_locker_JSR.stl) | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl](../../parts/source/stl/X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl) | 1 | [Printed Parts Settings](../partsSettings) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
@@ -164,14 +164,14 @@
     ![](img/11-AttachBLTLocker.jpeg)\
     *fig 11.23*
 
-18. Connect the cable locker using the M3 14mm Socket Head Cap Screw. Make sure it grabs the nut embedded in the X carrage. If the screw bottoms out before it's tight use some M3 washers.
+18. Connect the cable locker using the M3 14mm Socket Head Cap Screw. Make sure it grabs the nut embedded in the X carriage. If the screw bottoms out before it's tight use some M3 washers. The orientation of the cable locker is important. The bumps/lower offset should point towards the front.
 
-    ![](img/11-AttachCableLocker.jpeg)\
+    ![](img/11-AttachCableLocker.JPG)\
     *fig 11.24*
 
 19. Using the 2 M3 10mm Socket Head Cap Screws and nuts and washers. Secure the BLTouch to the locker mount. Make sure the BLTouch probe is secure but don't overtighten or you might damage it.
 
-    ![](img/11-AttLT.jpeg)\
+    ![](img/11-AttachBLT.jpeg)\
     *fig 11.25*
 
 20. Using the 4x M3 18mm Socket Head Cap Screws attach the Block Sheild to the front of the X carriage. Make sure the 4010 fan is oriented so it will blow air across the heat sink. Also route the BLTouch probe wires inside the Block Sheild making sure not to pinch them.

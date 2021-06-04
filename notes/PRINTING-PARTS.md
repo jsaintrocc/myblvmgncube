@@ -1,10 +1,18 @@
 # Instructions for printing the parts
 
+## THIS IS THE OLD FILE ## You should be editing manual/partsSettings.md instead 
+
 ## General Notes
-Generally Ben has recommended 90% infill and 3 shells.  That seems excessive to me.  I'm going with the trusty Prusa recommended 20% infill and 3 shells.  5 tops layers 4 bottom layers
+Generally Ben has recommended 90% infill and 3 shells.  That seems excessive to me.  I'm going with the trusty Prusa recommended 20% infill and 3 shells.  5 tops layers 4 bottom layers. I'm starting to come around to something a little stronger than the default prusa settings and starting to follow the [Greg Saun's Prusa Bear Settings](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/doc/print_settings.md)
 
-If you print all the stl's in the source directory you will have all the printed parts requred. Duplicate parts have renamed/duplicated stl's
+If you print all the stl's in the source directory you will have all the printed parts required. Duplicate parts have renamed/duplicated stl's
 
+### ABS Parts
+| STL File | Infill % | Shells | top layers | bottom layers | Build Plate Supports | Everywhere Supports | Custom Support |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Main_Cable_Tube_Holder.stl | 20 | 4 | 5 | 5 | Yes | | |
+
+## OLD STUFF
 ## Hotend
 Note: It useful to look at `BLV_Cube_mgn_Project_Drawing_-Hotend.pdf` to see the how the parts will be used
 
@@ -146,3 +154,7 @@ Note: It useful to look at `BLV_Cube_mgn_Project_Drawing_-Hotend.pdf` to see the
 * orient flat on the build plate text facing up..duh
 * Rotate 45% about the Z axis if it's too big to fit on the build plate (Too big for my Prusa Mk3s
 * Qty: 1
+
+
+
+

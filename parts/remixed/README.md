@@ -2,8 +2,6 @@
 
 ## Description
 
-This directory contains step files of all the parts.
+This directory contains STL and Source files for parts I've create to fix issues I encountered when building my BLV MGN Cube. The are not part of the original source file distribution.
 
-The source zip provided a few steps and one large one for the remainder of the 
-pieces.  I've starting breaking them up in to separate pieces.  The parts I've 
-separated have _remix appended to them but are otherwise unmodified.
+

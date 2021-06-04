@@ -41,3 +41,8 @@
 | `X_carriage_-_Top.stl` | 1 | PETG,ABS | 0.20 | 20 | 3 | 4 | Yes | [Top_and_Bottom_Plate.3mf](../parts/prusaslicer/hotened/abs/Top_and_Bottom_plate.3mf) |
 | `X_carriage_-_Front_plate.stl` | 1 | PETG,ABS | 0.20 | 20 | 4 | 5 | Yes | [Front_and_Back_Plate.3mf](../parts/prusaslicer/hotend/abs/Front_and_Back_Plate.3mf) |
 | `X_carriage_-_Rear_plate.stl` | 1 | PETG,ABS | 0.20 | 20 | 4 | 5 | Yes | [Front_and_Back_Plate.3mf](../parts/prusaslicer/xyaxis/petg/Front_and_Back_Plate.3mf) |
+
+### ABS Parts
+| STL File | Infill % | Shells | top layers | bottom layers | Build Plate Supports | Everywhere Supports | Custom Support |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Main_Cable_Tube_Holder.stl | 20 | 4 | 5 | 5 | Yes | | |
