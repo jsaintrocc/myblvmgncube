@@ -33,11 +33,11 @@
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| [X_carriage_-_modified_MK3_fan_blower.stl](../../parts/source/stl/X_carriage_-_modified_MK3_fan_blower.stl) | 1 | [Printed Parts Settings](../partsSettings) |
-| [X_carriage_-_Fan_mount.stl](../../parts/source/stl/X_carriage_-_Fan_mount.stl) | 1 | [Printed Parts Settings](../partsSettings) |
-| [X_carriage_-_V6_Locker_BL-touch.stl](../../parts/source/stl/X_carriage_-_V6_Locker_BL-touch.stl) | 1 | [Printed Parts Settings](../partsSettings) |
-| [X_carriage_-_Cable_locker_JSR.stl](../../parts/remixed/X_carriage_-_Cable_locker_JSR.stl) | 1 | [Printed Parts Settings](../partsSettings) |
-| [X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl](../../parts/source/stl/X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl) | 1 | [Printed Parts Settings](../partsSettings) |
+| [X_carriage_-_modified_MK3_fan_blower.stl](../../parts/source/stl/X_carriage_-_modified_MK3_fan_blower.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [X_carriage_-_Fan_mount.stl](../../parts/source/stl/X_carriage_-_Fan_mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [X_carriage_-_V6_Locker_BL-touch.stl](../../parts/source/stl/X_carriage_-_V6_Locker_BL-touch.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [X_carriage_-_Cable_locker_JSR.stl](../../parts/remixed/X_carriage_-_Cable_locker_JSR.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl](../../parts/source/stl/X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
