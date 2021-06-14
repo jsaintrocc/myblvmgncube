@@ -16,3 +16,4 @@
 12. [Build Z-Axis Frame](12-z-axis-frame.md)
 13. [Build Z Rails and Motors](13-z-rails-motors.md)
 14. [Build Heated Bed Frame and Finish Z-Axis](14-heated-bed-frame.md)
+15. [Build Electronics Panel](15-electronics-panel.md)
