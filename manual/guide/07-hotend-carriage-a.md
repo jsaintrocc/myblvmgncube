@@ -1,6 +1,6 @@
 # My BLV MGN Cube - Assembly Instructions
 
-## Step 7 Partially Build Extruder Carraige
+## Step 7 Partially Build Hotend Carriage
 
 ### Step 7 BoM
 

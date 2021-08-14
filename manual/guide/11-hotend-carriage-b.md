@@ -1,6 +1,6 @@
 # My BLV MGN Cube - Assembly Instructions
 
-## Step 11 Finish Building Extruder Carriage
+## Step 11 Finish Building Hotend Carriage
 
 ### Step 11 BoM
 
@@ -83,7 +83,7 @@
     ![](img/11-threadlocker.jpeg)\
     *fig 11.6*
 
-3. Insert the 2 M2 15mm screws in to the lower X carrage as shown. You'll notice that I snapped off the bridge on this piece and I'm using M2's instead of M2.5s. This works much better, in reality, than what's described in BLV's extruder assembly video.
+3. Insert the 2 M2 15mm screws in to the lower X carrage as shown. You'll notice that I snapped off the bridge on this piece and I'm using M2's instead of M2.5s. This works much better, in reality, than what's described in BLV's hotend assembly video.
 
     ![](img/11-M2ScrewsCarriage.jpeg)\
     *fig 11.7*
