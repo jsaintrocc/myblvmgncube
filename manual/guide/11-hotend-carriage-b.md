@@ -26,7 +26,7 @@
 | V6 Hotend | 1 | Trianglelab V6 All-metal Hotend (1.75 24V All-metal) | [Aliexpress](https://s.click.aliexpress.com/e/_A7ETNG) |
 | E3D Thermistor | 1 | Optional: I choose to give a little back to E3D.<br>Also it's super reliable/accurate | [Amazon](https://amzn.to/2QR6fdy) |
 | 4010 Fan | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
-| BLTouch Probe | 1 | V3.1 is what I used | [Amazon](https://amzn.to/3rKZEhH) |
+| BLTouch Probe | 1 | V3.1 is what I used. Make sure to get the 1m extension cable | [Amazon](https://amzn.to/3rKZEhH) |
 | PTFE Tubing | 1m |  1.9mm ID 4mm OD Capricorn Clone W/Cutter | [Aliexpress](https://s.click.aliexpress.com/e/_Anh45s) |
 | 3mm x 10.16cm zip ties (4in)  | 2 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
@@ -98,7 +98,8 @@
     ![](img/11-AttachDuct.jpeg)\
     *fig 11.9*
 
-7. Put 10mm of heat shrink tubing over both wires and then solder the wires as shown. Then slide the tubing over the exposed terminals of the male JST connector and apply heat to the shrink the tubing with the Mini Butane Torch.
+7. Put 10mm of heat shrink tubing over both wires and then solder the wires as shown. Then slide the tubing over the exposed terminals of the male JST connector and apply heat to the shrink the tubing with the Mini Butane Torch. **NOTE: Take a look at the soldering procedure in [Build Bowden Extruder and Hotend Wiring Harness](16-extruder-hotend-harness.md) it's much better**
+
 
     ![](img/11-AttachSWConnector.jpeg)\
     *fig 11.10*
