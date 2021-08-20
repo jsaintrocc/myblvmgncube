@@ -17,5 +17,5 @@
 13. [Build Z Rails and Motors](13-z-rails-motors.md)
 14. [Build Heated Bed Frame and Finish Z-Axis](14-heated-bed-frame.md)
 15. [Build Electronics Panel](15-electronics-panel.md)
-16. [Wire Hotend](16-wire-hotend.md)
+16. [Wire Hotend](16-hotend-wiring.md)
 17. [Build Bowden Extruder and Hotend Cable Manager](17-extruder-hotend-cable-manager.md)

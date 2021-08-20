@@ -138,3 +138,4 @@ The cable management system here is something I created. It diverges from the st
 
     ![](img/17-CableMgr3.JPG)\
     *fig 17.21*
+
