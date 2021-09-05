@@ -1,18 +1,21 @@
 # My BLV MGN Cube - Assembly Instructions
 
-## Step 17 Build Bowden Extruder and Hotend Cable Manager
+## Step 18 Install Heated Bed
 
 **Warning Experimental Work Ahead**
 
 ![](img/all-hardHat.png)
 
-The cable management system here is something I created. It diverges from the standard build which didn't do much for cable management. A lot of the 3d printed parts here are custom and might require some tweaking. If you find an issue please please let me know by creating an issue in the github project.
+I'm a big fan of right-sized engineering but this is an area where overengineering is much safer. The heated bed is easily one of the most likely components on a 3d printer to catch fire. That in mind I'm definitely going to overengineer here. Probably like you I'm an amature and I am accepting the risk for myself on what I'm doing here. If you aren't comfortable doing the same then please consult a professional. If you think I'm duing something unsafe and stupid please let me know by raising an issue for the github project.
 
-### Step 16 BoM
+### Step 18 BoM
 
 #### Hardware
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
+| Heated Bed | 1 | 300mmx300mm Prusa MK42 Style, Design...Yikes | [Aliexpress](https://s.click.aliexpress.com/e/_9wyXiW)|
+| Ring Wire Connectors | 2 | 14AWG M3 | [Aliexpress](https://www.aliexpress.com/item/4000098059922.html?spm=a2g0o.productlist.0.0.67e035eehfxpOl&algo_pvid=fd22be4d-13ac-432a-b708-f58a578c09d2&algo_exp_id=fd22be4d-13ac-432a-b708-f58a578c09d2-10) |
+
 | Extruder Stepper Motor | 1 | STEPPERONLINE 17HS16-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-and-connector.html?search=17HS16-2004S1) |
 | BMG Extruder | 1 | A good quality clone is fine | [Aliexpress](https://www.aliexpress.com/item/32917029058.html?spm=a2g0s.9042311.0.0.27424c4d85bUyI) |
 | M3 35mm Socket Head Cap Screws | 3 | DIN912 (Should be included with the BMG Extruder Kit)| |
@@ -28,6 +31,7 @@ The cable management system here is something I created. It diverges from the st
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
+
 | [extruder-mount.stl](../../extra/hotend-cable-manager/files/extruder-mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [frame-hotend-cable-locker.stl](../../extra/hotend-cable-manager/files/frame-hotend-cable-locker.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [flex-tube-reinforcer.stl](../../extra/hotend-cable-manager/files/flex-tube-reinforcer.stl) | 10 | [Printed Parts Settings](../partsSettings.md) |
@@ -36,12 +40,36 @@ The cable management system here is something I created. It diverges from the st
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
+| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+
 | 1.5mm Allen Wrench | 1 | For extruder gear | [Amazon](https://amzn.to/3qNmEgs) |
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
 ### Prep
-1. Remove any sharp edges on the inside of the flex tube reinforcers.
+1. Fix Bed wires. Bed wires soldered to a bed are a bad idea. I bent these wires about 10 times taking it in and out of the box. They're already breaking. Breaking decreases the guage and increases the heating of the wire which could cause them to catch fire.
+
+    ![](img/18-FrayedBedWires.JPG)\
+    *fig 18.1*
+
+    Note: Factory wires didn't have gauge but they measured to be about 16 AWG. That is too small for ~400W at 24V. Also the insulation was stiff which also isn't good for a motion application.
+
+2. Drill holes 7.3mm on each side of main hole.
+   Drill bit should be 3mm or 1/8" for us which is about 3.2mm
+
+The heated bed I have has multiple design flaws so I'm going to have to fix them.
+    2. Bed wires soldered to bed instead of crimped. Take a look at the picture and you can see why this is a very bad idea. Note as the wire frays you will essentially decreate it's guague and this could lead to the bed wires heating up and possibly starting a fire!!
+
+Test heated bed element using the multimeter set to read resistance. You're really just looking for a finite resistance, probably 1-2. If you are interested in the math V*V/R=W so in my case 24V*24V/1.5Ohms=384W.
+
+    ![](img/18-HeaterTest.JPG)\
+    *fig 18.1*
+
+http://wiresizecalculator.net/calculators/advancedwireampacity.htm
+https://www.powerstream.com/Wire_Size.htm
+
+
+Remove any sharp edges on the inside of the flex tube reinforcers.
 
     ![](img/17-ReamReinforcer.JPG)\
     *fig 17.1*
