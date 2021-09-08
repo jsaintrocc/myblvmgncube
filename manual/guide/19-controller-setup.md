@@ -7,6 +7,7 @@
 [SKR 1.4 Manual](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3/raw/master/BTT%20SKR%20V1.4/BTT%20SKR%20V1.4%20Instruction%20Manual.pdf)
 
 [TFT support](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware)
+
 [TFT wiring up](https://www.youtube.com/watch?v=v0PCzHGXTgk)
 
 [Dual Lead screws](https://www.youtube.com/watch?v=3jAFQdTk8iw&t=117s)
