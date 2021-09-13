@@ -18,7 +18,7 @@
 | M3 Washers | 4 | DIN125 | |
 | Black Wire | ~15cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 | Green Wire | ~15cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Limit Switch | 1 | 3P with handle | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
 | Heat Shrink Tubing | 10mm | Enough to cover 3 Pins <BR>of a JST-XH Male Connector | |
 | Male 3 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 | 3mm x 10.16cm zip ties (4in)  | 1-9 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
@@ -57,7 +57,7 @@
     ![](img/11-SolderSWWires.jpeg)\
     *fig 11.1*
 
-2. Test the limit switch and wiring using the continuity tester on your Multimeter. It should be a closed circuit until you press the switch. *Throughout the wiring of the switch you should check this*
+2. Test the limit switch and wiring using the continuity tester on your Multimeter. It should be a closed circuit until you press the switch.
 
     ![](img/11-ContTest.jpeg)\
     *fig 11.2*
