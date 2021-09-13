@@ -6,45 +6,34 @@
 
 ![](img/all-hardHat.png)
 
-I'm a big fan of right-sized engineering but this is an area where overengineering is much safer. The heated bed is easily one of the most likely components on a 3d printer to catch fire. That in mind I'm definitely going to overengineer here. Probably like you I'm an amature and I am accepting the risk for myself on what I'm doing here. If you aren't comfortable doing the same then please consult a professional. If you think I'm duing something unsafe and stupid please let me know by raising an issue for the github project.
+I'm a big fan of right-sized engineering but this is an area where overengineering is much safer. The heated bed is easily one of the most likely components on a 3d printer to catch fire. Probably like you I'm an amature and I am accepting the risk for myself on what I'm doing here. If you aren't comfortable doing the same then please consult a professional. If you think I'm doing something unsafe and stupid please let me know by raising an issue for the github project.
 
 ### Step 18 BoM
 
 #### Hardware
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| Heated Bed | 1 | 300mmx300mm Prusa MK42 Style, Design...Yikes | [Aliexpress](https://s.click.aliexpress.com/e/_9wyXiW)|
-| Ring Wire Connectors | 2 | 14AWG M3 | [Aliexpress](https://www.aliexpress.com/item/4000098059922.html?spm=a2g0o.productlist.0.0.67e035eehfxpOl&algo_pvid=fd22be4d-13ac-432a-b708-f58a578c09d2&algo_exp_id=fd22be4d-13ac-432a-b708-f58a578c09d2-10) |
+| Heated Bed | 1 | 24V ~220W Aluminum Heated 310mm x 310mm x 3mm | [AliExpress](https://s.click.aliexpress.com/e/_Aq7W5i) |
+| 24 inch Nylon zip ties | 1 | ~9mm wide at least 60cm long | [Amazon](https://www.lowes.com/pd/Utilitech-15-Pack-24-in-Cable-Ties/50005756) |
 
-| Extruder Stepper Motor | 1 | STEPPERONLINE 17HS16-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-and-connector.html?search=17HS16-2004S1) |
-| BMG Extruder | 1 | A good quality clone is fine | [Aliexpress](https://www.aliexpress.com/item/32917029058.html?spm=a2g0s.9042311.0.0.27424c4d85bUyI) |
-| M3 35mm Socket Head Cap Screws | 3 | DIN912 (Should be included with the BMG Extruder Kit)| |
 | M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
 | M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
 | M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 8mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M3 Thin Square Nuts | 1 | DIN562 | |
-| 1/2" Flex Tubing | 62cm | Also called split wire loom | [Home Depot](https://www.homedepot.com/p/Gardner-Bender-3-8-in-and-1-2-in-Flex-Tubing-7-ft-and-10-ft-Combo-Pack-FLX-538C10/205588197#product-overview) [Amazon](https://www.amazon.com/Gardner-Bender-FLX-538C10-Assorted-Corrugated/dp/B01MSN7D25/ref=sr_1_10?dchild=1&keywords=split%2Bflex%2Btubing%2B1%2F2%22&qid=1628354523&s=hi&sr=1-10&th=1) [Aliexpress](https://www.aliexpress.com/item/32855974110.html?spm=a2g0o.productlist.0.0.112a72eas6e75a&algo_pvid=6370ddcb-8c94-4862-98e7-a1bb0f65fe20&algo_exp_id=6370ddcb-8c94-4862-98e7-a1bb0f65fe20-28) |
-| 3mm x 10.16cm zip ties (4in)  | 11 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-| 24 inch Nylon zip ties | 1 | ~9mm wide at least 60cm long | [Amazon](https://www.lowes.com/pd/Utilitech-15-Pack-24-in-Cable-Ties/50005756) |
+| M3 Thin Square Nuts | 2 | DIN562 | |
+
 
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-
-| [extruder-mount.stl](../../extra/hotend-cable-manager/files/extruder-mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [frame-hotend-cable-locker.stl](../../extra/hotend-cable-manager/files/frame-hotend-cable-locker.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [flex-tube-reinforcer.stl](../../extra/hotend-cable-manager/files/flex-tube-reinforcer.stl) | 10 | [Printed Parts Settings](../partsSettings.md) |
-| [hotend-cable-guide.stl](../../extra/hotend-cable-manager/files/hotend-cable-guide.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+| [BLV_Thumbwheel_bed_leveling_knob.stl](extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
 | Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
-
-| 1.5mm Allen Wrench | 1 | For extruder gear | [Amazon](https://amzn.to/3qNmEgs) |
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+
 
 ### Prep
 1. Fix Bed wires. Bed wires soldered to a bed are a bad idea. I bent these wires about 10 times taking it in and out of the box. They're already breaking. Breaking decreases the guage and increases the heating of the wire which could cause them to catch fire.
