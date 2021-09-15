@@ -6,7 +6,7 @@
 
 ![](img/all-hardHat.png)
 
-I'm a big fan of right-sized engineering but this is an area where overengineering is much safer. The heated bed is easily one of the most likely components on a 3d printer to catch fire. Probably like you I'm an amature and I am accepting the risk for myself on what I'm doing here. If you aren't comfortable doing the same then please consult a professional. If you think I'm doing something unsafe and stupid please let me know by raising an issue for the github project.
+The heated bed is one of the most likely components on a 3d printer to catch fire. Probably like you I'm an amature and I'm accepting the risk for myself on what I'm doing here. If you aren't comfortable doing the same then please consult a professional. If you think I'm doing something unsafe and stupid please let me know by raising an issue for the github project.
 
 ### Step 18 BoM
 
@@ -15,12 +15,11 @@ I'm a big fan of right-sized engineering but this is an area where overengineeri
 |-----------|:--------:|---------|---------------|
 | Heated Bed | 1 | 24V ~220W Aluminum Heated 310mm x 310mm x 3mm | [AliExpress](https://s.click.aliexpress.com/e/_Aq7W5i) |
 | 24 inch Nylon zip ties | 1 | ~9mm wide at least 60cm long | [Amazon](https://www.lowes.com/pd/Utilitech-15-Pack-24-in-Cable-Ties/50005756) |
-
-| M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
+| M5 8mm Socket Button Head Screws | 4 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
 | M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
 | M3 Thin Square Nuts | 2 | DIN562 | |
-
+| M3 10mm Socket Head Cap Screws | 2 | DIN912 | |
+| M4 Nuts | 4 | DIN934 | |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -34,125 +33,62 @@ I'm a big fan of right-sized engineering but this is an area where overengineeri
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
-
 ### Prep
-1. Fix Bed wires. Bed wires soldered to a bed are a bad idea. I bent these wires about 10 times taking it in and out of the box. They're already breaking. Breaking decreases the guage and increases the heating of the wire which could cause them to catch fire.
+1. Test the heat bed to determine it's wattage and make sure it doesn't have a short. Using the multimeter set to read resistance, measure the restisance between the red and black wires. Use the formula Volts * (Volts/Resistance) = Watts to determine the Wattage. In my case, 24V * (24V/2.5 Ohms) = 230 Watts.
 
-    ![](img/18-FrayedBedWires.JPG)\
+    ![](img/18-TestHeatedBed.JPG)\
     *fig 18.1*
 
-    Note: Factory wires didn't have gauge but they measured to be about 16 AWG. That is too small for ~400W at 24V. Also the insulation was stiff which also isn't good for a motion application.
+    Note: Big Tree Tech recommends an external mosfet for anything over 144 Watts so I'll definitely be using a $10 external Mosfet to keep my board from catching on fire. Also it will probably increase the life on any controller board as they'll run a lot cooler.
 
-2. Drill holes 7.3mm on each side of main hole.
-   Drill bit should be 3mm or 1/8" for us which is about 3.2mm
+2. Test the thermistor to make sure it isn't shorted or there isn't a loose wire. Using the multimeter set to read resistance, measure the restisance between the yellow thermistor wires. I get around 111 KOhms at room temperature which is good. As long as you get a reading KOhms you're probably good.
 
-The heated bed I have has multiple design flaws so I'm going to have to fix them.
-    2. Bed wires soldered to bed instead of crimped. Take a look at the picture and you can see why this is a very bad idea. Note as the wire frays you will essentially decreate it's guague and this could lead to the bed wires heating up and possibly starting a fire!!
+    ![](img/18-TestBedThermistor.JPG)\
+    *fig 18.2*
 
-Test heated bed element using the multimeter set to read resistance. You're really just looking for a finite resistance, probably 1-2. If you are interested in the math V*V/R=W so in my case 24V*24V/1.5Ohms=384W.
+1. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
 
-    ![](img/18-HeaterTest.JPG)\
-    *fig 18.1*
+    ![](img/18-M4NutInLevelKnob.JPG)\
+    *fig 18.3*
 
-http://wiresizecalculator.net/calculators/advancedwireampacity.htm
-https://www.powerstream.com/Wire_Size.htm
+2. Put M3 square nuts and M3 10mm screws into each wireguide mount. Also attach 2x M5 8mm and T-Nuts.
 
+    ![](img/18-WireguidePrep.JPG)\
+    *fig 18.4*
 
-Remove any sharp edges on the inside of the flex tube reinforcers.
+3. Cut the ratchet end off the 24" zip tie.
 
-    ![](img/17-ReamReinforcer.JPG)\
-    *fig 17.1*
+    ![](img/18-CutRatchetOffZiptie.JPG)\
+    *fig 18.5*
 
 ### Assembly
-1. Place the M3 Square nut in the frame cable locker and use an M3 8mm screw to secure itkl.
+1. Attach the wireguide mount to the bed frame at 120mm.
 
-    ![](img/17-InstallclampOnCableLocker.JPG)\
-    *fig 17.2*
+    ![](img/18-XXX.JPG)\
+    *fig 18.3*
 
-2. Attach the frame cable locker with 2x M5 8mm screws and T-nuts centered on the top back extrusion.
+2. Attach the wireguide mount to the frame at 248mm (~.
 
-    ![](img/17-AttachFrameCableLocker.JPG)\
-    *fig 17.3*
+    ![](img/18-XXX.JPG)\
+    *fig 18.4*
 
-3. Place the mounting plate on the stepper motor and measure a 2mm gap from the plate to the botton of the BMG extruder gear. Carefully tighten the set screw. **DON'T OVERTIGHTEN THE SET SCREW OR IT WILL STRIP**
+3. Attach zip tie to the wireguide mount and titen the m3 screws to clamp in place. Manually move the bed up and down and make sure the wireguide doesn't run into anything. Trim the zip tie once you are happy with it's movement. Mine was 520mm long.
 
-    ![](img/17-SetBMGGear.JPG)\
-    *fig 17.4*
+    ![](img/18-XXX.JPG)\
+    *fig 18.5*
 
-4. Separate the BMG extruder and insert the bowden adapter.
+    ![](img/18-XXX.JPG)\
+    *fig 18.6*
 
-    ![](img/17-BowdenAdapter.JPG)\
-    *fig 17.5*
+4. Attach the bed to the frame with using the a M4 ??mm flat head screw/2 washers/bed spring/bed leveling knob.
 
-5. Make a BMG/Extruder Mount/Stepper sandwich. To help the stepper/gear insert into the BMG extruder try gently wobbling it. Note stepper wires are on the left.
+    ![](img/18-XXX.JPG)\
+    *fig 18.2*
 
-    ![](img/17-InsertStepperGearBMG.JPG)\
-    *fig 17.6*
+    ![](img/18-XXX.JPG)\
+    *fig 18.3
 
-6. Complete the extruder mount using 3x M3 35mm screws.
+    ![](img/18-XXX.JPG)\
+    *fig 18.4
 
-    ![](img/17-FinishExtruderMount.JPG)\
-    *fig 17.7*
-
-7. Using 2x M5 10mm and T-nuts attach the extruder to frame with the bowden hole on the printer centerline.
-
-    ![](img/17-AttachExtruderMount.JPG)\
-    *fig 17.8*
-
-    ![](img/17-AttachExtruderMount2.JPG)\
-    *fig 17.9*
-
-7. Attach the BMG extruder tensioner.
-
-    ![](img/17-ExtruderTensioner.JPG)\
-    *fig 17.10*
-
-8. Insert 10 of the flex tube reinforcers into the 62cm flex tube as indicated by the pictre. The reinforcers are spaced about 9cm apart (center to center). There are 2 reinforcers at one end, for the hotend locker, and 3 reinforcers at the other end, for the frame locker.
-
-    ![](img/17-WireLoom.JPG)\
-    *fig 17.11*
-
-9. Carefully insert the cables into the flex tube and through the reinforcers. Try not to twist the cables around one another in the tube. Don't put connectors inside of the tube.
-
-    ![](img/17-CablesInFlexTube.JPG)\
-    *fig 17.12*
-
-10. Using 3x small zip ties secure the end of the flex tube, that has 2 reinforcers, to the Hotend cable locker. The flex tube slit should be centered on the locker. Secure any loose wires using zip ties (Ugly, but it works for now). Again: Connecters inside the flex tube is bad.
-
-    ![](img/17-SecureFlexToHELocker.JPG)\
-    *fig 17.13*
-
-    ![](img/17-FlexTubeAlignment.JPG)\
-    *fig 17.14*
-
-11. Thread the large zip tie into the hotend locker until the head of the zip tie clicks into place.
-
-    ![](img/17-ZipTieIntoHELocker.JPG)\
-    *fig 17.15*
-
-12. Thread the PTFE tube and large zip tie onto the hotend cable guides and use the small zip ties to secure to the flex tube. The cable guide has a notch that should align with the reinforcer lips. The slit on the flex tube should be on top.
-
-    ![](img/17-AssembleCableMgr1.JPG)\
-    *fig 17.16*
-
-    ![](img/17-AssembleCableMgr2.JPG)\
-    *fig 17.17*
-
-    ![](img/17-AssembleCableMgr3.JPG)\
-    *fig 17.18*
-
-13. Insert the large zip tie end and flex tube into the frame locker. Also cut the PTFE tube and insert into the extruder. Tighten the M3 to clamp the end of the zip tie. Around 79cm is what my PTFE tube mesured.
-
-    ![](img/17-AttachToFrameLocker.JPG)\
-    *fig 17.19*
-
-14. Secure the frame locker using 3 small zip ties. *Note: I didn't use the top hole to allow the flex tube a little more play.*
-
-    ![](img/17-SecureFrameLocker.JPG)\
-    *fig 17.20*
-
-14. Here is how the final cable guide should look.
-
-    ![](img/17-CableMgr3.JPG)\
-    *fig 17.21*
-
+5. Thread the heated bed wires through the wire guide
