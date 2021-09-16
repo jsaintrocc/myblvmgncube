@@ -24,7 +24,10 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| [BLV_Thumbwheel_bed_leveling_knob.stl](extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](../partsSettings.md) |
+| [BLV_Thumbwheel_bed_leveling_knob.stl](../../parts/extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-bedmount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-bedmount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-framemount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-framemount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-loop.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
@@ -62,25 +65,33 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     *fig 18.5*
 
 ### Assembly
-1. Attach the wireguide mount to the bed frame at 120mm.
+1. Attach the heatbed wireguide bedmount (Long one) to the bed frame placing it ~120mm from the bed frame corner to the edge of the mount.
 
-    ![](img/18-XXX.JPG)\
-    *fig 18.3*
-
-2. Attach the wireguide mount to the frame at 248mm (~.
-
-    ![](img/18-XXX.JPG)\
-    *fig 18.4*
-
-3. Attach zip tie to the wireguide mount and titen the m3 screws to clamp in place. Manually move the bed up and down and make sure the wireguide doesn't run into anything. Trim the zip tie once you are happy with it's movement. Mine was 520mm long.
-
-    ![](img/18-XXX.JPG)\
-    *fig 18.5*
-
-    ![](img/18-XXX.JPG)\
+    ![](img/18-AttachBedframeMount.JPG)\
     *fig 18.6*
 
-4. Attach the bed to the frame with using the a M4 ??mm flat head screw/2 washers/bed spring/bed leveling knob.
+2. Attach the heatbed wireguide framemount to the top back 2020 extrusion so that it's centered on the frame (~248mm for me).
+
+    ![](img/18-AttachFrameMount.JPG)\
+    *fig 18.7*
+
+3. Attach zip tie to the wireguide mounts. Manually move the bed up and down and make sure the wireguide doesn't run into anything. The zip tie should maintain a graceful arc at all points and should naturally stay level with the 2020 extrusion (See Fig 18.9 and 18.10). **The teeth should be on the outside of the loop.**
+
+    ![](img/18-AttachZipTie.JPG)\
+    *fig 18.8*
+
+    ![](img/18-ZipTieTop.JPG)\
+    *fig 18.9*
+
+    ![](img/18-ZipTieBottom.JPG)\
+    *fig 18.10*
+
+4. Trim the zip tie, once your happy with it's movement, and tighten the m3 screws to clamp in place. *Mine was 520mm long when trimmed.*
+
+    ![](img/18-TrimZipTie.JPG)\
+    *fig 18.11*
+
+5. Attach the bed to the frame with using the a M4 ??mm flat head screw/2 washers/bed spring/bed leveling knob.
 
     ![](img/18-XXX.JPG)\
     *fig 18.2*
@@ -92,3 +103,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     *fig 18.4
 
 5. Thread the heated bed wires through the wire guide
+
+    ![](img/18-XXX.JPG)\
+    *fig 18.4
+
