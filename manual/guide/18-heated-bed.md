@@ -20,6 +20,8 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 | M3 Thin Square Nuts | 2 | DIN562 | |
 | M3 10mm Socket Head Cap Screws | 2 | DIN912 | |
 | M4 Nuts | 4 | DIN934 | |
+| M4 Screws | 4 | Din7991 | [AliExpress](https://s.click.aliexpress.com/e/_A1aLOM) |
+| Bed Leveling Springs | 4 | Length: 20mm OD: 8mm ID: 4mm | [AliExpress](https://www.amazon.com/gp/product/B07QCN4LB9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -90,6 +92,9 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 
     ![](img/18-TrimZipTie.JPG)\
     *fig 18.11*
+
+5. Attach the 8x wireguide loops to the zip tie. There are teeth on the loops that should grab the teeth on the zip tie.
+
 
 5. Attach the bed to the frame with using the a M4 ??mm flat head screw/2 washers/bed spring/bed leveling knob.
 
