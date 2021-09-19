@@ -51,17 +51,36 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     ![](img/18-TestBedThermistor.JPG)\
     *fig 18.2*
 
-1. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
+3. Attach the heated bed insulation
+    1. Measure and cut holes for bed leveling springs.
+
+        ![](img/18-HBInsulationHoles1.JPG)\
+        *fig 18.3*
+
+        ![](img/18-HBInsulationHoles2.JPG)\
+        *fig 18.4*
+
+
+
+    3. Clean the bottom of the heated bed with alcohol and then apply the insulation.
+
+        ![](img/18-HBAlcoholPrep.JPG)\
+        *fig 18.6*
+
+        ![](img/18-HBwInsulation.JPG)\
+        *fig 18.7*
+
+4. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
 
     ![](img/18-M4NutInLevelKnob.JPG)\
     *fig 18.3*
 
-2. Put M3 square nuts and M3 10mm screws into each wireguide mount. Also attach 2x M5 8mm and T-Nuts.
+5. Put M3 square nuts and M3 10mm screws into each wireguide mount. Also attach 2x M5 8mm and T-Nuts.
 
     ![](img/18-WireguidePrep.JPG)\
     *fig 18.4*
 
-3. Cut the ratchet end off the 24" zip tie.
+6. Cut the ratchet end off the 24" zip tie.
 
     ![](img/18-CutRatchetOffZiptie.JPG)\
     *fig 18.5*
