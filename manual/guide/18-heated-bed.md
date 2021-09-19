@@ -60,15 +60,18 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-HBInsulationHoles2.JPG)\
         *fig 18.4*
 
-
-
-    3. Clean the bottom of the heated bed with alcohol and then apply the insulation.
+    2. Clean the bottom of the heated bed with alcohol and then apply the insulation.
 
         ![](img/18-HBAlcoholPrep.JPG)\
         *fig 18.6*
 
         ![](img/18-HBwInsulation.JPG)\
         *fig 18.7*
+
+    3. Make sure to trim the metal backing away from any power connectors.
+
+        ![](img/18-HBInsulationTrimFromPower.JPG)\
+        *fig 18.5*
 
 4. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
 
