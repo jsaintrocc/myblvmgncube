@@ -22,6 +22,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 | M4 Nuts | 4 | DIN934 | |
 | M4 Screws | 4 | Din7991 | [AliExpress](https://s.click.aliexpress.com/e/_A1aLOM) |
 | Bed Leveling Springs | 4 | Length: 20mm OD: 8mm ID: 4mm | [AliExpress](https://www.amazon.com/gp/product/B07QCN4LB9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+| Heated Bed Insulation | 1 | 300mm x 300mm x 10mm | [AliExpress](https://s.click.aliexpress.com/e/_AaR1YQ) |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
