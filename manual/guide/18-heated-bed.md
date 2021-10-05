@@ -42,6 +42,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | Plastic Spreader | 1 | Can use an old Credit Card instead | [Amazon](https://www.amazon.com/3M-357-Bondo-Spreader-Pack/dp/B000BOC9K4/ref=sr_1_7?crid=PC2YPFP1GXF4&dchild=1&keywords=spreader+body+filler&qid=1632181340&sprefix=spreader+body%2Caps%2C152&sr=8-7) |
 | X-Acto Knife | 1 | | [Amazon](https://amzn.to/3gUPYPI) |
+| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
 
 ### Prep
 1. Test the heat bed to determine it's wattage and make sure it doesn't have a short. Using the multimeter set to read resistance, measure the restisance between the red and black wires. Use the formula Volts * (Volts/Resistance) = Watts to determine the Wattage. In my case, 24V * (24V/2.5 Ohms) = 230 Watts.
@@ -78,114 +79,148 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-HBInsulationTrimFromPower.JPG)\
         *fig 18.7*
 
-5. Attach magnetic base for the flex plate.
-    1. Remove the protective film on the top surface of the build plate.
+4. Attach Magnetic Sheet to the heated bed.
+    1. Create a ledge to help align the magnetic sheet. *I used some scrap wood*
 
-        ![](img/18-HBRemoveFilm.JPG)\
+        ![](img/18-ledgeToAlignMagSheet.JPG)\
         *fig 18.8*
 
-    2. Clean the build plate with some alcohol and is free of dust/dirt/hair etc..
+    2. Test fit the Magnetic Sheet on the build plate.
 
-        ![](img/18-HBAluClean.JPG)\
+        ![](img/18-testFitMagSheet.JPG)\
         *fig 18.9*
 
-    2. Peel back 4cm of the paper backing on one edge of the magnteic bed and carefully apply to back edge.
+    3. Remove the protective film on the heated bed.
 
-        ![](img/18-AttachHBMagSurface1.JPG)\
+        ![](img/18-HBRemoveFilm.JPG)\
         *fig 18.10*
 
-    3. Using a platic spreader (or old credit card) smooth down the exposed part of the magnetic sheet to prevent air bubbles from getting trapped underneath.
+    4. Clean the build plate with alcohol and make sure it is free of dust/dirt/cat hair etc..
 
-        ![](img/18-AttachHBMagSurface2.JPG)\
+        ![](img/18-HBAluClean.JPG)\
         *fig 18.11*
 
-    4. Repeat the process by peeling back another section of the paper and using the spreader to make sure there are no air bubbles.
+        Note: I had a little blemish on my aluminum plate that I sanded down with 1000 grit wet sandpaper.
 
-        ![](img/18-AttachHBMagSurface3.JPG)\
+    5. Peel back ~4cm of the paper backing on one edge of the magnteic bed and carefully apply to heated bed using the ledge as a guide.
+
+        ![](img/18-AttachHBMagSurface1.JPG)\
         *fig 18.12*
 
-    4. Once fully attached flip over and use an X-acto knife to trim the excess material.
+    6. Using a platic spreader (or an old plastic credit card) smooth down the exposed part of the magnetic sheet to prevent air bubbles from getting trapped underneath.
 
-        ![](img/18-TrimHBMagSurface.JPG)\
+        ![](img/18-AttachHBMagSurface2.JPG)\
         *fig 18.13*
 
-    5. Also using your fingers feel for heated bed mouting holes and using the X-acto knife cut them out.
+    7. Keep pealing back paper, 4cm at a time, and smotthing down with the spreader until the entire Magnetic Sheet is attached to the heated bed. If you go slow and are careful you shouldn't have any air bubbles trapped under the sheet. 
 
-        ![](img/18-CutHolesHBMagSurface.JPG)\
+        ![](img/18-AttachHBMagSurface3.JPG)\
         *fig 18.14*
 
-4. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
+        ![](img/18-AttachHBMagSurface4.JPG)\
+        *fig 18.15*
+
+    8. Once fully attached flip over and use an X-acto knife to trim the excess material.
+
+        ![](img/18-TrimHBMagSurface.JPG)\
+        *fig 18.16*
+
+    9. Using the heated bed mounting holes as a guide, poke throug the underside of the magnetic sheet using the X-acto knife. This will help you find the mounting holes from the top.
+
+        ![](img/18-CutHolesHBMagSurface1.JPG)\
+        *fig 18.17*
+
+        ![](img/18-CutHolesHBMagSurface2.JPG)\
+        *fig 18.18*
+
+    5. Use some blue tape to protect the surface around the mounting hole.
+
+        ![](img/18-CutHolesHBMagSurface3.JPG)\
+        *fig 18.19*
+
+    6. Using the X-Acto knife cut out the hole. I found doing this slowly with small shavings worked best.
+
+        ![](img/18-CutHolesHBMagSurface4.JPG)\
+        *fig 18.20*
+
+        ![](img/18-CutHolesHBMagSurface5.JPG)\
+        *fig 18.21*
+
+        ![](img/18-CutHolesHBMagSurface6.JPG)\
+        *fig 18.22*
+
+5. Insert M4 nuts in each bed leveling knob. Regular nuts are fine because the tension with the bed leveling springs will keep everything tight.
 
     ![](img/18-M4NutInLevelKnob.JPG)\
-    *fig 18.15*
+    *fig 18.23*
 
-5. Put M3 square nuts and M3 10mm screws into each wireguide mount. Also attach 2x M5 8mm and T-Nuts.
+6. Put M3 square nuts and M3 10mm screws into each wireguide mount. Also attach 2x M5 8mm and T-Nuts.
 
     ![](img/18-WireguidePrep.JPG)\
-    *fig 18.16*
+    *fig 18.24*
 
-6. Cut the ratchet end off the 24" zip tie.
+7. Cut the ratchet end off the 24" zip tie.
 
     ![](img/18-CutRatchetOffZiptie.JPG)\
-    *fig 18.17*
+    *fig 18.25*
 
 ### Assembly
 1. Attach the heatbed wireguide bedmount (Long one) to the bed frame placing it ~120mm from the bed frame corner to the edge of the mount.
 
     ![](img/18-AttachBedframeMount.JPG)\
-    *fig 18.18*
+    *fig 18.26*
 
 2. Attach the heatbed wireguide framemount to the top back 2020 extrusion so that it's centered on the frame (~248mm for me).
 
     ![](img/18-AttachFrameMount.JPG)\
-    *fig 18.19*
+    *fig 18.27*
 
 3. Attach zip tie to the wireguide mounts. Manually move the bed up and down and make sure the wireguide doesn't run into anything. The zip tie should maintain a graceful arc at all points and should naturally stay level with the 2020 extrusion (See Fig 18.9 and 18.10). **The teeth should be on the outside of the loop.**
 
     ![](img/18-AttachZipTie.JPG)\
-    *fig 18.20*
+    *fig 18.28*
 
     ![](img/18-ZipTieTop.JPG)\
-    *fig 18.21*
+    *fig 18.29*
 
     ![](img/18-ZipTieBottom.JPG)\
-    *fig 18.22*
+    *fig 18.30*
 
 4. Trim the zip tie, once your happy with it's movement, and tighten the m3 screws to clamp in place. *Mine was 520mm long when trimmed.*
 
     ![](img/18-TrimZipTie.JPG)\
-    *fig 18.23*
+    *fig 18.31*
 
 5. Attach the 8x wireguide loops to the 24" zip tie. There are teeth on the loops that should grab the teeth on the zip tie.
 
     ![](img/18-AttachLoopsToZipTie.JPG)\
-    *fig 18.24*
+    *fig 18.32*
 
 6. Attach the bed to the frame using 4x bed leveling assemblies. Each assembly is as follows: M4 40mm flat head screw->M4 washer->bed spring->M4 washer->bed mount->bed leveling knob. **It's much easier to do this if you lay the printer frame on its side**
 
     ![](img/18-AttachBedToFrame1.JPG)\
-    *fig 18.25*
+    *fig 18.33*
 
     ![](img/18-HoldNutWChopStick.JPG)\
-    *fig 18.26*
+    *fig 18.34*
 
     Note: I used a chopstick to keep the M4 Nut in place. 
 
     ![](img/18-AttachBedToFrame2.JPG)\
-    *fig 18.27*
+    *fig 18.35*
 
 7. Attach the heated bed wiring harness and thread it through the wire guide.
 
     ![](img/18-RouteHBWiring.JPG)\
-    *fig 18.28*
+    *fig 18.36*
 
 8. Using small zip ties attach the heated bed wiring harness to the mounts and the loops to the large zip tie.
 
     ![](img/18-ZipTieHBWiring.JPG)\
-    *fig 18.28*
+    *fig 18.37*
 
 9. Here's what it should look like when it's done.
 
     ![](img/18-FinalHB.JPG)\
-    *fig 18.29*
+    *fig 18.38*
 
