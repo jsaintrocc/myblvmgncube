@@ -20,7 +20,8 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 | M3 Thin Square Nuts | 2 | DIN562 | |
 | M3 10mm Socket Head Cap Screws | 2 | DIN912 | |
 | M4 Nuts | 4 | DIN934 | |
-| M4 Screws | 4 | Din7991 | [AliExpress](https://s.click.aliexpress.com/e/_A1aLOM) |
+| M4 40mm Screws | 4 | Din7991 | [AliExpress](https://s.click.aliexpress.com/e/_A1aLOM) |
+| M4 Washers | 4 | DIN125| |
 | Bed Leveling Springs | 4 | Length: 20mm OD: 8mm ID: 4mm | [AliExpress](https://www.amazon.com/gp/product/B07QCN4LB9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 | Heated Bed Insulation | 1 | 300mm x 300mm x 10mm | [AliExpress](https://s.click.aliexpress.com/e/_AaR1YQ) |
 | Heated Bed Magnetic Flex Plate | 1 | 310mm x 310mm Double Sided PEI Flex Plate and High Temp Magnetic Sheet | [Amazon (Fulament)](https://www.amazon.com/Fulament-Printing-Magnetic-Sticker-Adhesive/dp/B07ZVYPSSQ/ref=sr_1_1_sspa?crid=3LGKKARPDOG34&dchild=1&keywords=fulament%2Bflex%2Bbed&qid=1632181739&s=industrial&sprefix=fulament%2Cindustrial%2C162&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUkMxNUdRNzRNSUpWJmVuY3J5cHRlZElkPUEwNjUwNTAyM0kzTDg1ME9FNUtTRSZlbmNyeXB0ZWRBZElkPUEwMTA5NzQ5OU1RM1NSWEs4UjI3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) [AliExpress (Energetic)](https://s.click.aliexpress.com/e/_9jGuVk) |
@@ -40,9 +41,11 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
 | Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Plastic Spreader | 1 | Can use an old Credit Card instead | [Amazon](https://www.amazon.com/3M-357-Bondo-Spreader-Pack/dp/B000BOC9K4/ref=sr_1_7?crid=PC2YPFP1GXF4&dchild=1&keywords=spreader+body+filler&qid=1632181340&sprefix=spreader+body%2Caps%2C152&sr=8-7) |
+| Plastic Spreader | 1 | Can use an old plastic credit card instead | [Amazon](https://www.amazon.com/3M-357-Bondo-Spreader-Pack/dp/B000BOC9K4/ref=sr_1_7?crid=PC2YPFP1GXF4&dchild=1&keywords=spreader+body+filler&qid=1632181340&sprefix=spreader+body%2Caps%2C152&sr=8-7) |
 | X-Acto Knife | 1 | | [Amazon](https://amzn.to/3gUPYPI) |
 | Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
+| Rubbing Alcohol (91% - 99%) | 16 Fl. Oz. | | [Amazon](https://amzn.to/39G8UNU) |
+| flush cutter | 1 | | [Amazon](https://www.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/ref=asc_df_B00FZPDG1K/?tag=hyprod-20&linkCode=df0&hvadid=198070022856&hvpos=&hvnetw=g&hvrand=17742729763616527406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008192&hvtargid=pla-382997837730&psc=1) [Aliexpress](https://s.click.aliexpress.com/e/_98E2l5) |
 
 ### Prep
 1. Test the heat bed to determine it's wattage and make sure it doesn't have a short. Using the multimeter set to read resistance, measure the restisance between the red and black wires. Use the formula Volts * (Volts/Resistance) = Watts to determine the Wattage. In my case, 24V * (24V/2.5 Ohms) = 230 Watts.
@@ -50,14 +53,14 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     ![](img/18-TestHeatedBed.JPG)\
     *fig 18.1*
 
-    Note: Big Tree Tech recommends an external mosfet for anything over 144 Watts so I'll definitely be using a $10 external Mosfet to keep my board from catching on fire. Also it will probably increase the life on any controller board as they'll run a lot cooler.
+    Note: Big Tree Tech recommends an external mosfet for anything over 144 Watts so I'll definitely be using a $10 external Mosfet to keep my board from catching on fire. Also it will probably increase the life for other controller boards as they'll run a lot cooler.
 
-2. Test the thermistor to make sure it isn't shorted or there isn't a loose wire. Using the multimeter set to read resistance, measure the restisance between the yellow thermistor wires. I get around 111 KOhms at room temperature which is good. As long as you get a reading KOhms you're probably good.
+2. Test the thermistor to make sure it isn't shorted or there isn't a loose wire. Using the multimeter set to read resistance, measure the restisance between the yellow thermistor wires. I get around 111 KOhms at room temperature which is good. As long as you get a reading in KOhms you're probably good.
 
     ![](img/18-TestBedThermistor.JPG)\
     *fig 18.2*
 
-3. Attach the heated bed insulation
+3. Attach the heated bed insulation.
     1. Measure and cut holes for bed leveling springs.
 
         ![](img/18-HBInsulationHoles1.JPG)\
@@ -79,13 +82,13 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-HBInsulationTrimFromPower.JPG)\
         *fig 18.7*
 
-4. Attach Magnetic Sheet to the heated bed.
+4. Attach the magnetic sheet to the heated bed.
     1. Create a ledge to help align the magnetic sheet. *I used some scrap wood*
 
         ![](img/18-ledgeToAlignMagSheet.JPG)\
         *fig 18.8*
 
-    2. Test fit the Magnetic Sheet on the build plate.
+    2. Test fit the magnetic sheet on the build plate.
 
         ![](img/18-testFitMagSheet.JPG)\
         *fig 18.9*
@@ -112,7 +115,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-AttachHBMagSurface2.JPG)\
         *fig 18.13*
 
-    7. Keep pealing back paper, 4cm at a time, and smotthing down with the spreader until the entire Magnetic Sheet is attached to the heated bed. If you go slow and are careful you shouldn't have any air bubbles trapped under the sheet. 
+    7. Keep peeling back paper, 4cm at a time, and smoothing down with the spreader until the entire magnetic sheet is attached to the heated bed. If you go slow and are careful you shouldn't have any air bubbles trapped under the sheet. 
 
         ![](img/18-AttachHBMagSurface3.JPG)\
         *fig 18.14*
@@ -125,7 +128,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-TrimHBMagSurface.JPG)\
         *fig 18.16*
 
-    9. Using the heated bed mounting holes as a guide, poke throug the underside of the magnetic sheet using the X-acto knife. This will help you find the mounting holes from the top.
+    9. Using the heated bed mounting holes as a guide, poke through the underside of the magnetic sheet using the X-acto knife. This will help you find the mounting holes from the top.
 
         ![](img/18-CutHolesHBMagSurface1.JPG)\
         *fig 18.17*
@@ -138,7 +141,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
         ![](img/18-CutHolesHBMagSurface3.JPG)\
         *fig 18.19*
 
-    6. Using the X-Acto knife cut out the hole. I found doing this slowly with small shavings worked best.
+    6. Using the X-Acto knife, cut out the hole. I found doing this slowly with small shavings worked best.
 
         ![](img/18-CutHolesHBMagSurface4.JPG)\
         *fig 18.20*
@@ -175,7 +178,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     ![](img/18-AttachFrameMount.JPG)\
     *fig 18.27*
 
-3. Attach zip tie to the wireguide mounts. Manually move the bed up and down and make sure the wireguide doesn't run into anything. The zip tie should maintain a graceful arc at all points and should naturally stay level with the 2020 extrusion (See Fig 18.9 and 18.10). **The teeth should be on the outside of the loop.**
+3. Attach the 24 inch zip tie to the wireguide mounts. Manually move the bed up and down and make sure the wireguide doesn't run into anything. The zip tie should maintain a graceful arc at all points and should naturally stay level with the 2020 extrusion (See Fig 18.29 and 18.30). **The teeth should be on the outside of the loop.**
 
     ![](img/18-AttachZipTie.JPG)\
     *fig 18.28*
@@ -186,7 +189,7 @@ The heated bed is one of the most likely components on a 3d printer to catch fir
     ![](img/18-ZipTieBottom.JPG)\
     *fig 18.30*
 
-4. Trim the zip tie, once your happy with it's movement, and tighten the m3 screws to clamp in place. *Mine was 520mm long when trimmed.*
+4. Trim the zip tie, once your happy with it's movement, and tighten the M3 screws to clamp it in place. *Mine was 520mm long when trimmed.*
 
     ![](img/18-TrimZipTie.JPG)\
     *fig 18.31*
