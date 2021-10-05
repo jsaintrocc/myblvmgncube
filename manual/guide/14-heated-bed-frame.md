@@ -45,7 +45,7 @@
 | M4 35mm Flat Head Socket Cap Screws | 4 | DIN7991 | [Amazon](https://amzn.to/2QeNmkQ) |
 | M4 Nuts | 4 | DIN934 | |
 | M4 Washers | 8 | DIN125 | [Amazon](https://amzn.to/3uNDUUy) |
-| Heated Bed 300mm x 300mm | 1 | Suggested by BLV's BoM but<BR>I suspect this might warp when heated | [AliExpress](https://s.click.AliExpress.com/e/_A6jzZb) |
+| Heated Bed 310mm x 310mm | 1 | This is different than what's pictured below ... This part is the one you want | [AliExpress](https://s.click.aliexpress.com/e/_Aq7W5i) |
 
 ### Prep
 1. File down the 4x bed holders so that the T-Nuts will have enough space to grab the extrusion.
