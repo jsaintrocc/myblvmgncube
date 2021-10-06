@@ -47,7 +47,7 @@ M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txra
     ![](img/19-AttachYSwitchToMount.JPG)\
     *fig 19.3*
 
-2. Attach the Y endstop mount to the frame as shown using 2x M5 10mm Screws and T-nuts (Fig 19.3). Positon it so that the switch is griggered just at the nozzle reaches the end of the bed and before it hits the bed power connector (Fig 19.4).
+2. Attach the Y endstop mount to the frame as shown using 2x M5 10mm Screws and T-nuts (Fig 19.3). Positon it so that the switch is triggered just at the nozzle reaches the end of the bed and before it hits the bed power connector (Fig 19.4).
 
     ![](img/19-MountYStopToFrame.JPG)\
     *fig 19.3*
