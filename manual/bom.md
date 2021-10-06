@@ -249,6 +249,16 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Heated Bed Magnetic Flex Plate | 1 | 310mm x 310mm Double Sided PEI Flex Plate and High Temp Magnetic Sheet | [Amazon (Fulament)](https://www.amazon.com/Fulament-Printing-Magnetic-Sticker-Adhesive/dp/B07ZVYPSSQ/ref=sr_1_1_sspa?crid=3LGKKARPDOG34&dchild=1&keywords=fulament%2Bflex%2Bbed&qid=1632181739&s=industrial&sprefix=fulament%2Cindustrial%2C162&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUkMxNUdRNzRNSUpWJmVuY3J5cHRlZElkPUEwNjUwNTAyM0kzTDg1ME9FNUtTRSZlbmNyeXB0ZWRBZElkPUEwMTA5NzQ5OU1RM1NSWEs4UjI3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) [AliExpress (Energetic)](https://s.click.aliexpress.com/e/_9jGuVk) |
 | 3mm x 10.16cm zip ties (4in)  | 12 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
+| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -374,6 +384,16 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | [heatbed-wireguide-bedmount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-bedmount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [heatbed-wireguide-framemount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-framemount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [heatbed-wireguide-loop.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](../partsSettings.md) |
+
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
+| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 
 ## Tools BoM
 
@@ -549,3 +569,10 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Rubbing Alcohol (91% - 99%) | 16 Fl. Oz. | | [Amazon](https://amzn.to/39G8UNU) |
 | flush cutter | 1 | | [Amazon](https://www.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/ref=asc_df_B00FZPDG1K/?tag=hyprod-20&linkCode=df0&hvadid=198070022856&hvpos=&hvnetw=g&hvrand=17742729763616527406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008192&hvtargid=pla-382997837730&psc=1) [Aliexpress](https://s.click.aliexpress.com/e/_98E2l5) |
 
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
+| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+| M2 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
