@@ -3,7 +3,7 @@
 ## Disclaimer
 **WORK IN PROGRESS**
 
-I'm building this BoM as I go to verify everything is accurate. Here is my [Master Harware BoM](../notes/My_BoM.xlsx) and my [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx). You should to cross check this with other sources.
+I'm building this BoM as I go to verify everything is accurate. Here is my [Master Harware BoM](../notes/My_BoM.xlsx) and my [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx). You should cross check this with other sources.
 
 ## Hardware BoM
 ### Step 1
@@ -206,6 +206,59 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Tempered Hardboard (Masonite) | 440mm x 574mm | 1/8 in (~3mm) Thick<br>You'll need enough for all the panels | [Home Depot](https://www.homedepot.com/p/1-8-in-x-2-ft-x-4-ft-Tempered-Hardboard-Actual-0-115-in-x-23-75-in-x-47-75-in-109112/202585358) [B&Q](https://www.diy.com/departments/brown-hardboard-l-1-22m-w-0-61m-t-3mm/1696235_BQ.prd) [Bunnings](https://www.bunnings.com.au/masonite-1200-x-915-x-3-2mm-handypanel_p0242391) [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
 | Mean Well Power Supply | 1 | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
 
+### Step 16
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Female 3 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Male 2 Pin JST-XH Connector | 2 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Heat Shrink Tubing | 10cm | Enough to cover the pins of the JST-XH Male Connectors | |
+| Green Wire | 1m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Black Wire | 3m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Red Wire | 2m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| BLTouch Extension Cable | 1m | Should have come with your BLTouch | [Amazon](https://amzn.to/3rKZEhH) |
+
+### Step 17
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Extruder Stepper Motor | 1 | STEPPERONLINE 17HS16-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-and-connector.html?search=17HS16-2004S1) |
+| BMG Extruder | 1 | A good quality clone is fine | [Aliexpress](https://www.aliexpress.com/item/32917029058.html?spm=a2g0s.9042311.0.0.27424c4d85bUyI) |
+| M3 35mm Socket Head Cap Screws | 3 | DIN912 (Should be included with the BMG Extruder Kit)| |
+| M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
+| M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 8mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M3 Thin Square Nuts | 1 | DIN562 | |
+| 1/2" Flex Tubing | 62cm | Also called split wire loom | [Home Depot](https://www.homedepot.com/p/Gardner-Bender-3-8-in-and-1-2-in-Flex-Tubing-7-ft-and-10-ft-Combo-Pack-FLX-538C10/205588197#product-overview) [Amazon](https://www.amazon.com/Gardner-Bender-FLX-538C10-Assorted-Corrugated/dp/B01MSN7D25/ref=sr_1_10?dchild=1&keywords=split%2Bflex%2Btubing%2B1%2F2%22&qid=1628354523&s=hi&sr=1-10&th=1) [Aliexpress](https://www.aliexpress.com/item/32855974110.html?spm=a2g0o.productlist.0.0.112a72eas6e75a&algo_pvid=6370ddcb-8c94-4862-98e7-a1bb0f65fe20&algo_exp_id=6370ddcb-8c94-4862-98e7-a1bb0f65fe20-28) |
+| 3mm x 10.16cm zip ties (4in)  | 11 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+| 24 inch Nylon zip ties | 1 | ~9mm wide at least 60cm long | [Amazon](https://www.lowes.com/pd/Utilitech-15-Pack-24-in-Cable-Ties/50005756) |
+
+### Step 18
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Heated Bed | 1 | 24V ~220W Aluminum Heated 310mm x 310mm x 3mm | [AliExpress](https://s.click.aliexpress.com/e/_Aq7W5i) |
+| 24 inch Nylon zip ties | 1 | ~9mm wide at least 60cm long | [Amazon](https://www.lowes.com/pd/Utilitech-15-Pack-24-in-Cable-Ties/50005756) |
+| M5 8mm Socket Button Head Screws | 4 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
+| M3 Thin Square Nuts | 2 | DIN562 | |
+| M3 10mm Socket Head Cap Screws | 2 | DIN912 | |
+| M4 Nuts | 4 | DIN934 | |
+| M4 40mm Screws | 4 | Din7991 | [AliExpress](https://s.click.aliexpress.com/e/_A1aLOM) |
+| M4 Washers | 4 | DIN125| |
+| Bed Leveling Springs | 4 | Length: 20mm OD: 8mm ID: 4mm | [AliExpress](https://www.amazon.com/gp/product/B07QCN4LB9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+| Heated Bed Insulation | 1 | 300mm x 300mm x 10mm | [AliExpress](https://s.click.aliexpress.com/e/_AaR1YQ) |
+| Heated Bed Magnetic Flex Plate | 1 | 310mm x 310mm Double Sided PEI Flex Plate and High Temp Magnetic Sheet | [Amazon (Fulament)](https://www.amazon.com/Fulament-Printing-Magnetic-Sticker-Adhesive/dp/B07ZVYPSSQ/ref=sr_1_1_sspa?crid=3LGKKARPDOG34&dchild=1&keywords=fulament%2Bflex%2Bbed&qid=1632181739&s=industrial&sprefix=fulament%2Cindustrial%2C162&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUkMxNUdRNzRNSUpWJmVuY3J5cHRlZElkPUEwNjUwNTAyM0kzTDg1ME9FNUtTRSZlbmNyeXB0ZWRBZElkPUEwMTA5NzQ5OU1RM1NSWEs4UjI3JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) [AliExpress (Energetic)](https://s.click.aliexpress.com/e/_9jGuVk) |
+| 3mm x 10.16cm zip ties (4in)  | 12 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
+| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+
 ## Printed Parts BoM
 
 ### Step 2
@@ -315,6 +368,32 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 |-----------|:--------:|---------|
 | Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings.md) |
 | Extruder__-_bondtech_Rear_mount.stl (Used as a tool in this step) | 1 | [Printed Parts Settings](../partsSettings.md) |
+
+### Step 17
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| [extruder-mount.stl](../../extra/hotend-cable-manager/files/extruder-mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [frame-hotend-cable-locker.stl](../../extra/hotend-cable-manager/files/frame-hotend-cable-locker.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [flex-tube-reinforcer.stl](../../extra/hotend-cable-manager/files/flex-tube-reinforcer.stl) | 10 | [Printed Parts Settings](../partsSettings.md) |
+| [hotend-cable-guide.stl](../../extra/hotend-cable-manager/files/hotend-cable-guide.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+
+### Step 18
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| [BLV_Thumbwheel_bed_leveling_knob.stl](../../parts/extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-bedmount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-bedmount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-framemount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-framemount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| [heatbed-wireguide-loop.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](../partsSettings.md) |
+
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
+| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 
 ## Tools BoM
 
@@ -462,3 +541,38 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Drill Bits | 4.5mm and 5.5mm or 11/64" and 7/32" | | [Amazon](https://www.amazon.com/Migiwata-Extremely-Resistant-Straight-Stainless/dp/B071ZRMWBN/ref=sr_1_2_sspa?dchild=1&gclid=CjwKCAjw2ZaGBhBoEiwA8pfP_qvvSDVjPj1nrN0f2J_9dWb_qNrTin5UjltdlEO3dHnDmmcXLze0-xoCqGkQAvD_BwE&hvadid=409940714355&hvdev=c&hvlocphy=9008192&hvnetw=g&hvqmt=e&hvrand=7482245044767489653&hvtargid=kwd-100882843&hydadcr=24658_11410762&keywords=metric+drill+bits&qid=1623621712&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkVUMFBGNkw4NjNWJmVuY3J5cHRlZElkPUEwMTE3ODk3MzhEMEJTTDdLS1BSRyZlbmNyeXB0ZWRBZElkPUEwMDIzMDQ3NjUzSFE3QlczNUlFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
 | Blue Tape | 1 roll | | [Amazon](https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B00004Z4DU/ref=pd_bxgy_img_1/143-2852796-4819033?pd_rd_w=4kikX&pf_rd_p=fd3ebcd0-c1a2-44cf-aba2-bbf4810b3732&pf_rd_r=5ETWTS9S66YG9GHYQGE8&pd_rd_r=1e531a74-26c0-48c7-8687-d6f892f017ea&pd_rd_wg=vhS40&pd_rd_i=B00004Z4DU&psc=1) |
 
+### Step 16
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| JST-XH Crimper | 1 | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
+| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
+| Helping Hands | 1 | Optional but will make the soldering much easier | [Amazon](https://www.amazon.com/Neiko-01902-Adjustable-Magnifying-Alligator/dp/B000P42O3C/ref=sr_1_1?dchild=1&keywords=helping+hands&qid=1628984768&sr=8-1) |
+| Butane Mini Torch | 1 | You might need to purchase ligher fluid separately (Can't remember) | [Amazon](https://amzn.to/2R3ymGG) |
+| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+
+### Step 17
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| 1.5mm Allen Wrench | 1 | For extruder gear | [Amazon](https://amzn.to/3qNmEgs) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+
+### Step 18
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| Plastic Spreader | 1 | Can use an old plastic credit card instead | [Amazon](https://www.amazon.com/3M-357-Bondo-Spreader-Pack/dp/B000BOC9K4/ref=sr_1_7?crid=PC2YPFP1GXF4&dchild=1&keywords=spreader+body+filler&qid=1632181340&sprefix=spreader+body%2Caps%2C152&sr=8-7) |
+| X-Acto Knife | 1 | | [Amazon](https://amzn.to/3gUPYPI) |
+| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
+| Rubbing Alcohol (91% - 99%) | 16 Fl. Oz. | | [Amazon](https://amzn.to/39G8UNU) |
+| flush cutter | 1 | | [Amazon](https://www.amazon.com/Hakko-CHP-170-Micro-Cutter/dp/B00FZPDG1K/ref=asc_df_B00FZPDG1K/?tag=hyprod-20&linkCode=df0&hvadid=198070022856&hvpos=&hvnetw=g&hvrand=17742729763616527406&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008192&hvtargid=pla-382997837730&psc=1) [Aliexpress](https://s.click.aliexpress.com/e/_98E2l5) |
+
+### Step 19
+| Parts     | Quantity | Details | Example Links |
+|-----------|:--------:|---------|---------------|
+| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
+| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+| M2 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |

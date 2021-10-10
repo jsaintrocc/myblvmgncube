@@ -18,7 +18,7 @@ I'm in the process of building my first Cube so directions will probably change 
 This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by Ben Levi. My goal is to provide a guide that others can follow to build their own cubes. This guide, at least initally, will provide instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
 
 ### Current Build Picture
-![Current Progress](manual/guide/img/all-CurrentBuild.jpeg)
+![Current Progress](manual/guide/img/all-CurrentBuild.JPG)
 
 ### My Build Specifications
 * Standard 365mm build height frame (The one listed on BLV's site)
