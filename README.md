@@ -26,7 +26,7 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 * BLTouch ABL probe
 * SKR v1.4 controller
 * TMC2208 stepper drivers
-* TFT35 LCD touch screen
+* BIGTREETECH TFT35 <u>V3</u> LCD touch screen
 
 ## Bill of Materials
 [Read the BoM here](manual/bom.md)
