@@ -32,16 +32,34 @@
 
 ### Prep
 
-1. Build the EXP1 (10pin IDC) Cable to RJ45 Adapter
+1. Adapt EXP1 (10pin IDC) Cable to use Ethernet Extensions
 
-    ![](img/20-XXX.JPG)\
-    *fig 20.1*
+    1. Cut the EXP1 ribbon cable about 60mm from the connectors and separate the ribbons into individual wires.
 
+        ![](img/20-PrepExp1.JPG)\
+        *fig 20.1*
 
-1. Build the EXP2 (10pin IDC) Cable to RJ45 Adapters
+    2. For  the LCD side (Key on top of connector) splice with a keystone jack. Red wire is 1. Wires 6/7/8 are not used for EXP1 and can be trimmed.
 
-    ![](img/20-XXX.JPG)\
-    *fig 20.1*
+        ![](img/20-Exp1LCDKeystone.JPG)\
+        *fig 20.2*
+
+    3. For  the Controller Board side (Key on bottom connector) flip the cable over so red wire is on the left. Wireing is exactly the same as the LCD side. Wires 6/7/8 are not used for EXP1 and can be trimmed.
+
+        ![](img/20-Exp1BoardKeystone.JPG)\
+        *fig 20.3*
+
+    4. Make sure to attach the little caps on the keystones. These prevent the spliced wires from slipping out. Also it's a good idea to label the connectors. Exp1 and Exp2 will **not** be interchangeable.
+
+        ![](img/20-Exp1KeystonesFinal.JPG)\
+        *fig 20.4*
+
+1. Adapt EXP2 (10pin IDC) Cable to use Ethernet Extensions.
+
+     2. Follow the same process you used for EXP1 but with only wires 7 and 10 removed.
+
+        ![](img/20-XXX.JPG)\
+        *fig 20.5*
 
 
 1. Build the RS232 (JST-??) to RJ45 Adapter
