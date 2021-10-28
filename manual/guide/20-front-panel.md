@@ -60,7 +60,12 @@
 
         <details><summary>EXP2 Pinout</summary>
         <p>
+		
+        ![](img/20-Exp1BoardKeystone.JPG)\
+        *fig 20.3*
+		
         [Pinout Reference](https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller)
+		
         </p>
         </details>
 
