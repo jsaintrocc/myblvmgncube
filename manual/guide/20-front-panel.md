@@ -44,6 +44,15 @@
         ![](img/20-Exp1LCDKeystone.JPG)\
         *fig 20.2*
 
+<details><summary>EXP1 Pinout</summary>
+<p>
+
+[Pinout Reference](https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller)
+
+</p>
+</details>
+
+
     3. For  the Controller Board side (Key on bottom connector) flip the cable over so red wire is on the left. Wireing is exactly the same as the LCD side. Wires 6/7/8 are not used for EXP1 and can be trimmed.
 
         ![](img/20-Exp1BoardKeystone.JPG)\
