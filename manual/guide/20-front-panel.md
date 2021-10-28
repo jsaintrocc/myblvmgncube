@@ -58,6 +58,12 @@
         ![](img/20-Exp1BoardKeystone.JPG)\
         *fig 20.3*
 
+        <details><summary>EXP2 Pinout</summary>
+        <p>
+        [Pinout Reference](https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller)
+        </p>
+        </details>
+
     4. Make sure to attach the little caps on the keystones. These prevent the spliced wires from slipping out. Also it's a good idea to label the connectors. Exp1 and Exp2 will **not** be interchangeable.
 
         ![](img/20-Exp1KeystonesFinal.JPG)\
