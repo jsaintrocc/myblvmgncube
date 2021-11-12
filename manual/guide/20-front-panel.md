@@ -17,6 +17,9 @@
 [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 4 | | [Amazon](https://amzn.to/3rRVq7U) |
 | M5 8mm Socket Head Cap Screws | 8 | DIN912 | |
 | M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
+| M3 6mm Socket Head Cap Screws | 4 | DIN912 | |
+| M3 12mm Socket Head Cap Screws | 4 | DIN912 | |
+
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -116,3 +119,26 @@
 
     ![](img/20-AttachExtSupp2.JPG)\
     *fig 20.9*
+
+2. Plug the EXP1 EXP2 and RS232 adapters into the back of the TFT touch panel.
+
+    ![](img/20-TFTwAdapters.JPG)\
+    *fig 20.10*
+
+3. Using 4x M3 6mm screws attach the TFT screen to the TFT35 Mount.
+
+    ![](img/20-AttachTFTtoMount.JPG)\
+    *fig 20.11*
+
+4. Using 4x M3 12mm screws attach the TFT35 Mount to the left front panel.
+
+    ![](img/20-AttachTFTMountToPanel.JPG)\
+    *fig 20.12*
+
+5. Attach the knob onto the TFT encoder.
+
+    ![](img/20-AttachTFTKnob.JPG)\
+    *fig 20.13*
+
+
+
