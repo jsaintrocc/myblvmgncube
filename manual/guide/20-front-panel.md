@@ -15,11 +15,13 @@
 | 1 Meter Ethernet Cables | 3 | Whatever you have lying around is fine (AWG24 is ideal, stranded or solid) |[Amazon](https://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00C2CBBAM) |
 | Female 5 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 4 | | [Amazon](https://amzn.to/3rRVq7U) |
-| M5 8mm Socket Head Cap Screws | 8 | DIN912 | |
-| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
 | M3 6mm Socket Head Cap Screws | 4 | DIN912 | |
 | M3 12mm Socket Head Cap Screws | 4 | DIN912 | |
-
+| M3 16mm Socket Head Cap Screws | 1 | DIN912 | |
+| M3 Nuts | 1 | DIN934 | |
+| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 10mm Socket Button Head Screws | 14 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts | 22 | Hammer Head/Drop In Style | |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -139,6 +141,90 @@
 
     ![](img/20-AttachTFTKnob.JPG)\
     *fig 20.13*
+
+6. Using 2x M5 10mm bolts and T-nuts to the left front panel mount and attach to the frame as shown
+
+    ![](img/20-AttachLTPanel1.JPG)\
+    *fig 20.14*
+
+7. Don't bother using the M5 attachment point inside the panel. It's a pain to get to and you won't be able to adjust the panels later if you use it.
+
+    ![](img/20-AttachLTPanel2.JPG)\
+    *fig 20.15*
+
+8. Secure the bottom of the panel using an M5 10mm and a T-nut. Be careful because this part of the print is delicate. I broke it and had to fix it with crazy glue gel. To help position the T-nut use a strip of blue tape.
+
+    ![](img/20-AttachLTPanel3Tape.JPG)\
+    *fig 20.16*
+
+    ![](img/20-AttachLTPanel3.JPG)\
+    *fig 20.17*
+
+9. Attach 2x M5 10mm bolts and T-nuts to the center front panel and attach to the frame as shown.
+
+    ![](img/20-AttachCPanel1.JPG)\
+    *fig 20.18*
+
+    ![](img/20-AttachCPanel2.JPG)\
+    *fig 20.19*
+
+10. Using an M3 16mm blot and nut. Tie the left and center panels together.
+
+    ![](img/20-AttachLtToCPanel.JPG)\
+    *fig 20.20*
+
+11. Attach 4x M5 10mm bolts and T-nuts to the right front panel.
+
+    ![](img/20-AttachRTPanelM5s.JPG)\
+    *fig 20.20*
+
+12. Carefully flex the panel to get the top t-nuts into the 2040 extrusion channel and tighten all of the M5 screws.
+
+    ![](img/20-AttachRTPanel1.JPG)\
+    *fig 20.21*
+
+    ![](img/20-AttachRTPanel2.JPG)\
+    *fig 20.22*
+
+13. Adjust the panels to close any gaps. I had to shift the left and right panels together to minimize the gaps.
+
+    ![](img/20-AdjustPanels.JPG)\
+    *fig 20.23*
+
+14. Now attach the bottom of the right panel using an M5 10mm screw and T-nut
+
+    ![](img/20-AttachRTPanel3.JPG)\
+    *fig 20.24*
+
+15. Use 4x M5 10mm screws and T-nuts to attach the left and right grills.
+
+    ![](img/20-AttachLTGrill.JPG)\
+    *fig 20.25*
+
+    ![](img/20-AttachRTGrill.JPG)\
+    *fig 20.26*
+
+16. Here's what the panel should look like at this point.
+
+    ![](img/20-FullFrontPanel.JPG)\
+    *fig 20.26*
+
+17. Now attach the wire mounts
+18. Connect 3 ethernet cables to the 3 ethernet adapters in the panel
+    Note: Make sure to also connect the corresponding adapters to the other end so you don't accidentally swap cables when you connect it to the controller board.
+19. Zip tip all the ethernet cables to the wire mounts and trim the zipties
+20. Here's what it should look like when everything is done.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
