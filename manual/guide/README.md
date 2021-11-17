@@ -21,3 +21,4 @@
 17. [Build Bowden Extruder and Hotend Cable Manager](17-extruder-hotend-cable-manager.md)
 18. [Install and Wire the Heated Bed](18-heated-bed.md)
 19. [Mount Y Endstop](19-y-endstop.md)
+20. [Build Front Panel](20-front-panel.md)
