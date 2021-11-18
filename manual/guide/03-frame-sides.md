@@ -66,7 +66,7 @@
 
 3. Find a the flattest surface in your house. Hint, If you have a granite counter top that's probably the best. Make sure it's clean and then use one of your pieces of extrusion as a straight edge and a piece of paper as a thickness gauge. Try and slip a piece of paper under the extrusion in a couple of places to test for flatness. Test multiple directions. Probably won't be perfect but pick the best counter you have. This will be the surface you use to build the frame.
 
-    ![](img/03-TestFlatSurface.jpeg)\
+    ![](img/all-TestFlatSurface.jpeg)\
     *fig 2.3*
 
 4. Check extrusion ends for squareness. We'll be relying on the extrusion ends being square to produce a square frame. The kits should all have pretty good cuts. To check for squareness, but two ends against each other (you should only see a hairline crack where they meet. Flip one around and check it the other way. If you have the same result you're good! If they aren't cut perfectly square or aren't to exact length it's going to be a challenge to get a square frame.
