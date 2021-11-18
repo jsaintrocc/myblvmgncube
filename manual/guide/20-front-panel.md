@@ -34,7 +34,7 @@
 | [Front_Panel_-_left_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_left_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [Front_Panel_-_right_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_right_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
 | [Jig_Main.stl](../../parts/source/stl/Jig_Main.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
-| [cable_clip_vertical.stl](../..//parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+| [cable_clip_vertical.stl](../../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
