@@ -17,8 +17,8 @@
 #### Printed Parts
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| FootLv2.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
-| FootRv2.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
+| [FootLv3.stl](../../parts/extra/feet/FootLv3.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
+| [FootRv3.stl](../../parts/extra/feet/FootLv3.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
