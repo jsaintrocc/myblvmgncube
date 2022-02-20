@@ -2,7 +2,7 @@
 
 ## Calculate Rotational Distance
 
-https://www.klipper3d.org/Rotation_Distance.html
+[Klipper Howto](https://www.klipper3d.org/Rotation_Distance.html)
 
 X & Y
 Microstepping is 16
@@ -101,14 +101,27 @@ Y = nozzle_y_position - probe_y_position = -5.1
 Continue here https://www.klipper3d.org/Probe_Calibrate.html
 
 ### Z probe offset
-G28
-Run "PROBE_CALIBRATE"  
-Place paper under nozzle
-Slowly move nozzle towards bed using TESTZ
-Ex. TESTZ z=-.1 will move the nozzle .1mm closer to the bed
+1. Start Klipper calibration routine (And heat bed for PLA)
 
-ACCEPT
-Then SAVE_CONFIG
+       M190 S65
+       G28
+       PROBE_CALIBRATE
+2. Place paper under nozzle
+3. Slowly adjust probe height
+
+       TESTZ z=-.1
+
+4. Test with paper (Should feel a little grab but not stuck)
+
+   NOTE: you seem to have to add .1 to the saved value to get the proper offset.
+         Maybe more grab or less grab? Whatever adds .1mm
+
+6. Accept and save values
+
+       ACCEPT
+       SAVE_CONFIG
+
+Note:
 
 ## Configure Thermistors
 1. Heatbed

@@ -39,9 +39,17 @@ SAVE_CONFIG
 ### Bed Leveling
 
 ### Print 1st layer
-https://teachingtechyt.github.io/calibration.html#firstlayer
+[Teaching Tech Guide](https://teachingtechyt.github.io/calibration.html#firstlayer)
 
 Use custom start and end gcode and add your macros
+
+| Key                | Value  |
+|--------------------|--------|
+| Auto Bed Levelling | No ABL |
+| Bed X Dimension    | 310    |
+| Bed Y Dimension    | 310    |
+
+
 
 Probably tell people to use 310 x 310 bed with 5 mm safety
 

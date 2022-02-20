@@ -5,8 +5,12 @@
 ### Step 21 BoM
 
 #### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
+| Parts             | Quantity | Details                                                    | Example Links                                                       |
+|-------------------|:--------:|------------------------------------------------------------|---------------------------------------------------------------------|
+| Controller Board  |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                 | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
+| Raspberry Pi      |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine) | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
+| rPI Power Supply  |    1     | Don't skimp here!!                                         | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
+| Heated Bed MOSFET |    1     | Protects/Isolates your Controller Board                    | [AliExpress](https://s.click.aliexpress.com/e/_9u8v5e)              |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -18,7 +22,8 @@
 |-----------|:--------:|---------|---------------|
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
-### BL-Touch Wiring
+### Prep
+#### BL-Touch Wiring
 1. Replace the 3 pin servo connector with a JST-XH 3 pin
 2. Replace the 2 pin probe switch connector with a JST-XH 2 pin
 
@@ -27,7 +32,7 @@ Brown (GND)/Red (+5V)/Orange (Control Signal) Black(GND)/White (Zmin)
 
 Note check the wiring harnes extension cable to make sure they didn't switch some of the wires. I had this problem!! (Take picture of Bl-Touch to wiring harness extension.
 
-### Thermistors
+#### Thermistors
 1. Replace the 2 pin dupont connectors with a 2 pin JST-XH connector
 
 ### Prep
