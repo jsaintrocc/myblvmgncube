@@ -5,12 +5,17 @@
 ### Step 21 BoM
 
 #### Hardware
-| Parts                    | Quantity | Details                                                                          | Example Links                                                       |
-|--------------------------|:--------:|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Controller Board         |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
-| Raspberry Pi             |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
-| rPI Power Supply         |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
-| Lerdge High Power Module |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
+| Parts                           | Quantity | Details                                                                          | Example Links                                                       |
+|---------------------------------|:--------:|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Controller Board                |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
+| Raspberry Pi                    |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
+| rPI Power Supply                |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
+| Lerdge High Power Module/MOSFET |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
+| Female 2 Pin JST-XH Connector   |    2     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 3 Pin JST-XH Connector   |    1     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 4 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+
+
 
 #### Printed Parts
 | Parts                                                                                                                                                                                                 | Quantity | Details |
@@ -31,33 +36,50 @@
 | Flat Head Nail |    1     | Used to melt the rivet heads | |
 | Candle         |    1     | | |
 | M3 Screwdriver |    1     | | [Amazon](https://amzn.to/3qNmEgs) |
+| JST-XH Crimper | 1 | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
 
 ### Prep
 1. Assemble the Slotted Wire Ducts
    1. Sides should click onto pegs on bottom. 
    2. Heat the nail head, using the candle, and heat weld all the pegs.
-   3. I used a twisting motion, with the nail, on top of each peg.
+   3. I used a twisting motion so the nail wouldn't stick.
    
       ![](img/21-makeDucts.jpeg)\
       *fig 21.1*
 
-2. Add JST-XH connectors
-   1. Bltouch/Thermistors 
-      1. Replace the 3 pin servo connector with a JST-XH 3 pin
-      2. Replace the 2 pin probe switch connector with a JST-XH 2 pin
+2. Add JST-XH connectors to all sensors/probes/switches/mosfets/steppers
+   1. For the BLTouch you need a female 3 pin connector for the servo control (Brown=GND, Red=+5V, Orange=Signal) and a female 2 pin connector for the switch (Black=GND, White=Z-min).
+      ![](img/21-BLTouchConnectors.jpeg)\
+      *fig 21.2*
 
-             Using Servo and probe connector from left to right
-             Brown (GND)/Red (+5V)/Orange (Control Signal) Black(GND)/White (Zmin) 
+      ![](img/21-BLTouchExtOK.jpeg)\
+      *fig 21.3*
+   
+      *Note: If you bought the BLTouch wire extension cable, make sure they didn't switch the wires in the connector. I had this problem!!*
 
-         Note check the wiring harnes extension cable to make sure they didn't switch the wires. I had this problem!! (Take picture of Bl-Touch to wiring harness extension.
+   2. For the Hotend and Heated Bed thermistors you need female 2 pin connectors. Polarity doesn't matter.
 
-      3. Attach JST connectors to stepper motors
-          Maybe do a bit on how to verify wiring for board
+      ![](img/21-TermistorConnectors.jpeg)\
+      *fig 21.4*
+   3. For the fans and MOSFET control wire you need female 2 pin connectors.
 
-      4. On Thermistor Replace the 2 pin dupont connectors with a 2 pin JST-XH connector
+      ![](img/21-FanConnectors.jpeg)\
+      *fig 21.5*
 
+   4. For the switches you need female 3 pin connectors.
+
+      ![](img/21-SwitchConnectors.jpeg)\
+      *fig 21.5*
+   5. For stepper motors you need female 4 pin connectors.
+
+      ![](img/21-StepperConnectors.jpeg)\
+      *fig 21.6*
+
+      Note: Not all stepper motors use the same color codes. This is the correct sequence for [SKR boards](img/21-BTT_SKR_V1.4PIN.pdf) and [StepperOnline stepper motors](img/21-17HS19-2004S1.pdf).
+      Only thing that matters is that the coil pairs be grouped together ([Finding Stepper Pairs](https://3ddistributed.com/duet-wifi/stepper-motor-wire-color-and-coil-pairs/))
+  
 ### Assembly
-1. Mount Slotted Wiring Ducts
+1. Mount Slotted Wiring Duct
 
 
 3. Attach power wires to board in correct spot
