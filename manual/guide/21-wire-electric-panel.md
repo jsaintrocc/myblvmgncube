@@ -11,10 +11,10 @@
 | Raspberry Pi                    |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
 | rPI Power Supply                |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
 | Lerdge High Power Module/MOSFET |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
-| Female 2 Pin JST-XH Connector   |    2     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 3 Pin JST-XH Connector   |    1     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 2 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 3 Pin JST-XH Connector   |    3     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 | Female 4 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-
+| 4010 Fan | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
 
 
 #### Printed Parts
@@ -78,6 +78,28 @@
       Note: Not all stepper motors use the same color codes. This is the correct sequence for [SKR boards](img/21-BTT_SKR_V1.4PIN.pdf) and [StepperOnline stepper motors](img/21-17HS19-2004S1.pdf).
       Only thing that matters is that the coil pairs be grouped together ([Finding Stepper Pairs](https://3ddistributed.com/duet-wifi/stepper-motor-wire-color-and-coil-pairs/))
   
+   6. Here is the list of JST-XH connectors you should have when you are done:
+      
+      | Description            | No. of</BR> Pins | Gender |
+      |------------------------|------------------|--------|
+      | BLTouch Servo          | 3                | Female |
+      | BLTouch Switch         | 2                | Female |
+      | Hotend Thermistor      | 2                | Female |
+      | Heated Bed Thermistor  | 2                | Female |
+      | Hotend Fan             | 2                | Female |
+      | Control Board Fan      | 2                | Female |
+      | Parts Cooling Fan      | 2                | Female |
+      | X Endstop Switch       | 2                | Female |
+      | Y Endstop Switch       | 2                | Female |
+      | Left Stepper Motor     | 4                | Female |
+      | Right Stepper Motor    | 4                | Female |
+      | Z1 Stepper Motor       | 4                | Female |
+      | Z2 Stepper Motor       | 4                | Female |
+      | Extruder Stepper Motor | 4                | Female |
+      | MOSFET Control         | 2                | Female |
+
+1.
+
 ### Assembly
 1. Mount Slotted Wiring Duct
 
