@@ -14,7 +14,7 @@
 | Female 2 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 | Female 3 Pin JST-XH Connector   |    3     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
 | Female 4 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| 4010 Fan | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
+| 4010 Fan (Control Board Fan)    | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
 
 
 #### Printed Parts
@@ -69,11 +69,11 @@
    4. For the switches you need female 3 pin connectors.
 
       ![](img/21-SwitchConnectors.jpeg)\
-      *fig 21.5*
+      *fig 21.6*
    5. For stepper motors you need female 4 pin connectors.
 
       ![](img/21-StepperConnectors.jpeg)\
-      *fig 21.6*
+      *fig 21.7*
 
       Note: Not all stepper motors use the same color codes. This is the correct sequence for [SKR boards](img/21-BTT_SKR_V1.4PIN.pdf) and [StepperOnline stepper motors](img/21-17HS19-2004S1.pdf).
       Only thing that matters is that the coil pairs be grouped together ([Finding Stepper Pairs](https://3ddistributed.com/duet-wifi/stepper-motor-wire-color-and-coil-pairs/))
@@ -98,21 +98,36 @@
       | Extruder Stepper Motor | 4                | Female |
       | MOSFET Control         | 2                | Female |
 
-1.
+3. Install heat sinks onto TMC2208 stepper drivers. Make sure heat sink doesn't short any of the pins.
+
+   ![](img/21-StepperHeatSinks.jpeg)\
+   *fig 21.8*
+
+4. Using a sharpie color the negative terminals on the controller board [SKR 1.4 board pinout](img/21-BTT_SKR_V1.4PIN.pdf). 
+
+   ![](img/21-MarkNegativeTerminals.jpeg)\
+   *fig 21.9*
 
 ### Assembly
-1. Mount Slotted Wiring Duct
+1. Set the jumpers on the controller board [SKR 1.4 Manual](img/21-BTT SKR V1.4 Instructions Manual.pdf).
 
+   ![](img/21-SKRJumpers.jpeg)\
+   *fig 21.10*
+
+2. Install the TMC2208 stepper drivers on the control board.
+
+   ![](img/21-installDrivers.jpeg)\
+   *fig 21.11*
 
 3. Attach power wires to board in correct spot
 4. Label all positive and or negative terminals (Neg is probably easier)
    5.   Did this with a marker
-6. Verify power jumper has USB power disabled
-7. Verify drivers have uart enabled pad soddered
-8. Stick the heatsinks onto the drivers
-9. Verify board is in UART mode
+5. Verify power jumper has USB power disabled
+6. Verify drivers have uart enabled pad soddered
+7. Stick the heatsinks onto the drivers
+8. Verify board is in UART mode
    Note: I think the default jumpers work for this (2208's only have UART and not SPI) so spi config probably winds up with uart.
-10. Add drivers to board red pins match red pins
-11. Attach power to board
-12. Plug up all the steppers
-13. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
+9. Add drivers to board red pins match red pins
+10. Attach power to board
+11. Plug up all the steppers
+12. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
