@@ -119,15 +119,19 @@
    ![](img/21-installDrivers.jpeg)\
    *fig 21.11*
 
-3. Attach power wires to board in correct spot
-4. Label all positive and or negative terminals (Neg is probably easier)
+3. Draw guide lines for slotted wire ducts.
+
+   ![](img/21-linesForWireDuct.jpeg)\
+   *fig 21.12*
+4. 
+5. Label all positive and or negative terminals (Neg is probably easier)
    5.   Did this with a marker
-5. Verify power jumper has USB power disabled
-6. Verify drivers have uart enabled pad soddered
-7. Stick the heatsinks onto the drivers
-8. Verify board is in UART mode
+6. Verify power jumper has USB power disabled
+7. Verify drivers have uart enabled pad soddered
+8. Stick the heatsinks onto the drivers
+9. Verify board is in UART mode
    Note: I think the default jumpers work for this (2208's only have UART and not SPI) so spi config probably winds up with uart.
-9. Add drivers to board red pins match red pins
-10. Attach power to board
-11. Plug up all the steppers
-12. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
+10. Add drivers to board red pins match red pins
+11. Attach power to board
+12. Plug up all the steppers
+13. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
