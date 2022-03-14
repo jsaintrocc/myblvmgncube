@@ -5,16 +5,16 @@
 ### Step 21 BoM
 
 #### Hardware
-| Parts                           | Quantity | Details                                                                          | Example Links                                                       |
-|---------------------------------|:--------:|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Controller Board                |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
-| Raspberry Pi                    |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
-| rPI Power Supply                |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
-| Lerdge High Power Module/MOSFET |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
-| Female 2 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 3 Pin JST-XH Connector   |    3     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 4 Pin JST-XH Connector   |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| 4010 Fan (Control Board Fan)    | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
+| Parts                         | Quantity | Details                                                                          | Example Links                                                       |
+|-------------------------------|:--------:|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Controller Board              |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
+| Raspberry Pi                  |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
+| rPI Power Supply              |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
+| Heated Bed MOSFET (Lerdge)    |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
+| Female 2 Pin JST-XH Connector |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 3 Pin JST-XH Connector |    3     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 4 Pin JST-XH Connector |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| 4010 Fan (Control Board Fan)  | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
 
 
 #### Printed Parts
@@ -119,19 +119,42 @@
    ![](img/21-installDrivers.jpeg)\
    *fig 21.11*
 
-3. Draw guide lines for slotted wire ducts.
+3. Draw guidelines for slotted wire ducts.
 
    ![](img/21-linesForWireDuct.jpeg)\
    *fig 21.12*
-4. 
-5. Label all positive and or negative terminals (Neg is probably easier)
-   5.   Did this with a marker
-6. Verify power jumper has USB power disabled
-7. Verify drivers have uart enabled pad soddered
-8. Stick the heatsinks onto the drivers
-9. Verify board is in UART mode
-   Note: I think the default jumpers work for this (2208's only have UART and not SPI) so spi config probably winds up with uart.
-10. Add drivers to board red pins match red pins
-11. Attach power to board
-12. Plug up all the steppers
-13. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
+4. Remove the electronics panel and mark M3 mounting holes, using slotted wiring ducts as a template. Note I only did 2 mounting holes per duct.
+
+   ![](img/21-markHolesForWireDuct.jpeg)\
+   *fig 21.13*
+
+    ![](img/21-WireDuctLocations.jpg)\
+    *fig 21.14*
+
+5. Drill holes for ducts using a 1/8" or 3.2mm drill bit. Clean up and widen any holes that need adjusting with an X-acto knife.
+
+   ![](img/21-drillHolesForWireDuct.jpeg)\
+   *fig 21.15*
+
+6. Mount duct using 2 10mm M3 bolts, washers, and nuts each. Washers are between the bolt head and hardboard.
+
+   ![](img/21-mountWireDuct.jpg)\
+   *fig 21.16*
+7. Break off slotted wiring duct fingers where the ducts intersect.
+
+   ![](img/21-breakDuctFingers.jpg)\
+   *fig 21.17*
+
+8. Reinstall the electronics panel
+
+   ![](img/21-reinstallElectronicsPanel.jpg)\
+   *fig 21.18*
+
+9. Using the DIN mounts install the Controller Board, Heated Bed MOSFET, and Raspberry PI.
+
+   ![](img/21-installElectronics.jpg)\
+   *fig 21.19*
+
+10. Using XX Guage red and black wires run power to the SKR 1.4 and Attach power to board
+11. Plug up all the steppers
+12. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
