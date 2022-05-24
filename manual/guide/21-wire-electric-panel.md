@@ -29,7 +29,11 @@
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](../partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](../partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [Controller_DIN_RAIL_MOUNT HERE](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                                                               |    6     | [Printed Parts Settings](../partsSettings.md) |
+| [Controller_DIN_rail mount](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [Raspberry Pi DIN rail mount](../../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                      |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [MOSFET DIN rail mount](../../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [Controller_DIN_RAIL_MOUNT](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](../partsSettings.md) |
+
 
 #### Tools
 
