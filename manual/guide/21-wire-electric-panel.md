@@ -5,38 +5,40 @@
 ### Step 21 BoM
 
 #### Hardware
-| Parts                         | Quantity | Details                                                                          | Example Links                                                       |
-|-------------------------------|:--------:|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Controller Board              |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)              |
-| Raspberry Pi                  |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)          |
-| rPI Power Supply              |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html) |
-| Heated Bed MOSFET (Lerdge)    |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)              |
-| Female 2 Pin JST-XH Connector |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 3 Pin JST-XH Connector |    3     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 4 Pin JST-XH Connector |    5     | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| 4010 Fan (Control Board Fan)  | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
+| Parts                             | Quantity | Details                                                                          | Example Links                                                                           |
+|-----------------------------------|:--------:|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Controller Board                  |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)                                  |
+| Raspberry Pi                      |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)                              |
+| rPI Power Supply                  |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html)                     |
+| Heated Bed MOSFET (Lerdge)        |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)                                  |
+| Female 2 Pin JST-XH Connector     |    5     | Your controller uses these and you should too                                    | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD)|
+| Female 3 Pin JST-XH Connector     |    3     | Your controller uses these and you should too                                    | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD)|
+| Female 4 Pin JST-XH Connector     |    5     | Your controller uses these and you should too                                    | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD)|
+| 4010 Fan (Control Board Fan)      |    1     | 24V 2Pin Dual Ball Bearing                                                       | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2)                                  |
+| M3 10mm Socket Head Cap Screws    |    14    | DIN912                                                                           |                                                                                         |
+| M3 Nuts                           |    14    | DIN934                                                                           |                                                                                         |
+| M3 Washers                        |    14    | DIN125                                                                           |                                                                                         |
 
-
-#### Printed Parts
 | Parts                                                                                                                                                                                                 | Quantity | Details |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|---------|
 | [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)                      |    1     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    1     | [Printed Parts Settings](../partsSettings.md) |
 | [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                                                |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    9     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)                      |    9     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    9     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                                                |    9     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    1     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    6     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](../partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](../partsSettings.md) |
+| [Controller_DIN_RAIL_MOUNT HERE](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                                                               |    6     | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 
-| Parts          | Qunatity | Details | Example Links |
-|----------------|:--------:|----|---------|
-| Flat Head Nail |    1     | Used to melt the rivet heads | |
-| Candle         |    1     | | |
-| M3 Screwdriver |    1     | | [Amazon](https://amzn.to/3qNmEgs) |
-| JST-XH Crimper | 1 | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
+| Parts          | Quantity | Details                                        | Example Links                                                                                                                                                |
+|----------------|:--------:|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Flat Head Nail |    1     | Used to melt the rivet heads                   |                                                                                                                                                              |
+| Candle         |    1     |                                                |                                                                                                                                                              |
+| M3 Screwdriver |    1     |                                                | [Amazon](https://amzn.to/3qNmEgs)                                                                                                                            |
+| JST-XH Crimper |    1     | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
 
 ### Prep
 1. Assemble the Slotted Wire Ducts
@@ -150,11 +152,25 @@
    ![](img/21-reinstallElectronicsPanel.jpg)\
    *fig 21.18*
 
-9. Using the DIN mounts install the Controller Board, Heated Bed MOSFET, and Raspberry PI.
+9. Using the controller DIN mount install the Controller Board. To make room for the USB cable you will need to remove one of the wiring duct fingers (Fig 21.20).
 
-   ![](img/21-installElectronics.jpg)\
+   ![](img/21-controllerClips.jpeg)\
    *fig 21.19*
 
-10. Using XX Guage red and black wires run power to the SKR 1.4 and Attach power to board
-11. Plug up all the steppers
-12. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
+   ![](img/21-breakFingerForUSB.jpeg)\
+   *fig 21.20*
+
+   ![](img/21-installController.jpeg)\
+   *fig 21.21*
+
+    Note: Verify that all the stepper wires can reach.
+
+
+10. Using the DIN mounts install the Controller Board. To make room for the USB cable you will need to remove one of the wiring duct fingers.
+
+
+10. , Heated Bed MOSFET, and Raspberry PI.
+11. 
+12. Using XX Guage red and black wires run power to the SKR 1.4 and Attach power to board
+13. Plug up all the steppers
+14. Using the provided sd card boot up and carefully test each stepper. Directions aren't important and corexy will be messed up but just make sure each stepper is working (Wire test and validates your board is working with baseline config).
