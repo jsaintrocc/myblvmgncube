@@ -5,14 +5,14 @@
 ### Step 19 BoM
 
 #### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
-M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
-| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Parts                             | Quantity | Details | Example Links |
+|-----------------------------------|:--------:|---------|---------------|
+| Limit Switch                      | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws    | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts                         | 2 | Hammer Head/Drop In Style | |
+| Black Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 
 #### Printed Parts
 | Parts     | Quantity | Details |

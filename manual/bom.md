@@ -425,14 +425,11 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | [heatbed-wireguide-loop.stl](../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 19
-| Parts                             | Quantity | Details | Example Links |
-|-----------------------------------|:--------:|---------|---------------|
-| Limit Switch                      | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| M2 12mm Socket Head Cap Screws    | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts                         | 2 | Hammer Head/Drop In Style | |
-| Black Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Parts     | Quantity | Details |
+|-----------|:--------:|---------|
+| [Y-Endstop-for-kw11-3p.stl](../parts/remixed/Y-Endstop-for-kw11-3p.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [extrusion-cover.stl](../parts/extra/extrusion-cover/extrusion-cover.stl) | 1 (Scaled to 20mm long) | [Printed Parts Settings](partsSettings.md) |
+
 
 ### Step 20
 | Parts     | Quantity | Details |
@@ -447,8 +444,8 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | [cable_clip_vertical.stl](../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 21
-| Parts                                                                                                                                                                                                 | Quantity | Details |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|---------|
+| Parts                                                                                                                                                                                              | Quantity | Details |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|---------|
 | [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    1     | [Printed Parts Settings](partsSettings.md) |
 | [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    1     | [Printed Parts Settings](partsSettings.md) |
 | [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    1     | [Printed Parts Settings](partsSettings.md) |
@@ -457,12 +454,12 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](partsSettings.md) |
-| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](partsSettings.md) |
-| [rPi_DIN_Mount_v4.stl](../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                      |    2     | [Printed Parts Settings](partsSettings.md) |
-| [MOSFET_Long2.stl](../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                |    2     | [Printed Parts Settings](partsSettings.md) |
-| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](partsSettings.md) |
-| [F4010 MountThick.stl](../parts/extra/din-mounts/4010 MountThick.stl)                                                                                                                                   |    2     | [Printed Parts Settings](partsSettings.md) |
-| [cable_clip_vertical.stl](../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](partsSettings.md) |
+| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](partsSettings.md) |
+| [rPi_DIN_Mount_v4.stl](../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                             |    2     | [Printed Parts Settings](partsSettings.md) |
+| [MOSFET_Long2.stl](../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](partsSettings.md) |
+| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](partsSettings.md) |
+| [4010_MountThick.stl](../parts/extra/din-mounts/4010_MountThick.stl)                                                                                                                               |    2     | [Printed Parts Settings](partsSettings.md) |
+| [cable_clip_vertical.stl](../parts/extra/bearCableClip/cable_clip_vertical.stl)                                                                                                                    | 5 | [Printed Parts Settings](partsSettings.md) |
 
 ## Tools BoM
 

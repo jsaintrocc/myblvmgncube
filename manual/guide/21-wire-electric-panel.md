@@ -33,12 +33,12 @@
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](../partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](../partsSettings.md) |
 | [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [rPi_DIN_Mount_v4.stl](../../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                      |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [MOSFET_Long2.stl](../../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [F4010 MountThick.stl](../../parts/extra/din-mounts/4010 MountThick.stl)                                                                                                                                   |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [cable_clip_vertical.stl](../../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [rPi_DIN_Mount_v4.stl](../../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                             |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [MOSFET_Long2.stl](../../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [4010_MountThick.stl](../../parts/extra/din-mounts/4010_MountThick.stl)                                                                                                                               |    2     | [Printed Parts Settings](../partsSettings.md) |
+| [cable_clip_vertical.stl](../../parts/extra/bearCableClip/cable_clip_vertical.stl)                                                                                                                    | 5 | [Printed Parts Settings](../partsSettings.md) |
 
 
 #### Tools
@@ -61,6 +61,7 @@
 
 2. Add JST-XH connectors to the sensors/probes/switches/steppers/MOSFET
    1. For the BLTouch you need a female 3 pin connector for the servo control (Brown=GND, Red=+5V, Orange=Signal) and a female 2 pin connector for the switch (Black=GND, White=Z-min).
+
       ![](img/21-BLTouchConnectors.jpeg)\
       *fig 21.2*
 
@@ -69,20 +70,20 @@
    
       *Note: If you bought the BLTouch wire extension cable, make sure they didn't switch the wires in the connector. I had this problem!!*
 
-   2. For the hotend and heated bed thermistors you need female 2 pin connectors. Polarity doesn't matter.
+   3. For the hotend and heated bed thermistors you need female 2 pin connectors. Polarity doesn't matter.
 
       ![](img/21-TermistorConnectors.jpeg)\
       *fig 21.4*
-   3. For the fans and MOSFET control wire you need female 2 pin connectors.
+   4. For the fans and MOSFET control wire you need female 2 pin connectors.
 
       ![](img/21-FanConnectors.jpeg)\
       *fig 21.5*
 
-   4. For the switches you need female 3 pin connectors.
+   5. For the switches you need female 3 pin connectors.
 
       ![](img/21-SwitchConnectors.jpeg)\
       *fig 21.6*
-   5. For stepper motors you need female 4 pin connectors.
+   6. For stepper motors you need female 4 pin connectors.
 
       ![](img/21-StepperConnectors.jpeg)\
       *fig 21.7*
@@ -90,7 +91,7 @@
       Note: Not all stepper motors use the same color codes. This is the correct sequence for [SKR boards](img/21-BTT_SKR_V1.4PIN.pdf) and [StepperOnline stepper motors](img/21-17HS19-2004S1.pdf).
       Only thing that matters is that the coil pairs be grouped together ([Finding Stepper Pairs](https://3ddistributed.com/duet-wifi/stepper-motor-wire-color-and-coil-pairs/))
   
-   6. Here is the list of JST-XH connectors you should have when you are done:
+   7. Here is the list of JST-XH connectors you should have when you are done:
       
 | Description            | No. of</BR> Pins | Gender |
 |------------------------|------------------|--------|
