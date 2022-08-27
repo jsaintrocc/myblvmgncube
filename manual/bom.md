@@ -8,10 +8,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 ## Hardware BoM
 ### Step 1
 
-<div>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1530908493&amp;single=true&amp;widget=true&amp;headers=false">
-</iframe>
-</div>
+[Step 1 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1530908493&single=true)
 
 ### Step 2
 | Parts     | Quantity | Details | Example Links |
