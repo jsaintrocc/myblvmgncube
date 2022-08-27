@@ -7,9 +7,8 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 
 ## Hardware BoM
 ### Step 1
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1530908493&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Step 2
 | Parts     | Quantity | Details | Example Links |
