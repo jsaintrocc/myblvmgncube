@@ -5,18 +5,18 @@
 ### Step 15 BoM
 
 #### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 576mm (~22 1/2in) 2020 Extrusion | 2 | | |
-| M4 6mm Socket Head Cap Screws | 4 | | [Aliexpress](https://www.aliexpress.com/item/10000148429238.html?spm=a2g0s.9042311.0.0.18d04c4do8Elvl) |
-| M5 Washers | 9 | DIN125| |
-| M5 Nuts | 9 | DIN934 | |
-| M5 T-Nuts | 26 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Head Cap Screws | 35 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
-| Din Rail | 3 | 12 in (~300mm) | [Amazon](https://www.amazon.com/gp/product/B082DLNVZD/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) [AliExpress](https://s.click.aliexpress.com/e/_At6lEP) |
+| Parts     |   Quantity    | Details | Example Links |
+|-----------|:-------------:|---------|---------------|
+| 576mm (~22 1/2in) 2020 Extrusion |       2       | | |
+| M4 6mm Socket Head Cap Screws |       4       | | [Aliexpress](https://www.aliexpress.com/item/10000148429238.html?spm=a2g0s.9042311.0.0.18d04c4do8Elvl) |
+| M5 Washers |       9       | DIN125| |
+| M5 Nuts |       9       | DIN934 | |
+| M5 T-Nuts |      26       | Hammer Head/Drop In Style | |
+| M5 8mm Socket Head Cap Screws |      35       | DIN912 | |
+| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) |      16       | | [Amazon](https://amzn.to/3rRVq7U) |
+| Din Rail |       2       | 12 in (~300mm) | [Amazon](https://www.amazon.com/gp/product/B082DLNVZD/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) [AliExpress](https://s.click.aliexpress.com/e/_At6lEP) |
 | Tempered Hardboard (Masonite) | 440mm x 574mm | 1/8 in (~3mm) Thick<br>You'll need enough for all the panels | [Home Depot](https://www.homedepot.com/p/1-8-in-x-2-ft-x-4-ft-Tempered-Hardboard-Actual-0-115-in-x-23-75-in-x-47-75-in-109112/202585358) [B&Q](https://www.diy.com/departments/brown-hardboard-l-1-22m-w-0-61m-t-3mm/1696235_BQ.prd) [Bunnings](https://www.bunnings.com.au/masonite-1200-x-915-x-3-2mm-handypanel_p0242391) [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
-| Mean Well Power Supply | 1 | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
+| Mean Well Power Supply |       1       | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
 
 #### Printed Parts
 | Parts     | Quantity | Details |
@@ -91,32 +91,32 @@
     ![](img/15-AlignTopExt.JPG)\
     *fig 15.11*
 
-7. Using the 2 brackets attach the top extrusion on the left and right sides. Once the extrusion is secured remove the brackets you attached to help align the extrusion and reattach next to the other 2. There should be 2 brackets per side, all facing the front (same way as the bottom extrusion Fig 15.6).
+6. Using the 2 brackets attach the top extrusion on the left and right sides. Once the extrusion is secured remove the brackets you attached to help align the extrusion and reattach next to the other 2. There should be 2 brackets per side, all facing the front (same way as the bottom extrusion Fig 15.6).
 
     ![](img/15-AttachTopExt.JPG)\
     *fig 15.12*
 
-8. With the frame resting on it's front, rest the 440mm x 574mm Tempered Hardboard panel on the 2x 576mm extrusions you just attached. Clamp as shown in the picture.
+7. With the frame resting on it's front, rest the 440mm x 574mm Tempered Hardboard panel on the 2x 576mm extrusions you just attached. Clamp as shown in the picture.
 
     ![](img/15-ClampPanelTop.JPG)\
     *fig 15.13*
 
-9. Using the 3D printed extruder mount as a guide, trace hole locations on the Blue Tape. Do this for the top and bottom of the panel. Just make sure the panel isn't warped when you do the bottom.
+8. Using the 3D printed extruder mount as a guide, trace hole locations on the Blue Tape. Do this for the top and bottom of the panel. Just make sure the panel isn't warped when you do the bottom.
 
     ![](img/15-TraceHoles.JPG)\
     *fig 15.14*
 
-10. Measure out mounting holes for the Din Rails and power supply location.
+9. Measure out mounting holes for the Din Rails and power supply location. **No middle rail**
 
-    ![](img/15-PSandRailLines.JPG)\
-    *fig 15.15*
+   ![](img/15-PSandRailLines.JPG)\
+   *fig 15.15*
 
-11. Using a Din Rail as a template, mark 3 mounting hole locations per rail.
+10. Using a Din Rail as a template, mark 3 mounting hole locations per rail.
 
     ![](img/15-DinRailTemplate.JPG)\
     *fig 15.16*
 
-12. Create a mounting hole template for the power supply using blue tape.
+11. Create a mounting hole template for the power supply using blue tape. Update: Skip the middle DIN rail.
 
     ![](img/15-MakePSTemplate.JPG)\
     *fig 15.17*
@@ -128,8 +128,8 @@
 
 14. Drill M4 sized holes (11/64" or ~4.5mm) for the power supply and drill M5 (7/32" or ~5.5mm) sized holes for everything else. You should have 4 M4 (Power Supply) and 19 M5 holes (Rails and Panel Mount).
 
-    ![](img/19-DrillHoles.JPG)\
-    *fig 15.18*
+    ![](img/15-DrillHoles.JPG)\
+    *fig 15.19*
 
     Note: It can be helpful to drill a pilot hole with a much smaller bit (1/16" or 1.5mm). This will help you to drill the hole in the exact location you marked.
 
@@ -138,7 +138,7 @@
     ![](img/15-XactoCleanup.JPG)\
     *fig 15.20*
 
-16. Mount the rails using M5 8mm Screws,washers (Only needed on the rail side) and Nuts.
+16. Mount the rails using M5 8mm Screws,washers (Only needed on the rail side) and Nuts. **No middle rail**
 
     ![](img/15-MountRailDetail.JPG)\
     *fig 15.21*
@@ -155,7 +155,7 @@
 
     Note: If the holes don't line up you can use the X-Acto Knife to widen or lengthen them.
 
-18. Here's what the front and back of the electronics panel should look like with everything mounted. Note that M5 8mm screws and T-Nuts have been put in the remaining holes.
+18. Here's what the front and back of the electronics panel should look like with everything mounted. Note that M5 8mm screws and T-Nuts have been put in the remaining holes. **Power supply should have terminals on top**
 
     ![](img/15-ElecPanelFront.JPG)\
     *fig 15.24*
