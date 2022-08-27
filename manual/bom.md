@@ -20,40 +20,40 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
 
 ### Step 3 Left Side
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 T-Nuts | 46 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
-| M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
-| Left Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | |
-| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame | |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| M5 T-Nuts                                                              | 46 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws                                       | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws                                      | 4 | DIN9427 (For tensioner) | |
+| M3 8mm Socket Head Cap Screws                                          | 4 | DIN912 | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
+| Left Y Rail                                                            | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
+| 496mm (~19.5in) 2040 extrusion                                         | 1 | From standard 365mm Z frame | |
+| 560mm (~22in) 2040 extrusions                                          | 2 | From standard 365mm Z frame | |
 
 ### Step 3 Right Side
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 T-Nuts | 48 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 4 | DIN9427 (For tensioner) | |
-| M3 8mm Socket Head Cap Screws | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
-| Right Y Rail | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion | 1 | From standard 365mm Z frame | |
-| 560mm (~22in) 2040 extrusions | 2 | From standard 365mm Z frame | |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| M5 T-Nuts                                                              | 48 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws                                       | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws                                      | 4 | DIN9427 (For tensioner) | |
+| M3 8mm Socket Head Cap Screws                                          | 4 | DIN912 | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
+| Right Y Rail                                                           | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
+| 496mm (~19.5in) 2040 extrusion                                         | 1 | From standard 365mm Z frame | |
+| 560mm (~22in) 2040 extrusions                                          | 2 | From standard 365mm Z frame | |
 
 ### Step 4
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 T-Nuts | 74 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 12 | DIN9427 (For tensioner) | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://amzn.to/3rOTwoo) |
-| 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| M5 T-Nuts                                                              | 74 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws                                       | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
+| M5 10mm Socket Button Head Screws                                      | 12 | DIN9427 (For tensioner) | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
+| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://amzn.to/3rOTwoo) |
+| 496mm (~19.5in) 2040 extrusion                                         | 3 | From standard 365mm Z frame | |
 
 ### Step 5
 | Parts     | Quantity | Details | Example Links |
@@ -117,7 +117,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 ### Step 9
 | Parts     | Quantity | Details | Example Links |
 |-----------|:--------:|---------|---------------|
-| GT2 Belt  | 4m | Gates 6mm GT2 Fiber Glass Reinforced Belt | [AliExpress](https://s.click.aliexpress.com/e/_A64OOo)
+| GT2 Belt  | 4m | Gates 6mm GT2 Fiber Glass Reinforced Belt | [AliExpress](https://s.click.aliexpress.com/e/_A64OOo)|
 | 3mm x 10.16cm zip ties (4in)  | 8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
 ### Step 10
@@ -155,14 +155,14 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | 3mm x 10.16cm zip ties (4in)  | 2 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
 ### Step 12
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 496mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
-| 442mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
-| M5 8mm Socket Button Head Screws | 48 | DIN9427 | |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | |
-| M5 T-Nuts | 50 | Hammer Head/Drop In Style | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| 496mm (~19.5in) 2040 extrusion                                         | 2 | From standard 365mm Z frame | |
+| 442mm (~19.5in) 2040 extrusion                                         | 2 | From standard 365mm Z frame | |
+| M5 8mm Socket Button Head Screws                                       | 48 | DIN9427 | |
+| M5 10mm Socket Button Head Screws                                      | 2 | DIN9427 | |
+| M5 T-Nuts                                                              | 50 | Hammer Head/Drop In Style | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
 
 ### Step 13
 | Parts     | Quantity | Details | Example Links |
@@ -177,34 +177,34 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | Z Stepper Motors | 2 | STEPPERONLINE 17HS19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html?search=17HS19-2004S1) |
 
 ### Step 14
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 405mm (~16in) 2020 Extrusion | 2 | | |
-| 173mm (~6 3/4in) 2020 Extrusion | 2 | For CR-10 sized bed | |
-| M3 22mm Socket Head Cap Screws | 8 | DIN912 | |
-| M3 Lock Nuts | 8 | DIN934 | |
-| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3vUgD3F) |
-| M5 10mm Socket Button Head Screws | 18 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 T-Nuts | 26 | Hammer Head/Drop In Style | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 8 | | [Amazon](https://amzn.to/3rRVq7U) |
-| T8 Lead Screw 400mm | 2 | T8 (8mm Lead) 4 Start Lead Screw | [AliExpress](https://s.click.AliExpress.com/e/_9f89Ix) |
-| T8 Lead Screw Nuts | 2 | Usually comes with the Lead Screws | |
-| M5 35mm Socket Button Head Screws | 4 | DIN9427 | |
-| Flexible 5mm to 8mm Coupler | 2 | D20 L25 | [Amazon](https://www.amazon.com/dp/B08JZ1D5BY/ref=cm_sw_em_r_mt_dp_DZ5SPXRJW4RJVQ7R2R6J) [AliExpress](https://s.click.aliexpress.com/e/_AeyRm7) |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| 405mm (~16in) 2020 Extrusion                                           | 2 | | |
+| 173mm (~6 3/4in) 2020 Extrusion                                        | 2 | For CR-10 sized bed | |
+| M3 22mm Socket Head Cap Screws                                         | 8 | DIN912 | |
+| M3 Lock Nuts                                                           | 8 | DIN934 | |
+| M5 8mm Socket Button Head Screws                                       | 8 | DIN9427 | [Amazon](https://amzn.to/3vUgD3F) |
+| M5 10mm Socket Button Head Screws                                      | 18 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts                                                              | 26 | Hammer Head/Drop In Style | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 8 | | [Amazon](https://amzn.to/3rRVq7U) |
+| T8 Lead Screw 400mm                                                    | 2 | T8 (8mm Lead) 4 Start Lead Screw | [AliExpress](https://s.click.AliExpress.com/e/_9f89Ix) |
+| T8 Lead Screw Nuts                                                     | 2 | Usually comes with the Lead Screws | |
+| M5 35mm Socket Button Head Screws                                      | 4 | DIN9427 | |
+| Flexible 5mm to 8mm Coupler                                            | 2 | D20 L25 | [Amazon](https://www.amazon.com/dp/B08JZ1D5BY/ref=cm_sw_em_r_mt_dp_DZ5SPXRJW4RJVQ7R2R6J) [AliExpress](https://s.click.aliexpress.com/e/_AeyRm7) |
 
 ### Step 15
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 576mm (~22 1/2in) 2020 Extrusion | 2 | | |
-| M4 6mm Socket Head Cap Screws | 4 | | [Aliexpress](https://www.aliexpress.com/item/10000148429238.html?spm=a2g0s.9042311.0.0.18d04c4do8Elvl) |
-| M5 Washers | 9 | DIN125| |
-| M5 Nuts | 9 | DIN934 | |
-| M5 T-Nuts | 26 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Head Cap Screws | 35 | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
-| Din Rail | 3 | 12 in (~300mm) | [Amazon](https://www.amazon.com/gp/product/B082DLNVZD/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) [AliExpress](https://s.click.aliexpress.com/e/_At6lEP) |
-| Tempered Hardboard (Masonite) | 440mm x 574mm | 1/8 in (~3mm) Thick<br>You'll need enough for all the panels | [Home Depot](https://www.homedepot.com/p/1-8-in-x-2-ft-x-4-ft-Tempered-Hardboard-Actual-0-115-in-x-23-75-in-x-47-75-in-109112/202585358) [B&Q](https://www.diy.com/departments/brown-hardboard-l-1-22m-w-0-61m-t-3mm/1696235_BQ.prd) [Bunnings](https://www.bunnings.com.au/masonite-1200-x-915-x-3-2mm-handypanel_p0242391) [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
-| Mean Well Power Supply | 1 | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| 576mm (~22 1/2in) 2020 Extrusion                                       | 2 | | |
+| M4 6mm Socket Head Cap Screws                                          | 4 | | [Aliexpress](https://www.aliexpress.com/item/10000148429238.html?spm=a2g0s.9042311.0.0.18d04c4do8Elvl) |
+| M5 Washers                                                             | 9 | DIN125| |
+| M5 Nuts                                                                | 9 | DIN934 | |
+| M5 T-Nuts                                                              | 26 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Head Cap Screws                                          | 35 | DIN912 | |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
+| Din Rail                                                               | 3 | 12 in (~300mm) | [Amazon](https://www.amazon.com/gp/product/B082DLNVZD/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) [AliExpress](https://s.click.aliexpress.com/e/_At6lEP) |
+| Tempered Hardboard (Masonite)                                          | 440mm x 574mm | 1/8 in (~3mm) Thick<br>You'll need enough for all the panels | [Home Depot](https://www.homedepot.com/p/1-8-in-x-2-ft-x-4-ft-Tempered-Hardboard-Actual-0-115-in-x-23-75-in-x-47-75-in-109112/202585358) [B&Q](https://www.diy.com/departments/brown-hardboard-l-1-22m-w-0-61m-t-3mm/1696235_BQ.prd) [Bunnings](https://www.bunnings.com.au/masonite-1200-x-915-x-3-2mm-handypanel_p0242391) [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
+| Mean Well Power Supply                                                 | 1 | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
 
 ### Step 16
 | Parts     | Quantity | Details | Example Links |
@@ -250,34 +250,53 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 | 3mm x 10.16cm zip ties (4in)  | 12 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
 
 ### Step 19
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
-M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
-| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Parts                             | Quantity | Details | Example Links |
+|-----------------------------------|:--------:|---------|---------------|
+| Limit Switch                      | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws    | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts                         | 2 | Hammer Head/Drop In Style | |
+| Black Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 
 ### Step 20
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| BTT 3.5 in Touch Screen V3.0 | 1 | Dual mode, TFT mode (Marlin)/12864 mode (Klipper/RRF) | [Amazon](https://www.amazon.com/BIGTREETECH-Graphic-Display-Controller-Printer/dp/B07VWF4W3J) [Aliexpress](https://s.click.aliexpress.com/e/_9x9JTN) |
-| IDC Ribbon Cables | 2 | These are the EXP1 and EXP2 cables (Included W/TFT) | |
-| RS232 cable | 1 | Black Cable (Included W/TFT) | |
-| 576mm (~22.7in) 2020 Extrusion | 1 | from standard 365mm Z frame | |
-| Ethernet/RJ45 Keystone Jacks | 6 | | [Amazon](https://www.amazon.com/gp/product/B07JRD69V6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)|
-| 1 Meter Ethernet Cables | 3 | Whatever you have lying around is fine (AWG24 is ideal, stranded or solid) |[Amazon](https://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00C2CBBAM) |
-| Female 5 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-[2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 4 | | [Amazon](https://amzn.to/3rRVq7U) |
-| M3 6mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 12mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 16mm Socket Head Cap Screws | 1 | DIN912 | |
-| M3 Nuts | 1 | DIN934 | |
-| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 10mm Socket Button Head Screws | 14 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 T-Nuts | 22 | Hammer Head/Drop In Style | |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| BTT 3.5 in Touch Screen V3.0                                           | 1 | Dual mode, TFT mode (Marlin)/12864 mode (Klipper/RRF) | [Amazon](https://www.amazon.com/BIGTREETECH-Graphic-Display-Controller-Printer/dp/B07VWF4W3J) [Aliexpress](https://s.click.aliexpress.com/e/_9x9JTN) |
+| IDC Ribbon Cables                                                      | 2 | These are the EXP1 and EXP2 cables (Included W/TFT) | |
+| RS232 cable                                                            | 1 | Black Cable (Included W/TFT) | |
+| 576mm (~22.7in) 2020 Extrusion                                         | 1 | from standard 365mm Z frame | |
+| Ethernet/RJ45 Keystone Jacks                                           | 6 | | [Amazon](https://www.amazon.com/gp/product/B07JRD69V6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)|
+| 1 Meter Ethernet Cables                                                | 3 | Whatever you have lying around is fine (AWG24 is ideal, stranded or solid) |[Amazon](https://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00C2CBBAM) |
+| Female 5 Pin JST-XH Connector                                          | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 4 | | [Amazon](https://amzn.to/3rRVq7U) |
+| M3 6mm Socket Head Cap Screws                                          | 4 | DIN912 | |
+| M3 12mm Socket Head Cap Screws                                         | 4 | DIN912 | |
+| M3 16mm Socket Head Cap Screws                                         | 1 | DIN912 | |
+| M3 Nuts                                                                | 1 | DIN934 | |
+| M5 8mm Socket Button Head Screws                                       | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 10mm Socket Button Head Screws                                      | 14 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
+| M5 T-Nuts                                                              | 22 | Hammer Head/Drop In Style | |
+| 3mm x 10.16cm zip ties (4in)                                           | 6 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+
+### Step 21
+| Parts                          | Quantity | Details                                                                          | Example Links                                                                            |
+|--------------------------------|:--------:|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Controller Board               |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)                                   |
+| Raspberry Pi                   |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)                               |
+| rPI Power Supply               |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html)                      |
+| Heated Bed MOSFET (Lerdge)     |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)                                   |
+| Female 2 Pin JST-XH Connector  |    5     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 3 Pin JST-XH Connector  |    3     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| Female 4 Pin JST-XH Connector  |    5     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
+| 4010 Fan (Control Board Fan)   |    1     | 24V 2Pin Dual Ball Bearing                                                       | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2)                                   |
+| M3 10mm Socket Head Cap Screws |    14    | DIN912                                                                           | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC)                                                                               |
+| M3 Nuts                        |    14    | DIN934                                                                           |                                                                                          |
+| M3 Washers                     |    14    | DIN125                                                                           |                                                                                          |
+| Red Primary Wire               |    2m    | Color: Red, 14 AWG                                                               | [Aliexpress](https://s.click.aliexpress.com/e/_9JtACJ)                                   |
+| Black Primary Wire             |    2m    | Color: Black, 14 AWG                                                             | [Aliexpress](https://s.click.aliexpress.com/e/_9JtACJ)                                   |
 | 3mm x 10.16cm zip ties (4in)  | 6 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
+
 
 ## Printed Parts BoM
 
@@ -305,127 +324,145 @@ M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txra
 | FootRv2.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
 
 ### Step 5
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| X_mount_-_Top_left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_mount_-_Top_right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
+| Parts     | Quantity | Details                                    |
+|-----------|:--------:|--------------------------------------------|
+| X_mount_-_Top_left.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_mount_-_Top_right.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| 2020_Jig.stl | 2 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 6
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Right_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Left_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Left_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Right_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Left_Tensioner_-_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Right_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Left_Tensioner_-_idler_holder.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 7
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| X_carriage_-_Bottom.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Top.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Front_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Rear_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_Bottom.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Top.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Front_plate.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Rear_plate.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 8 Left Block
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Left_corner_-_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Left_corner_-_block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 8 Right Block
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Right_corner_-_Block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_bottom_aux.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Right_corner_-_Block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Right_corner_-_bottom_aux.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 10
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Left_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Left_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Left_corner_-_cap.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Left_corner_-_top.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Right_corner_-_cap.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Right_corner_-_top.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 11
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| X_carriage_-_modified_MK3_fan_blower.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Fan_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_V6_Locker_BL-touch.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Cable_locker.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| X_carriage_-_modified_MK3_fan_blower.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Fan_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_V6_Locker_BL-touch.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Cable_locker.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 12
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Z_rail_stopper_-_Top_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_rail_stopper_-_Top_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings) |
+| Z_rail_stopper_-_Top_Left.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_rail_stopper_-_Top_Right.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Jig_Main.stl | 2 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 13
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Z_rail_stopper_-_Bottom_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_rail_stopper_-_Bottom_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
-| Left_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Z_rail_stopper_-_Bottom_Left.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_rail_stopper_-_Bottom_Right.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Left_mgn_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Right_mgn_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| 2020_Jig.stl | 2 | [Printed Parts Settings](partsSettings.md) |
+| Left_Z_motor_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Right_Z_motor_mount.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 14
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Bed_Holder_-_Front_left_For_CR-10_bed_M4_screw.stl | 4 | [Printed Parts Settings](../partsSettings) |
-| Bed_frame_cover_-_front_left.stl | 4 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
+| Bed_Holder_-_Front_left_For_CR-10_bed_M4_screw.stl | 4 | [Printed Parts Settings](partsSettings.md) |
+| Bed_frame_cover_-_front_left.stl | 4 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
+| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 15
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings.md) |
-| Extruder__-_bondtech_Rear_mount.stl (Used as a tool in this step) | 1 | [Printed Parts Settings](../partsSettings.md) |
+| Jig_Main.stl | 2 | [Printed Parts Settings](partsSettings.md) |
+| Extruder__-_bondtech_Rear_mount.stl (Used as a tool in this step) | 1 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 17
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| [extruder-mount.stl](../../extra/hotend-cable-manager/files/extruder-mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [frame-hotend-cable-locker.stl](../../extra/hotend-cable-manager/files/frame-hotend-cable-locker.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [flex-tube-reinforcer.stl](../../extra/hotend-cable-manager/files/flex-tube-reinforcer.stl) | 10 | [Printed Parts Settings](../partsSettings.md) |
-| [hotend-cable-guide.stl](../../extra/hotend-cable-manager/files/hotend-cable-guide.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+| Parts                                                                                              | Quantity | Details |
+|----------------------------------------------------------------------------------------------------|:--------:|---------|
+| [extruder-mount.stl](../parts/extra/hotend-cable-manager/files/extruder-mount.stl)                 | 1 | [Printed Parts Settings](partsSettings.md) |
+| [frame-hotend-cable-locker.stl](../parts/extra/hotend-cable-manager/files/frame-hotend-cable-locker.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [flex-tube-reinforcer.stl](../parts/extra/hotend-cable-manager/files/flex-tube-reinforcer.stl)        | 10 | [Printed Parts Settings](partsSettings.md) |
+| [hotend-cable-guide.stl](../parts/extra/hotend-cable-manager/files/hotend-cable-guide.stl)            | 5 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 18
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| [BLV_Thumbwheel_bed_leveling_knob.stl](../../parts/extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](../partsSettings.md) |
-| [heatbed-wireguide-bedmount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-bedmount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [heatbed-wireguide-framemount.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-framemount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [heatbed-wireguide-loop.stl](../../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](../partsSettings.md) |
+| [BLV_Thumbwheel_bed_leveling_knob.stl](../parts/extra/bedadjuster/BLV_Thumbwheel_bed_leveling_knob.stl) | 4 | [Printed Parts Settings](partsSettings.md) |
+| [heatbed-wireguide-bedmount.stl](../parts/extra/heated-bed-cable-manager/heatbed-wireguide-bedmount.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [heatbed-wireguide-framemount.stl](../parts/extra/heated-bed-cable-manager/heatbed-wireguide-framemount.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [heatbed-wireguide-loop.stl](../parts/extra/heated-bed-cable-manager/heatbed-wireguide-loop.stl) | 8 | [Printed Parts Settings](partsSettings.md) |
 
 ### Step 19
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| M2 12mm Socket Head Cap Screws | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
-M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 2 | Hammer Head/Drop In Style | |
-| Black Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Parts                             | Quantity | Details | Example Links |
+|-----------------------------------|:--------:|---------|---------------|
+| Limit Switch                      | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
+| M2 12mm Socket Head Cap Screws    | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
+| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
+| M5 T-Nuts                         | 2 | Hammer Head/Drop In Style | |
+| Black Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
+| Green Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
 
 ### Step 20
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| [TFT35v3Mount-tweaked.stl](../../parts/extra/tft35v30-bezel-insert/files/FTFT35v3Mount-tweaked.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Left_plate_for_TFT35_V2.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Left_plate_for_TFT35_V2.STL) | 1 | Works for TFT35 V3.0 as well [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Center_plate.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Center_plate.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Right_plate.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Right_plate.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_left_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_left_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_right_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_right_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Jig_Main.stl](../../parts/source/stl/Jig_Main.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
-| [cable_clip_vertical.stl](../..//parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
+| [TFT35v3Mount-tweaked.stl](../parts/extra/tft35v30-bezel-insert/files/TFT35v3Mount-tweaked.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Front_Panel_-_Left_plate_for_TFT35_V2.STL](../parts/extra/improved-bezel/files/Front_Panel_-_Left_plate_for_TFT35_V2.STL) | 1 | Works for TFT35 V3.0 as well [Printed Parts Settings](partsSettings.md) |
+| [Front_Panel_-_Center_plate.STL](../parts/extra/improved-bezel/files/Front_Panel_-_Center_plate.STL) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Front_Panel_-_Right_plate.STL](../parts/extra/improved-bezel/files/Front_Panel_-_Right_plate.STL) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Front_Panel_-_left_grill.STL](../parts/extra/improved-bezel/files/Front_Panel_-_left_grill.STL) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Front_Panel_-_right_grill.STL](../parts/extra/improved-bezel/files/Front_Panel_-_right_grill.STL) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Jig_Main.stl](../parts/source/stl/Jig_Main.stl) | 2 | [Printed Parts Settings](partsSettings.md) |
+| [cable_clip_vertical.stl](../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](partsSettings.md) |
+
+### Step 21
+| Parts                                                                                                                                                                                                 | Quantity | Details |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|---------|
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    1     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    1     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    1     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    1     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    6     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](partsSettings.md) |
+| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](partsSettings.md) |
+| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](partsSettings.md) |
+| [rPi_DIN_Mount_v4.stl](../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                      |    2     | [Printed Parts Settings](partsSettings.md) |
+| [MOSFET_Long2.stl](../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                |    2     | [Printed Parts Settings](partsSettings.md) |
+| [skr14_Mount2.stl](../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                            |    2     | [Printed Parts Settings](partsSettings.md) |
+| [F4010 MountThick.stl](../parts/extra/din-mounts/4010 MountThick.stl)                                                                                                                                   |    2     | [Printed Parts Settings](partsSettings.md) |
+| [cable_clip_vertical.stl](../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](partsSettings.md) |
 
 ## Tools BoM
 
@@ -451,17 +488,17 @@ M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txra
 | M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 
 ### Step 3
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Framing Square | 1 | | [Amazon](https://amzn.to/3jx02xV) |
-| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| 440mm (~17.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
-| 496mm (~19.5in) 2040 extrusions | 2 | From kit. Used to provide clearance while building frame | |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 2 | | [Amazon](https://amzn.to/3rOTwoo) |
-| M5 T-Nuts | 4 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 4 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
-| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
+| Parts                                                                  | Quantity | Details | Example Links |
+|------------------------------------------------------------------------|:--------:|---------|---------------|
+| Framing Square                                                         | 1 | | [Amazon](https://amzn.to/3jx02xV) |
+| M5 Ball End Tip Screwdriver                                            | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
+| M3 Screwdriver                                                         | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+| 440mm (~17.5in) 2040 extrusions                                        | 2 | From kit. Used to provide clearance while building frame | |
+| 496mm (~19.5in) 2040 extrusions                                        | 2 | From kit. Used to provide clearance while building frame | |
+| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 2 | | [Amazon](https://amzn.to/3rOTwoo) |
+| M5 T-Nuts                                                              | 4 | Hammer Head/Drop In Style | |
+| M5 8mm Socket Button Head Screws                                       | 4 | DIN912 (Can substitue 10mm with 1mm washers for brackets)  | |
+| 30" Bar Clamp                                                          | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
 
 ### Step 4
 | Parts     | Quantity | Details | Example Links |
@@ -617,3 +654,11 @@ M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txra
 | M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
 | Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
 | Ethernet Stripper/Punch Down Tool | 1 | A plastic one is fine, if you have it | [Amazon](https://www.amazon.com/Weletric-Stripper-Crimping-Stripping-Telephone/dp/B078B5G4B2) [Aliexpress](https://s.click.aliexpress.com/e/_AOMa0o) |
+
+### Step 21
+| Parts          | Quantity | Details                                        | Example Links                                                                                                                                                |
+|----------------|:--------:|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Flat Head Nail |    1     | Used to melt the rivet heads                   |                                                                                                                                                              |
+| Candle         |    1     |                                                |                                                                                                                                                              |
+| M3 Screwdriver |    1     |                                                | [Amazon](https://amzn.to/3qNmEgs)                                                                                                                            |
+| JST-XH Crimper |    1     | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |

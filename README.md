@@ -6,19 +6,14 @@
   3. [Printed parts](parts/README.md)
   4. [Print settings](manual/partsSettings.md)
   5. [Assembly Guide](manual/guide/README.md)
-  1. [License](#license)
-  1. [Credits and inspiration](#credits-and-inspiration)
-
-## Disclaimer
-**WORK IN PROGRESS**
-
-I'm in the process of building my first Cube so directions will probably change as I figure things out. Definitely consult other sources and double check what I'm saying at every step.
+  6. [License](#license)
+  7. [Credits and inspiration](#credits-and-inspiration)
 
 ## Introduction
 This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by Ben Levi. My goal is to provide a guide that others can follow to build their own cubes. This guide, at least initally, will provide instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
 
-### Current Build Picture
-![Current Progress](manual/guide/img/all-CurrentBuild.JPG)
+### Build Picture
+![My Printer](manual/guide/img/all-CurrentBuild.jpeg)
 
 ### My Build Specifications
 * Standard 365mm build height frame (The one listed on BLV's site)
@@ -27,6 +22,7 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 * SKR v1.4 controller
 * TMC2208 stepper drivers
 * BIGTREETECH TFT35 <u>V3</u> LCD touch screen
+* 3D printed parts
 
 ## Bill of Materials
 [Read the BoM here](manual/bom.md)

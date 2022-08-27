@@ -22,3 +22,4 @@
 18. [Install and Wire the Heated Bed](18-heated-bed.md)
 19. [Mount Y Endstop](19-y-endstop.md)
 20. [Build Front Panel](20-front-panel.md)
+21. [Wire Electric Panel](21-wire-electric-panel.md)
