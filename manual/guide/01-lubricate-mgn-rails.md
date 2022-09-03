@@ -11,29 +11,7 @@
 
 ### Step 1 BoM
 
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| LDO-MGN12H | 5 | [These are the best of the budget rails](../../notes/linear-rail-bakeoff.md) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) [Filastruder](https://www.filastruder.com/products/ldo-linear-rails) |
-
-
-### Step 1 Tools/Supplies
-
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Rubbing Alcohol (91% - 99%) | 16 Fl. Oz. | | [Amazon](https://amzn.to/39G8UNU) |
-| Super Lube 51010 Oil | 1 0.24 Oz Tube | The tube applicator also works perfectly with the oiling port in the end cap | [Amazon](https://amzn.to/3t9G3s5) |
-| Precision Screwdriver Set | 1 | | [Amazon](https://amzn.to/3fDZgyZ) |
-| Little Mason Jar | 2 | | [Amazon](https://amzn.to/3fJf7fJ) |
-| Large Container | 1 | Plastic or Glass will do. Used to catch bearing if they fall out | [Amazon](https://amzn.to/3uWa28l) |
-| Shop Towels | 1 | | [Amazon](https://amzn.to/3fBgsFv) |
-| 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-| Compressed Air | 2 Cans | Probably only need one but I always seem to run out | [Amazon](https://amzn.to/3umXBSO) |
-| Spare 3/32" Bearings | 10 or more | Optional but good to have If you didn't ask for extra and you loose a couple | [Amazon](https://amzn.to/3ujElVZ) |
-| Pipe Cleaners | 10 or more | You need real ones not the ones used for arts and crafts | [Amazon](https://amzn.to/3eN1H09) |
-| Disposable Nitrile Gloves | 100 | Beats washing your hands every 10 minutes | [Amazon](https://amzn.to/3eMnlSc) |
-| Silicone Spray | 1 Can | Used as a rust preventative on the rails | [Amazon](https://amzn.to/3tdRvTu) |
-| X-Acto Knife | 1 | Any sharp probe will work as well. A pin would also work here.<BR>But seriously if you don't have one of these you should | [Amazon](https://amzn.to/3gUPYPI) |
-| Rare Earth Magnets | 2-3 | Completely Optional but handy to remove metal filings and keep bearings collected | [Amazon](https://amzn.to/2PzUrMD) |
+[Link to BoM Spreadsheet: Step 1 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1530908493&single=true)
 
 ## Prep
 

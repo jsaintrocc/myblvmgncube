@@ -32,7 +32,6 @@
 | 8mm Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
 | Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
 | Jig Saw | 1 | With a 24TPI fine wood cutting blade | [Amazon](https://www.amazon.com/Ryobi-JS481LG-Variable-T-Shank-Lighting/dp/B01GWD50X0/) |
-| 20mm (1/2") Chisel | 1 | Just used to cleanup drilled holes | |
 | X-Acto Knife | 1 | Just for hole cleanup | [Amazon](https://amzn.to/3gUPYPI) |
 | Drill | 1 | | |
 | Drill Bits | 4.5mm and 5.5mm or 11/64" and 7/32" | | [Amazon](https://www.amazon.com/Migiwata-Extremely-Resistant-Straight-Stainless/dp/B071ZRMWBN/ref=sr_1_2_sspa?dchild=1&gclid=CjwKCAjw2ZaGBhBoEiwA8pfP_qvvSDVjPj1nrN0f2J_9dWb_qNrTin5UjltdlEO3dHnDmmcXLze0-xoCqGkQAvD_BwE&hvadid=409940714355&hvdev=c&hvlocphy=9008192&hvnetw=g&hvqmt=e&hvrand=7482245044767489653&hvtargid=kwd-100882843&hydadcr=24658_11410762&keywords=metric+drill+bits&qid=1623621712&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkVUMFBGNkw4NjNWJmVuY3J5cHRlZElkPUEwMTE3ODk3MzhEMEJTTDdLS1BSRyZlbmNyeXB0ZWRBZElkPUEwMDIzMDQ3NjUzSFE3QlczNUlFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
