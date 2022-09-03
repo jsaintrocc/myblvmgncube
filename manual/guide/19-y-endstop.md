@@ -18,7 +18,6 @@
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
 | [Y-Endstop-for-kw11-3p.stl](../../parts/remixed/stl/Y-Endstop-for-kw11-3p.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [extrusion-cover.stl](../../parts/extra/extrusion-cover/extrusion-cover.stl) | 1 (Scaled to 20mm long) | [Printed Parts Settings](../partsSettings.md) |
 
 #### Tools
 | Parts     | Quantity | Details | Example Links |
@@ -54,8 +53,3 @@
 
     ![](img/19-YstopNozzlePos.JPG)\
     *fig 19.4*
-
-3. Use the extrusion cover to secuire the switch wire to the frame.
-
-    ![](img/19-YstopWireMgmt.JPG)\
-    *fig 19.5*
