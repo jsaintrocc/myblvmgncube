@@ -1,58 +1,13 @@
 # MY BLV MGN Cube - Bill of Materials
 
-## Disclaimer
-**WORK IN PROGRESS**
+## Summary
+[Summary](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=0&single=true)
 
-I'm building this BoM as I go to verify everything is accurate. Here is my [Master Harware BoM](../notes/My_BoM.xlsx) and my [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx). You should cross check this with other sources.
-
-## Hardware BoM
-### Step 1
-
-[Step 1 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1530908493&single=true)
-
-### Step 2
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 T-Nuts | 18 | Hammer Head/Drop In Style | |
-| M3 8mm Socket Head Cap Screws | 18 | DIN912 | |
-| 496mm (~19.5in) 2040 Extrusions | 2 | from standard 365mm Z frame |
-| MGN12H 400mm Linear Rail | 5 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
-
-### Step 3 Left Side
-| Parts                                                                  | Quantity | Details | Example Links |
-|------------------------------------------------------------------------|:--------:|---------|---------------|
-| M5 T-Nuts                                                              | 46 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws                                       | 42 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws                                      | 4 | DIN9427 (For tensioner) | |
-| M3 8mm Socket Head Cap Screws                                          | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 11 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
-| Left Y Rail                                                            | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion                                         | 1 | From standard 365mm Z frame | |
-| 560mm (~22in) 2040 extrusions                                          | 2 | From standard 365mm Z frame | |
-
-### Step 3 Right Side
-| Parts                                                                  | Quantity | Details | Example Links |
-|------------------------------------------------------------------------|:--------:|---------|---------------|
-| M5 T-Nuts                                                              | 48 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws                                       | 44 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws                                      | 4 | DIN9427 (For tensioner) | |
-| M3 8mm Socket Head Cap Screws                                          | 4 | DIN912 | |
-| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 12 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 4 | | [Amazon](https://amzn.to/3rOTwoo) |
-| Right Y Rail                                                           | 1 | From step 2 | [Build Y Rails](guide/02-build-y-rails.md) |
-| 496mm (~19.5in) 2040 extrusion                                         | 1 | From standard 365mm Z frame | |
-| 560mm (~22in) 2040 extrusions                                          | 2 | From standard 365mm Z frame | |
-
-### Step 4
-| Parts                                                                  | Quantity | Details | Example Links |
-|------------------------------------------------------------------------|:--------:|---------|---------------|
-| M5 T-Nuts                                                              | 74 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws                                       | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws                                      | 12 | DIN9427 (For tensioner) | |
-| [2020 M5 Angle Brackets](guide/img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](guide/img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://amzn.to/3rOTwoo) |
-| 496mm (~19.5in) 2040 extrusion                                         | 3 | From standard 365mm Z frame | |
+## Individual Steps
+[Step 1 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=2107061638&single=true)
+[Step 2 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=573645883&single=true)
+[Step 3 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1895895452&single=true)
+[Step 4 BoM](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1327460964&single=true)
 
 ### Step 5
 | Parts     | Quantity | Details | Example Links |

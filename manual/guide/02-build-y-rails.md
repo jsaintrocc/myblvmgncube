@@ -4,23 +4,7 @@
 
 ### Step 2 BoM
 
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 T-Nuts | 18 | Hammer Head/Drop In Style | |
-| M3 8mm Socket Head Cap Screws | 18 | DIN912 | |
-| 496mm (~19.5in) 2040 Extrusions | 2 | from standard 365mm Z frame |
-| MGN12H 400mm Linear Rail | 2 | Quality ... Meh.. | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| 2040_Jig.stl | 2 | [Printed Parts Spreadsheet](../notes/Printed Parts Spreadsheet.xlsx) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+[Step 2 BoM Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=573645883&single=true)
 
 #### Assembly
 
