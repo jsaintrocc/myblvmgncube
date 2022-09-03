@@ -426,7 +426,7 @@ I'm building this BoM as I go to verify everything is accurate. Here is my [Mast
 ### Step 19
 | Parts     | Quantity | Details |
 |-----------|:--------:|---------|
-| [Y-Endstop-for-kw11-3p.stl](../parts/remixed/Y-Endstop-for-kw11-3p.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
+| [Y-Endstop-for-kw11-3p.stl](../parts/remixed/stl/Y-Endstop-for-kw11-3p.stl) | 1 | [Printed Parts Settings](partsSettings.md) |
 | [extrusion-cover.stl](../parts/extra/extrusion-cover/extrusion-cover.stl) | 1 (Scaled to 20mm long) | [Printed Parts Settings](partsSettings.md) |
 
 

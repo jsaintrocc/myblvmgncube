@@ -24,8 +24,6 @@
 | Z_rail_stopper_-_Bottom_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Z_mount_-_Left_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Z_mount_-_Right_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
 | Left_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
 | Right_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
