@@ -1,10 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 2 Build Y Rails
 
-## Step 2 Build Y Rails
-
-### Step 2 BoM
-
-[Step 2 BoM Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=573645883&single=true)
+### [Step 2 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=573645883&single=true)
 
 #### Assembly
 
@@ -43,3 +39,5 @@
 
     ![](img/02-LTRTRailsOnExtr.jpeg)\
     *fig 1.6*
+
+[Next Step](03-frame-sides.md)

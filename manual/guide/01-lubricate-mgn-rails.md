@@ -1,17 +1,10 @@
-# My BLV MGN Cube - Assembly Instructions
-
-##**_WORK IN PROGRESS_**
-
-## Step 1 Lubricate MGN Rails
+# My BLV MGN Cube - Step 1 Lubricate MGN Rails
 
 ### Checkout my Comparison of Several Reasonably Priced Linear Rail Brands
 
 [Linear Rail Bake-off](../../notes/linear-rail-bakeoff.md)
 
-
-### Step 1 BoM
-
-[Step 1 BoM Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=2107061638&single=true)
+## [Step 1 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=2107061638&single=true)
 
 ## Prep
 
@@ -170,7 +163,7 @@
     ![](img/01-ZipTiedRail.JPG)\
     *fig 1.30*
 
-17. Now run the carriage back and fourth to work the oil into the bearings. To test slowly move the carriage and check for binding. It probably wont be perfect. Perfect = $200. I've also noticed they get smoother after the oil has had a day or 2 to penetrate.
+17. Now run the carriage back and forth to work the oil into the bearings. To test slowly move the carriage and check for binding. It probably wont be perfect. Perfect = $200. I've also noticed they get smoother after the oil has had a day or 2 to penetrate.
 
 ## References
 
