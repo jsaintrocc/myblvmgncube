@@ -1,51 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 14 Build Heated Bed Frame and Finish Z-Axis
 
-## Step 14 Build Heated Bed Frame and Finish Z-Axis
-
-### Step 14 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 405mm (~16in) 2020 Extrusion | 2 | | |
-| 173mm (~6 3/4in) 2020 Extrusion | 2 | For CR-10 sized bed | |
-| M3 22mm Socket Head Cap Screws | 8 | DIN912 | |
-| M3 Lock Nuts | 8 | DIN934 | |
-| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3vUgD3F) |
-| M5 10mm Socket Button Head Screws | 18 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 T-Nuts | 26 | Hammer Head/Drop In Style | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 8 | | [Amazon](https://amzn.to/3rRVq7U) |
-| T8 Lead Screw 400mm | 2 | T8 (8mm Lead) 4 Start Lead Screw | [AliExpress](https://s.click.AliExpress.com/e/_9f89Ix) |
-| T8 Lead Screw Nuts | 2 | Usually comes with the Lead Screws | |
-| M5 35mm Socket Button Head Screws | 4 | DIN9427 | |
-| Flexible 5mm to 8mm Coupler | 2 | D20 L25 | [Amazon](https://www.amazon.com/dp/B08JZ1D5BY/ref=cm_sw_em_r_mt_dp_DZ5SPXRJW4RJVQ7R2R6J) [AliExpress](https://s.click.aliexpress.com/e/_AeyRm7) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Bed_Holder_-_Front_left_For_CR-10_bed_M4_screw.stl | 4 | [Printed Parts Settings](../partsSettings) |
-| Bed_frame_cover_-_front_left.stl | 4 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Flat Corner Braces | 4 | As long at it fits an M5 size isn't really important | [AliExpress](https://s.click.AliExpress.com/e/_A0mpPm Brackets) [Home Depot](https://www.homedepot.com/p/Everbilt-2-1-2-in-Zinc-Plated-Flat-Corner-Brace-4-Pack-15295/202034147) |
-| M5 10mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
-| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
-| 6mm Allen Key | 1 | For M4 Socket Head Screws | [Amazon](https://amzn.to/3vPmQh5) |
-| Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
-| 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
-| Bed Leveling Springs 8mm OD/20mm L | 4 | | [Amazon](https://www.amazon.com/dp/B07QCN4LB9/ref=cm_sw_em_r_mt_dp_BKWCXA4WK9HANDE8ZSKY) [AliExpress](https://s.click.AliExpress.com/e/_A6GVPZ) |
-| M4 35mm Flat Head Socket Cap Screws | 4 | DIN7991 | [Amazon](https://amzn.to/2QeNmkQ) |
-| M4 Nuts | 4 | DIN934 | |
-| M4 Washers | 8 | DIN125 | [Amazon](https://amzn.to/3uNDUUy) |
-| Heated Bed 310mm x 310mm | 1 | This is different than what's pictured below ... This part is the one you want | [AliExpress](https://s.click.aliexpress.com/e/_Aq7W5i) |
+## [Step 14 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=623413600&single=true)
 
 ### Prep
 1. File down the 4x bed holders so that the T-Nuts will have enough space to grab the extrusion.

@@ -1,32 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 19 Mount Y Endstop
 
-## Step 19 Mount Y Endstop
-
-### Step 19 BoM
-
-#### Hardware
-| Parts                             | Quantity | Details | Example Links |
-|-----------------------------------|:--------:|---------|---------------|
-| Limit Switch                      | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| M2 12mm Socket Head Cap Screws    | 2 | DIN912 | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC) |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts                         | 2 | Hammer Head/Drop In Style | |
-| Black Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire                        | ~45cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| [Y-Endstop-for-kw11-3p.stl](../../parts/remixed/stl/Y-Endstop-for-kw11-3p.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
-| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
-| M2 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-
+## [Step 19 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1290624575&single=true)
 
 ### Prep
 

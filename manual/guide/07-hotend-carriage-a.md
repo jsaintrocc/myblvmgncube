@@ -1,30 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 7 Partially Build Hotend Carriage
 
-## Step 7 Partially Build Hotend Carriage
-
-### Step 7 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 10mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 40mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 Nuts | 10 | DIN934 | |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| X_carriage_-_Bottom.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Top.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Front_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_carriage_-_Rear_plate.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
-| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
+## [Step 7 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=72392872&single=true)
 
 ### Prep
 1. Clean support material out of any nut traps and holes.

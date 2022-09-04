@@ -1,10 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 3 Build Frame Sides
 
-## Step 3 Build Frame Sides
-
-### Step 3 BoM
-
-[Step 3 BoM Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1895895452&single=true)
+## [Step 3 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1895895452&single=true)
 
 ### Prep
 
@@ -45,17 +41,13 @@
     ![](img/03-TensonerAttach2.jpeg)\
     *fig 2.9*
 
-
     ![](img/03-SetupPlatesLoose.jpeg)\
     *fig 2.10*
-
-
 
 3. Mount 2 of the 20mm lower brackets, that you prepared earlier, flush with the bottom of the extrusion. You can use one of the other pieces of extrusion to help with this, see fig 2.11. This will be used to make sure the 496mm extrusion is inset exactly 20mm when attached to the 560mm extrusions. Tighten to the 560mm extrusion while keeping them snug with the bottom ledge in the foot cutout. Repeat for the other lower corner. **_Ignore the blue feet in these pictures, I've moved that to a later step_**
 
     ![](img/all-bracketAlign.jpeg)\
     *fig 2.11*
-
 
     ![](img/03-BottomBrackets.jpeg)\
     *fig 2.12*
@@ -95,7 +87,6 @@
     ![](img/03-TightenTopPlates.jpeg)\
     *fig 2.19*
 
-
     ![](img/03-TightenTopPlates.jpeg)\
     *fig 2.19*
 
@@ -122,13 +113,12 @@
     ![](img/03-AddXMount.jpeg)\
     *fig 2.23*
 
-
 17. Here is the final product.
 
     ![](img/03-LTSideFinal.jpeg)\
     *fig 2.23*
 
 ### Assembly - Right Side
-1. Use the [Right Side BoM](#right-side) and repeat the [Assembly - Left Side](#assembly---left-side) instructions.
+1. Using the printed parts for the right side repeat the [Assembly - Left Side](#assembly---left-side) procedure to build the right side. It should be a mirror image of the left side.
 2. One difference is that 12 brackets are used instead of 11. The corner with the tensioner takes 2 brackets for the right side.
 

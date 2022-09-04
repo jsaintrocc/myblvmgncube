@@ -1,52 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 8 Partially Build Back Corners
 
-## Step 8 Partially Build Back Corners
-
-### Step 8 BoM
-
-#### Hardware Left Block
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 10mm Socket Button Head Screws | 7 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 7 | Hammer Head/Drop In Style | |
-| M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
-| M3 35mm Socket Head Cap Screws | 5 | DIN912 | |
-| M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
-| 623zz Flanged Bearing | 6 | | [AliExpress](https://s.click.aliexpress.com/e/_AdhoaW) |
-| XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-8v-42x42x48mm-4-wires-full-d-cut-shaft.html?search=17HM19-2004S) |
-| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [AliExpress](https://s.click.aliexpress.com/e/_9y5zje) |
-
-#### Hardware Right Block
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
-| M3 Washers | 9 | DIN125 double up if they are 0.5mm | |
-| M3 35mm Socket Head Cap Screws | 3 | DIN912 | |
-| M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
-| M3 8mm Socket Head Cap Screws | 1 | DIN912 | |
-| 623zz Flanged Bearing | 6 | | [AliExpress](https://s.click.aliexpress.com/e/_AdhoaW) |
-| XY Stepper Motor | 1 | STEPPERONLINE 17HM19-2004S | |
-| GT2 Pulley | 1 | 16 Tooth W/5mm bore | [AliExpress](https://s.click.aliexpress.com/e/_9y5zje) |
-
-#### Printed Parts Left Block
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Left_corner_-_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Printed Parts Right Block
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Right_corner_-_Block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_bottom_aux.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| 2mm Allen Wrench | 1 | For pulley | [Amazon](https://amzn.to/3qNmEgs) |
-| M3 Nuts | 11 | DIN934 6 to temporarily secure the idlers, 5 to temporarily attach motors | |
+## [Step 8 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1894903960&single=true)
 
 ### Prep
 1. Install 4x M5 10mm screws and T-nuts in the left corner block.

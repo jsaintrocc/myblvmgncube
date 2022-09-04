@@ -1,41 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 5 Build X Rail
 
-## Step 5 Build X Rail
-
-### Step 5 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 16mm Socket Button Head Screws | 2 | DIN9427 (Or M5 15mm) | |
-| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
-| M3 T-Nuts | 9 | Hammer Head/Drop In Style | |
-| M3 8mm Socket Head Cap Screws | 9 | DIN912 | |
-| M3 Washers | 12 | DIN125 double up if they are 0.5mm | |
-| M3 35mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 50mm Socket Head Cap Screws | 4 | DIN912 | |
-| 623zz Flanged Bearing | 8 | | [Aliexpress](https://s.click.aliexpress.com/e/_AdhoaW) |
-| M3 Thin Square Nut | 4 | DIN562 | [Amazon](https://amzn.to/2MPCNTI) |
-| M3 Lock Nut | 2 | DIN934 | |
-| MGN12H 400mm Linear Rail | 1 | Quality ... Meh... | [Aliexpress](https://www.aliexpress.com/item/32829826159.html?spm=a2g0s.9042311.0.0.27424c4dwPelhS) |
-| 460mm (~18in) 2020 extrusion | 1 | From standard 365mm Z frame |
-| 3mm x 10.16cm zip ties (4in)  | 4-8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| X_mount_-_Top_left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| X_mount_-_Top_right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
-| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Build plate | 1 | Used to square the X beam | |
+## [Step 5 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1759681814&single=true)
 
 ### Prep
 1. Install M5 8mm screws and T-nuts in the top blocks.

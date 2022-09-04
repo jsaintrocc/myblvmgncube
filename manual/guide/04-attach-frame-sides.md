@@ -1,10 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 4 Attach Frame Sides
 
-## Step 4 Attach Frame Sides
-
-### Step 4 BoM
-
-[Step 4 BoM Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1327460964&single=true)
+## [Step 4 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1327460964&single=true)
 
 ### Prep
 1. Install 3x M5 10mm bolts and T-nuts on each frame foot and attach some felt to prevent scratches.

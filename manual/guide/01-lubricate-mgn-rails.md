@@ -6,7 +6,7 @@
 
 ## [Step 1 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=2107061638&single=true)
 
-## Prep
+### Prep
 
 1. Tape some magnets to the bottom of a mason jar.
 
@@ -165,6 +165,6 @@
 
 17. Now run the carriage back and forth to work the oil into the bearings. To test slowly move the carriage and check for binding. It probably wont be perfect. Perfect = $200. I've also noticed they get smoother after the oil has had a day or 2 to penetrate.
 
-## References
+### References
 
 https://clevercreations.eu/clean-repair-linear-guide-rails/

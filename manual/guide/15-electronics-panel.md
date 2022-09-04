@@ -1,42 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 15 Build Electronics Panel
 
-## Step 15 Build Electronics Panel
-
-### Step 15 BoM
-
-#### Hardware
-| Parts     |   Quantity    | Details | Example Links |
-|-----------|:-------------:|---------|---------------|
-| 576mm (~22 1/2in) 2020 Extrusion |       2       | | |
-| M4 6mm Socket Head Cap Screws |       4       | | [Aliexpress](https://www.aliexpress.com/item/10000148429238.html?spm=a2g0s.9042311.0.0.18d04c4do8Elvl) |
-| M5 Washers |       9       | DIN125| |
-| M5 Nuts |       9       | DIN934 | |
-| M5 T-Nuts |      26       | Hammer Head/Drop In Style | |
-| M5 8mm Socket Head Cap Screws |      35       | DIN912 | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) |      16       | | [Amazon](https://amzn.to/3rRVq7U) |
-| Din Rail |       2       | 12 in (~300mm) | [Amazon](https://www.amazon.com/gp/product/B082DLNVZD/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) [AliExpress](https://s.click.aliexpress.com/e/_At6lEP) |
-| Tempered Hardboard (Masonite) | 440mm x 574mm | 1/8 in (~3mm) Thick<br>You'll need enough for all the panels | [Home Depot](https://www.homedepot.com/p/1-8-in-x-2-ft-x-4-ft-Tempered-Hardboard-Actual-0-115-in-x-23-75-in-x-47-75-in-109112/202585358) [B&Q](https://www.diy.com/departments/brown-hardboard-l-1-22m-w-0-61m-t-3mm/1696235_BQ.prd) [Bunnings](https://www.bunnings.com.au/masonite-1200-x-915-x-3-2mm-handypanel_p0242391) [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
-| Mean Well Power Supply |       1       | SE-450-24 24V18.8A | [Aliexpress](https://www.aliexpress.com/item/32988813396.html) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings.md) |
-| Extruder__-_bondtech_Rear_mount.stl (Used as a tool in this step) | 1 | [Printed Parts Settings](../partsSettings.md) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| 8mm Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
-| Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
-| Jig Saw | 1 | With a 24TPI fine wood cutting blade | [Amazon](https://www.amazon.com/Ryobi-JS481LG-Variable-T-Shank-Lighting/dp/B01GWD50X0/) |
-| X-Acto Knife | 1 | Just for hole cleanup | [Amazon](https://amzn.to/3gUPYPI) |
-| Drill | 1 | | |
-| Drill Bits | 4.5mm and 5.5mm or 11/64" and 7/32" | | [Amazon](https://www.amazon.com/Migiwata-Extremely-Resistant-Straight-Stainless/dp/B071ZRMWBN/ref=sr_1_2_sspa?dchild=1&gclid=CjwKCAjw2ZaGBhBoEiwA8pfP_qvvSDVjPj1nrN0f2J_9dWb_qNrTin5UjltdlEO3dHnDmmcXLze0-xoCqGkQAvD_BwE&hvadid=409940714355&hvdev=c&hvlocphy=9008192&hvnetw=g&hvqmt=e&hvrand=7482245044767489653&hvtargid=kwd-100882843&hydadcr=24658_11410762&keywords=metric+drill+bits&qid=1623621712&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkVUMFBGNkw4NjNWJmVuY3J5cHRlZElkPUEwMTE3ODk3MzhEMEJTTDdLS1BSRyZlbmNyeXB0ZWRBZElkPUEwMDIzMDQ3NjUzSFE3QlczNUlFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
-| Blue Tape | 1 roll | | [Amazon](https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B00004Z4DU/ref=pd_bxgy_img_1/143-2852796-4819033?pd_rd_w=4kikX&pf_rd_p=fd3ebcd0-c1a2-44cf-aba2-bbf4810b3732&pf_rd_r=5ETWTS9S66YG9GHYQGE8&pd_rd_r=1e531a74-26c0-48c7-8687-d6f892f017ea&pd_rd_wg=vhS40&pd_rd_i=B00004Z4DU&psc=1) |
-
+## [Step 15 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=47858377&single=true)
 
 ### Prep
 1. Cut a 440mm x 574mm rectangle out of the Tempered Hardboard using the Jig Saw.

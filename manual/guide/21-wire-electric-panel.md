@@ -1,45 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 21 Wire Electronics Panel
 
-## Step 21 Wire Electronics Panel
-
-### Step 21 BoM
-
-#### Hardware
-| Parts                          | Quantity | Details                                                                          | Example Links                                                                            |
-|--------------------------------|:--------:|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Controller Board               |    1     | BIGTREETECH SKR V1.4 Turbo W/TMC 2208 UART                                       | [AliExpress](https://s.click.aliexpress.com/e/_AYaAOG)                                   |
-| Raspberry Pi                   |    1     | rPi 4 w/2GB of Ram (Anything 3B or above is probably fine)                       | [Canakit](https://www.canakit.com/raspberry-pi-4-2gb.html)                               |
-| rPI Power Supply               |    1     | Don't skimp here!!                                                               | [Canakit](https://www.canakit.com/raspberry-pi-4-power-supply.html)                      |
-| Heated Bed MOSFET (Lerdge)     |    1     | External MOSFET that Protects/Isolates your Controller Board from the Heated Bed | [AliExpress](https://s.click.aliexpress.com/e/_9AROv5)                                   |
-| Female 2 Pin JST-XH Connector  |    5     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 3 Pin JST-XH Connector  |    3     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Female 4 Pin JST-XH Connector  |    5     | Your controller board uses these and you should too                              | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| 4010 Fan (Control Board Fan)   |    1     | 24V 2Pin Dual Ball Bearing                                                       | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2)                                   |
-| M3 10mm Socket Head Cap Screws |    14    | DIN912                                                                           | [Aliexpress](https://s.click.aliexpress.com/e/_9hsKpC)                                                                               |
-| M3 Nuts                        |    14    | DIN934                                                                           |                                                                                          |
-| M3 Washers                     |    14    | DIN125                                                                           |                                                                                          |
-| Red Primary Wire               |    2m    | Color: Red, 14 AWG                                                               | [Aliexpress](https://s.click.aliexpress.com/e/_9JtACJ)                                   |
-| Black Primary Wire             |    2m    | Color: Black, 14 AWG                                                             | [Aliexpress](https://s.click.aliexpress.com/e/_9JtACJ)                                   |
-| 3mm x 10.16cm zip ties (4in)  | 6 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-
-#### Printed Parts
-| Parts                                                                                                                                                                                                 | Quantity | Details |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|---------|
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct200mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    1     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Bottom_1_Body1_Bottom.stl)                 |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Left_Side_1_Body20_Left_Side.stl)   |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Right_Side_1_Body1_Right_Side.stl) |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl](../../parts/extra/slotted-wire-ducts/Slotted_Wire_Duct150mm_Slotted_Wire_Duct_v17_Top_1_Body1_Top.stl)                             |    6     | [Printed Parts Settings](../partsSettings.md) |
-| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [rPi_DIN_Mount_v4.stl](../../parts/extra/din-mounts/rPi_DIN_Mount_v4.stl)                                                                                                                             |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [MOSFET_Long2.stl](../../parts/extra/din-mounts/MOSFET_Long2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [skr14_Mount2.stl](../../parts/extra/din-mounts/skr14_Mount2.stl)                                                                                                                                     |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [4010_MountThick.stl](../../parts/extra/din-mounts/4010_MountThick.stl)                                                                                                                               |    2     | [Printed Parts Settings](../partsSettings.md) |
-| [cable_clip_vertical.stl](../../parts/extra/bearCableClip/cable_clip_vertical.stl)                                                                                                                    | 5 | [Printed Parts Settings](../partsSettings.md) |
-
+## [Step 21 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1474174361&single=true)
 
 #### Tools
 
