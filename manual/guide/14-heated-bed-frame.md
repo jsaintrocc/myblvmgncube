@@ -61,17 +61,18 @@
     *fig 14.11*
 
 9. Temporarily attach the heated bed to the 4 bed holders on the bed frame. Use the M4 35mm flat head screws, washers, bed leveling springs, and some M4 nuts. We'll use the bed to correctly position the 4 bed holders in the next step.
+   **Note: The bed pictured is different from the one I eventually used and specified in the BoM.** 
 
-    ![](img/14-BedPostDetail.JPG)\
-    *fig 14.12*
+   ![](img/14-BedPostDetail.JPG)\
+   *fig 14.12*
 
-    ![](img/14-frameWBedAttached.JPG)\
-    *fig 14.13*
+   ![](img/14-frameWBedAttached.JPG)\
+   *fig 14.13*
 
 10. Slide the loose bed holders so that the heated bed is centered on the bed frame.
 
-    ![](img/14-SpaceBedHolders.JPG)\
-    *fig 14.14*
+   ![](img/14-SpaceBedHolders.JPG)\
+   *fig 14.14*
 
 11. Now tighten the 2x M5 screws on the sides of each bed holder to fix them in place on the bed frame.
 
