@@ -1,28 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 16 Hotend Wiring
 
-## Step 16 Hotend Wiring
-
-### Step 16 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Female 3 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Male 2 Pin JST-XH Connector | 2 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| Heat Shrink Tubing | 10cm | Enough to cover the pins of the JST-XH Male Connectors | |
-| Green Wire | 1m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Black Wire | 3m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Red Wire | 2m | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| BLTouch Extension Cable | 1m | Should have come with your BLTouch | [Amazon](https://amzn.to/3rKZEhH) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| JST-XH Crimper | 1 | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
-| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
-| Helping Hands | 1 | Optional but will make the soldering much easier | [Amazon](https://www.amazon.com/Neiko-01902-Adjustable-Magnifying-Alligator/dp/B000P42O3C/ref=sr_1_1?dchild=1&keywords=helping+hands&qid=1628984768&sr=8-1) |
-| Butane Mini Torch | 1 | You might need to purchase ligher fluid separately (Can't remember) | [Amazon](https://amzn.to/2R3ymGG) |
-| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
+## [Step 16 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1647615114&single=true)
 
 ### Assembly
 1. Check your fan connectors for the correct polarity. -/Black and +/Red should be in the JST-XH connector as pictured. My blower fan was wired backwards. It's easy to remove the female pins and swap them in the connector if you need to. Aliexpress cheap but...

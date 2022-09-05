@@ -3,14 +3,14 @@
 ## Table of contents
   1. [Introduction](#introduction)
   2. [Bill of materials](manual/bom.md)
-  3. [Printed parts](parts/README.md)
-  4. [Print settings](manual/partsSettings.md)
+  3. [Printed parts](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1482045037&single=true)
+  4. [Print Settings](manual/partsSettings.md)
   5. [Assembly Guide](manual/guide/README.md)
   6. [License](#license)
   7. [Credits and inspiration](#credits-and-inspiration)
 
 ## Introduction
-This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by Ben Levi. My goal is to provide a guide that others can follow to build their own cubes. This guide, at least initally, will provide instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
+This documents my journey building the MGN BLV 3D Printer designed and graciously contributed to the world by [Ben Levi](parts/source/README.md). My goal is to provide a guide that others can follow to build their own cubes. This guide provides instructions for my specific build as detailed below. If your configuration is different keep that in mind when following the directions.
 
 ### Build Picture
 ![My Printer](manual/guide/img/all-CurrentBuild.jpeg)
@@ -23,18 +23,6 @@ This documents my journey building the MGN BLV 3D Printer designed and graciousl
 * TMC2208 stepper drivers
 * BIGTREETECH TFT35 <u>V3</u> LCD touch screen
 * 3D printed parts
-
-## Bill of Materials
-[Read the BoM here](manual/bom.md)
-
-## Printed Parts
-[Printed parts](parts/README.md)
-
-## Print Settings
-[Print Settings](manual/partsSettings.md)
-
-## Assembly Guide
-[Assembly Guide](manual/guide/README.md)
 
 ## License
 

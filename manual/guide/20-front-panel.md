@@ -1,49 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 20 Build Front Panel
 
-## Step 20 Build Front Panel
-
-### Step 20 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| BTT 3.5 in Touch Screen V3.0 | 1 | Dual mode, TFT mode (Marlin)/12864 mode (Klipper/RRF) | [Amazon](https://www.amazon.com/BIGTREETECH-Graphic-Display-Controller-Printer/dp/B07VWF4W3J) [Aliexpress](https://s.click.aliexpress.com/e/_9x9JTN) |
-| IDC Ribbon Cables | 2 | These are the EXP1 and EXP2 cables (Included W/TFT) | |
-| RS232 cable | 1 | Black Cable (Included W/TFT) | |
-| 576mm (~22.7in) 2020 Extrusion | 1 | from standard 365mm Z frame | |
-| Ethernet/RJ45 Keystone Jacks | 6 | | [Amazon](https://www.amazon.com/gp/product/B07JRD69V6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)|
-| 1 Meter Ethernet Cables | 3 | Whatever you have lying around is fine (AWG24 is ideal, stranded or solid) |[Amazon](https://www.amazon.com/Cable-Matters-5-Pack-Snagless-Ethernet/dp/B00C2CBBAM) |
-| Female 5 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-[2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 4 | | [Amazon](https://amzn.to/3rRVq7U) |
-| M3 6mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 12mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 16mm Socket Head Cap Screws | 1 | DIN912 | |
-| M3 Nuts | 1 | DIN934 | |
-| M5 8mm Socket Button Head Screws | 8 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 10mm Socket Button Head Screws | 14 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [AliExpress](https://s.click.AliExpress.com/e/_ASWaER) |
-| M5 T-Nuts | 22 | Hammer Head/Drop In Style | |
-| 3mm x 10.16cm zip ties (4in)  | 6 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| [TFT35v3Mount-tweaked.stl](../../parts/extra/tft35v30-bezel-insert/files/FTFT35v3Mount-tweaked.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Left_plate_for_TFT35_V2.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Left_plate_for_TFT35_V2.STL) | 1 | Works for TFT35 V3.0 as well [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Center_plate.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Center_plate.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_Right_plate.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_Right_plate.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_left_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_left_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Front_Panel_-_right_grill.STL](../../parts/extra/improved-bezel/files/Front_Panel_-_right_grill.STL) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [Jig_Main.stl](../../parts/source/stl/Jig_Main.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
-| [cable_clip_vertical.stl](../../parts/extra/bearCableClip/cable_clip_vertical.stl) | 5 | [Printed Parts Settings](../partsSettings.md) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M2 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
-| Ethernet Stripper/Punch Down Tool | 1 | A plastic one is fine, if you have it | [Amazon](https://www.amazon.com/Weletric-Stripper-Crimping-Stripping-Telephone/dp/B078B5G4B2) [Aliexpress](https://s.click.aliexpress.com/e/_AOMa0o) |
+## [Step 20 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=315119312&single=true)
 
 ### Prep
 

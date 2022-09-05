@@ -1,30 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 10 Finish Building Back Corners
 
-## Step 10 Finish Building Back Corners
-
-### Step 10 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 10mm Socket Button Head Screws | 6 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 6 | Hammer Head/Drop In Style | |
-| M3 35mm Socket Head Cap Screws | 1 | DIN912 | |
-| M3 Lock Nuts | 6 | DIN934 | |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Left_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Left_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_cap.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_corner_-_top.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+## [Step 10 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=832402242&single=true)
 
 ### Prep
 1. Install 3x M5 10mm screws and T-nuts on the left and right corner tops.

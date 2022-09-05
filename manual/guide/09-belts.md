@@ -1,20 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 9 Install Belts
 
-## Step 9 Install Belts
-
-### Step 9 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| GT2 Belt  | 4m | Gates 6mm GT2 Fiber Glass Reinforced Belt | [Aliexpress](https://s.click.aliexpress.com/e/_A64OOo)
-| 3mm x 10.16cm zip ties (4in)  | 8 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Blue Tape | 1 roll | | [Amazon](https://amzn.to/3ujyctH) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
+## [Step 9 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1143742039&single=true)
 
 ### Assembly
 1. Thread the end of the belt through the front left opening on the X-carriage. A zip tie can be handy to guide the belt through the hole. Stick the zip tie into the hole far enough that it bends and goes parallel to the extrusion. Then thread the belt along the zip tie and out the hole.

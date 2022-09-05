@@ -1,36 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 12 Z Axis Frame
 
-## Step 12 Z Axis Frame
-
-### Step 12 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| 496mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
-| 442mm (~19.5in) 2040 extrusion | 2 | From standard 365mm Z frame | |
-| M5 8mm Socket Button Head Screws | 48 | DIN9427 | |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 50 | Hammer Head/Drop In Style | |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 24 | | [Amazon](https://amzn.to/3rRVq7U) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Z_rail_stopper_-_Top_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_rail_stopper_-_Top_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Jig_Main.stl | 2 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 Allen Key | 1 | Need an Allen Key for the tight spaces | [Amazon](https://amzn.to/3qNmEgs) |
-| Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
-| Flat Corner Braces | 4 | As long at it fits an M5 size isn't really important | [Aliexpress](https://s.click.aliexpress.com/e/_A0mpPm Brackets) [Home Depot](https://www.homedepot.com/p/Everbilt-2-1-2-in-Zinc-Plated-Flat-Corner-Brace-4-Pack-15295/202034147) |
-| Quick Grip Clamps | 2 | 6" Are fine. I had longer ones | [Aliexpress](https://s.click.aliexpress.com/e/_ADibWo) [Amazon](https://amzn.to/2ODx989) |
-| M5 8mm Socket Button Head Screws | 16 | DIN9427 (Temporary) | |
-| M5 T-Nuts | 16 | Hammer Head/Drop In Style (Temporary) | |
-| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
+## [Step 12 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1131023830&single=true)
 
 ### Prep
 1. Print 1 main jig in PLA

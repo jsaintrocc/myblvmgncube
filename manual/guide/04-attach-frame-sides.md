@@ -1,32 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 4 Attach Frame Sides
 
-## Step 4 Attach Frame Sides
-
-### Step 4 BoM
-
-#### Parts
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M5 T-Nuts | 74 | Hammer Head/Drop In Style | |
-| M5 8mm Socket Button Head Screws | 62 | DIN9427 (Can substitue 10mm with 1mm washers for brackets)  | |
-| M5 10mm Socket Button Head Screws | 12 | DIN9427 (For tensioner) | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| [2020 M5 Angle Brackets](img/all-PlateVsBracket.jpeg) (Brackets) | 16 | | [Amazon](https://amzn.to/3rRVq7U) |
-| [90 Degree Joining Plates](img/all-PlateVsBracket.jpeg) (Plates) | 6 | | [Amazon](https://amzn.to/3rOTwoo) |
-| 496mm (~19.5in) 2040 extrusion | 3 | From standard 365mm Z frame | |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| [FootLv3.stl](../../parts/extra/feet/FootLv3.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
-| [FootRv3.stl](../../parts/extra/feet/FootLv3.stl) | 2 | [Printed Parts Settings](../partsSettings.md) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Framing Square | 1 | | [Amazon](https://amzn.to/39Z2RTU) |
-| M5 Ball End Tip Screwdriver | 1 | Especially helpfull working with the brackets | [Amazon](https://amzn.to/36TSnEy) |
-| Digital Calipers | 1 | | [Amazon](https://amzn.to/36cs0cx) |
-| 30" Bar Clamp | 1 | Or substitute a helper with steady hands | [Amazon](https://amzn.to/3fE5QFH) |
+## [Step 4 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1327460964&single=true)
 
 ### Prep
 1. Install 3x M5 10mm bolts and T-nuts on each frame foot and attach some felt to prevent scratches.
