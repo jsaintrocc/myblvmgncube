@@ -4,7 +4,7 @@
   1. [Introduction](#introduction)
   2. [Bill of materials](manual/bom.md)
   3. [Printed parts](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1482045037&single=true)
-  4. [Print Settings](manual/partsSettings.md)
+  4. [Print Settings](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgPZb2P_rigplUG4TBjnBd7A5v86qJmxN26Bf9Z0P1HwILFovxDry4oiuArPlMLLYwE4DXcqXhaWn0/pubhtml?gid=0#)
   5. [Assembly Guide](manual/guide/README.md)
   6. [License](#license)
   7. [Credits and inspiration](#credits-and-inspiration)
