@@ -1,41 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 13 Z Rails and Motors
 
-## Step 13 Z Rails and Motors
-
-### Step 13 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 T-Nuts | 16 | Hammer Head/Drop In Style | |
-| M3 8mm Socket Head Cap Screws | 24 | DIN912 | |
-| M3 12mm Socket Head Cap Screws | 8 | DIN912 | |
-| M3 Washers | 8 | DIN125 | |
-| LDO-MGN12H Liner Rails 400mm | 2 | LDO (Good Quality) | [PrintedSolid](https://www.printedsolid.com/products/ldo-linear-rail-mgn12h-with-one-carriage-in-300-400-500-700mm-lengths?variant=23236699816021) [Filastruder](https://www.filastruder.com/products/ldo-linear-rails) [VRParts](https://vrparts.de/.../ldo-linearschienen-mgn12h-1r-l-400mm) |
-| M5 10mm Socket Button Head Screws | 2 | DIN9427 | [Amazon](https://amzn.to/3txrazT) [Aliexpress](https://s.click.aliexpress.com/e/_ASWaER) |
-| M5 T-Nuts | 8 | Hammer Head/Drop In Style | |
-| Z Stepper Motors | 2 | STEPPERONLINE 17HS19-2004S1 | [STEPPERONLINE](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-and-connector.html?search=17HS19-2004S1) |
-
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| Z_rail_stopper_-_Bottom_Left.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_rail_stopper_-_Bottom_Right.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_mgn_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Left_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Z_mount_-_Right_block.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| 2020_Jig.stl | 2 | [Printed Parts Settings](../partsSettings) |
-| Left_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-| Right_Z_motor_mount.stl | 1 | [Printed Parts Settings](../partsSettings) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| M5 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Needle Files | 1 set | | [Amazon](https://amzn.to/3cTLQgR) |
+## [Step 13 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1231889643&single=true)
 
 ### Prep
 1. Attach 8x M3 8mm socket head cap screws and T-Nuts into every other hole of the 2 linear rails. Leave a open hole at the top of each rail.

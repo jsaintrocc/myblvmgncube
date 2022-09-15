@@ -1,54 +1,6 @@
-# My BLV MGN Cube - Assembly Instructions
+# My BLV MGN Cube - Step 11 Finish Building Hotend Carriage
 
-## Step 11 Finish Building Hotend Carriage
-
-### Step 11 BoM
-
-#### Hardware
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| M2 15mm Philips Pan Head Screws | 2 | DIN7985 | |
-| M2 Nuts | 3 | DIN934 | |
-| M3 10mm Socket Head Cap Screws | 2 | DIN912 | |
-| M3 14mm Socket Head Cap Screws | 2 | DIN912 | |
-| M3 18mm Socket Head Cap Screws | 4 | DIN912 | |
-| M3 25mm Socket Head Cap Screws | 2 | DIN912 | |
-| M3 30mm Socket Head Cap Screws | 2 | DIN912 | |
-| M3 Lock Nut | 1 | DIN934 | |
-| M3 Washers | 4 | DIN125 | |
-| Black Wire | ~15cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Green Wire | ~15cm | 22 AWG Stranded Silicone | [Amazon](https://amzn.to/3ruTli7) |
-| Limit Switch | 1 | 3P with handle (KW11-3Z) | [Aliexpress](https://s.click.aliexpress.com/e/_A4VObA) |
-| Heat Shrink Tubing | 10mm | Enough to cover 3 Pins <BR>of a JST-XH Male Connector | |
-| Male 3 Pin JST-XH Connector | 1 | Your controller uses these and you should too | [Aliexpress](https://s.click.aliexpress.com/e/_AWPLkY) [Amazon](https://amzn.to/3u0TiMD) |
-| 3mm x 10.16cm zip ties (4in)  | 1-9 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-| 5015 Blower Fan | 1 | 24V Ball Bearings | [Aliexpress](https://s.click.aliexpress.com/e/_A9XEXg) |
-| V6 Hotend | 1 | Trianglelab V6 All-metal Hotend (1.75 24V All-metal) | [Aliexpress](https://s.click.aliexpress.com/e/_A7ETNG) |
-| E3D Thermistor | 1 | Optional: I choose to give a little back to E3D.<br>Also it's super reliable/accurate | [Amazon](https://amzn.to/2QR6fdy) |
-| 4010 Fan | 1 | 24V 2Pin Dual Ball Bearing | [Aliexpress](https://s.click.aliexpress.com/e/_A3DGg2) |
-| BLTouch Probe | 1 | V3.1 is what I used. Make sure to get the 1m extension cable | [Amazon](https://amzn.to/3rKZEhH) |
-| PTFE Tubing | 1m |  1.9mm ID 4mm OD Capricorn Clone W/Cutter | [Aliexpress](https://s.click.aliexpress.com/e/_Anh45s) |
-| 3mm x 10.16cm zip ties (4in)  | 2 | ~2.5mm x ~120mm | [Amazon](https://amzn.to/3p2nDaE) |
-
-#### Printed Parts
-| Parts     | Quantity | Details |
-|-----------|:--------:|---------|
-| [X_carriage_-_modified_MK3_fan_blower.stl](../../parts/source/stl/X_carriage_-_modified_MK3_fan_blower.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [X_carriage_-_Fan_mount.stl](../../parts/source/stl/X_carriage_-_Fan_mount.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [X_carriage_-_V6_Locker_BL-touch.stl](../../parts/source/stl/X_carriage_-_V6_Locker_BL-touch.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [hotend-cable-locker.stl](../../parts/extra/hotend-cable-manager/files/hotend-cable-locker.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-| [X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl](../../parts/source/stl/X_carriage_-_Block_shield_for_Bltouch-8mm-12mm_sensors.stl) | 1 | [Printed Parts Settings](../partsSettings.md) |
-
-#### Tools
-| Parts     | Quantity | Details | Example Links |
-|-----------|:--------:|---------|---------------|
-| Soldering Iron and Solder | 1 | For small electronics | [Amazon](https://amzn.to/3rvsgLI) |
-| Multimeter W/Continuity Tester | 1 | This multimeter has a temp probe too! | [Amazon](https://amzn.to/3sxUjeT) |
-| Threadlocker | 0.2 Fl. Oz | Blue (removable) formula | [Amazon](https://amzn.to/3w539Tr) |
-| M3 Screwdriver | 1 | | [Amazon](https://amzn.to/3qNmEgs) |
-| Small Philips Screwdriver |1 | | [Amazon](https://amzn.to/3fDZgyZ) |
-| 5.5 Hex wrench | 1 | Or Pliers | [Amazon](https://amzn.to/3bqH73V) |
-| Butane Mini Torch | 1 | You might need to purchase ligher fluid separately (Can't remember) | [Amazon](https://amzn.to/2R3ymGG) |
+## [Step 11 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=750497263&single=true)
 
 ### Prep
 

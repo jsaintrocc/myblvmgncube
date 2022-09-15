@@ -1,2 +1,2 @@
-Liscened to {Tim true} {Downs true} 
+Licensed to {Tim true} {Downs true}
  License: cc

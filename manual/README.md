@@ -2,9 +2,8 @@
 
 ## Table of Content
 
-1. [Bill Of Material](bom.md)
-1. [Print Settings](print_settings.md)
-1. [Printed Parts STL](../printed_parts)
-1. [Assembly Guide](guide/README.md)
-1. [Optional Parts](../optional_parts)
-1. [Sources](../src)
+1. [Bill Of Materials](bom.md)
+2. [Print Settings](partsSettings.md)
+3. [Printed Parts STLs](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1482045037&single=true)
+4. [Assembly Guide](guide/README.md)
+5. [Sources](../parts)
