@@ -2,15 +2,6 @@
 
 ## [Step 21 BoM Spreadsheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVx7BvB3V7CozF2l4eWkNntWrHSjOawmrsi_bRSVxQLIGVlfZTYEGp8a6fHpENV6hV2cn9PrDLHHl0/pubhtml?gid=1474174361&single=true)
 
-#### Tools
-
-| Parts          | Quantity | Details                                        | Example Links                                                                                                                                                |
-|----------------|:--------:|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Flat Head Nail |    1     | Used to melt the rivet heads                   |                                                                                                                                                              |
-| Candle         |    1     |                                                |                                                                                                                                                              |
-| M3 Screwdriver |    1     |                                                | [Amazon](https://amzn.to/3qNmEgs)                                                                                                                            |
-| JST-XH Crimper |    1     | I've had great success with the IWISS IWS-2820 | [Amazon](https://www.amazon.com/IWISS-Crimping-AWG28-20-Terminals-Connectors/dp/B078WNZ9FW/ref=sr_1_5?dchild=1&keywords=iws-2820&qid=1628984315&sr=8-5&th=1) |
-
 ### Prep
 1. Assemble the slotted wire ducts.
    1. The Sides should click onto pegs on the bottom. 
