@@ -128,27 +128,32 @@
 
     Note: Verify that all the stepper wires can reach.
 
-10. Install the 4010 fan, MOSFET, and Raspberry Pi to the DIN rails using the corresponding 3d printed mounts.
+10. Attach 4010 fan to the 3d printed 4010 DIN Mount using 2x M3 16mm screws and nuts.
 
-    ![](img/21-installOtherBoards.jpeg)\
+    ![](img/21-attach4010FanToMount.jpeg)\
     *fig 21.22*
 
-11. Connect the power supply to the controller board and MOSFET using the 14AWG red and black primary wire. Make sure to use stranded wire with at least 14 AWG.
+11. Install the 4010 fan, MOSFET, and Raspberry Pi to the DIN rails using the corresponding 3d printed mounts.
 
-    ![](img/21-hookupPowerWires.jpeg)\
+    ![](img/21-installOtherBoards.jpeg)\
     *fig 21.23*
 
-12. Connect all electrical components to the controller board and MOSFET as indicated in this wiring diagram
+12. Connect the power supply to the controller board and MOSFET using the 14AWG red and black primary wire. Make sure to use stranded wire with at least 14 AWG.
 
-    ![](img/21-BLVWiring.png)\
+    ![](img/21-hookupPowerWires.jpeg)\
     *fig 21.24*
 
-13. Using 5 of the vertical wire mounts secure the TFT touch screen cables with the zip ties.
+13. Connect all electrical components to the controller board and MOSFET as indicated in this wiring diagram
 
-    ![](img/21-LCDWiring.jpeg)\
+    ![](img/21-BLVWiring.png)\
     *fig 21.25*
 
-14. This is what it should look like with everything wired up.
+14. Using 5 of the vertical wire mounts secure the TFT touch screen cables with the zip ties.
+
+    ![](img/21-LCDWiring.jpeg)\
+    *fig 21.26*
+
+15. This is what it should look like with everything wired up.
 
     ![](img/21-FinalWiring.jpeg)\
-    *fig 21.26*
+    *fig 21.27*
