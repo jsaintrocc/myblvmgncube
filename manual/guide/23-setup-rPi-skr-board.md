@@ -123,7 +123,7 @@
           
 12. Time to test the printer!! Run `G28` in a terminal and see what happens. I HIGHLY RECOMMEND you have your finger on the power button and watch this VERY CAREFULLY
 
-    [![](img/23-FirstG28.jpeg)](https://youtu.be/UrhKAm_vww0)\
+    [![](img/23-FirstG28.jpeg)](https://youtu.be/UrhKAm_vww0){:target="_blank"}\
     *fig 23.1*
 
          
