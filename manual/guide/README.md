@@ -24,3 +24,4 @@
 20. [Build Front Panel](20-front-panel.md)
 21. [Wire Electric Panel](21-wire-electric-panel.md)
 22. [Tension Belts](22-tension-belts.md)
+23. [Setup RaspberryPi and SKR Controller](23-setup-rPi-skr-board.md)
