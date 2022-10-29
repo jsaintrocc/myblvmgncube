@@ -121,6 +121,7 @@ Continue here https://www.klipper3d.org/Probe_Calibrate.html
        ACCEPT
        SAVE_CONFIG
 
+Note: SAVE_CONFIG doesn't work if BLTouch config is in it's own file. Known issue and don't know why it isn't fixed. Just manually update the z_offset value in the bltouch config
 Note:
 
 ## Configure Thermistors
