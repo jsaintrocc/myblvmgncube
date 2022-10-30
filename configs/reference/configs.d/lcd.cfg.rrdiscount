@@ -1,0 +1,20 @@
+[display]
+lcd_type: st7920
+cs_pin: EXP1_4
+sclk_pin: EXP1_5
+sid_pin: EXP1_3
+encoder_pins: ^EXP2_3, ^EXP2_5
+click_pin: ^!EXP1_2
+
+[output_pin BEEPER_pin]
+pin: EXP1_1
+#   Beeper pin. This parameter must be provided.
+pwm: True
+#   A piezo beeper needs a PWM signal, a DC buzzer doesn't.
+value: 0
+#   Silent at power on, set to 1 if active low.
+shutdown_value: 0
+#   Disable at emergency shutdown (no PWM would be available anyway).
+cycle_time: 0.001
+#   Default PWM frequency : 0.001 = 1ms will give a tone of 1kHz
+#   Although not pitch perfect.

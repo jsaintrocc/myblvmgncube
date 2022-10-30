@@ -42,7 +42,7 @@
         * Number of Extruders: 1
         * Default extrusion length: 5mm
 
-5. Install klipper software on the rPi 
+5. Install klipper software on the rPi.
    1. Use SSH to connect to the rPi with the username "pi" and the password you chose.
    2. Download and install Klipper.
       ```shell
@@ -50,7 +50,7 @@
       ./klipper/scripts/install-octopi.sh
       ```
       Reference: [Klipper instructions](https://www.klipper3d.org/Installation.html#prepping-an-os-image)
-6. Configure OctoPrint to talk to Klipper daemon using the following serial port settings
+6. Configure OctoPrint to talk to Klipper daemon using the following serial port settings:
    * Serial Port: /tmp/printer
    * Baudrate: 250000
    * Auto-connect to printer on server start: Checked
@@ -78,28 +78,28 @@
 
 8. Build the firmware for the SKR 1.4 Turbo using [this guide](https://docs.vorondesign.com/build/software/skr13_klipper.html)
 9. Copy the binary file in `~/klipper/out/klipper.bin` to the klipper microSD card and rename to `firmware.bin`.
-   Easiest way to do this is to use `scp` to copy the bin to your machine and then on to the microSD card.
+   Easiest way to do this is to use `scp` to copy the bin to your machine and from there copy it on to the microSD card.
 10. Install the klipper firmware on the SKR 1.4 Turbo controller board.
     1. Insert the klipper microSD card into the controller board and power on.
     2. The controller board will automatically flash the onboard memory using the firmware.bin on the SD card.
     3. If you remove the microSD card and see a file named "FIRMWARE.CUR" the flashing was successful.
 
 11. Install the klipper config
-    1. scp the config to the rPI (the tgz is in the configs directory)
+    1. scp the config to the rPI (the tgz is in the configs directory).
         ```shell
-        scp configs/klipper-cfg.tgz pi@blvcube:
+        scp configs/klipper-cfg-basic.tgz pi@blvcube:
         ```
-    2. Login to the rPi and extract the tarball
+    2. Login to the rPi and extract the tarball.
        ```shell
-       tar xzvf klipper-cfg.tgz
+       tar xzvf klipper-cfg-basic.tgz
        ```
-    3. Configure the rPi klipper service to talk to your controller via the serial port 
+    3. Configure the rPi klipper service to talk to your controller via the serial port.
        
-       1. Power on the controller board
+       1. Power on the controller board.
           ```shell
           ls /dev/serial/by-id/* | grep -i klipper
           ```
-          You should see something like this
+          You should see something like this:
           ```shell
           /dev/serial/by-id/usb-Klipper_lpc1769_02D0000EC09869AFADCA405EC02000F5-if00
           ```
@@ -112,7 +112,7 @@
 
           ```
           
-       3. Restart klipper to reread the config by typing `RESTART` the the OctoPrint Terminal.
+       3. Restart klipper to reread the config by typing `RESTART` in the OctoPrint Terminal.
        4. You should now start seeing real temperature messages in the Terminal which means the Klipper is now communicating with the controller.
           ```shell
           Send: M105
@@ -121,33 +121,33 @@
           Recv: ok B:19.9 /0.0 T0:21.1 /0.0
           ```
           
-12. Time to test the printer!! Run `G28` in a terminal and see what happens. I HIGHLY RECOMMEND you have your finger on the power button and watch this VERY CAREFULLY
+12. Time to test the printer!! Run `G28` in a terminal and see what happens. I HIGHLY RECOMMEND you have your finger on the power button and watch this VERY CAREFULLY.
 
-    [![](img/23-FirstG28.jpeg)](https://youtu.be/UrhKAm_vww0){:target="_blank"}\
+    [![](img/23-FirstG28.jpeg)](https://youtu.be/UrhKAm_vww0)\
     *fig 23.1*
 
          
 ### Appendix: Restart Klipper on Controller Connection
 The Klipper service only connects to the controller when the service starts. This means if you leave the rPi on and separately turn the controller on/off you will need to restart klipper every time. This is annoying if you use OctoPrint to control your Cube's power. This workaround will automatically restart Klipper any time the rPi detects that the controller has connected via it's serial port.
 
-1. Add the rules.d trick to auto restart klipper when the controller board reboots
+1. Add rule to rules.d to auto restart klipper when the controller board reboots.
    1. Find the Vendor ID and Product ID
       ```shell
       sudo lsusb -v 2>&1 | grep -E 'iManufacturer|idVendor|idProduct' | grep -B2 'Klipper' 
       ```
-      in my case I get back
+      Ex.
       ```shell
       idVendor           0x1d50 OpenMoko, Inc.
       idProduct          0x614e
       iManufacturer           1 Klipper
       ```
-   2. edit /etc/udev/rules.d/98-klipper.rules
+   2. Edit /etc/udev/rules.d/98-klipper.rules.
       ```shell
       ## rule to restart klipper when the printer is connected via usb
       SUBSYSTEM=="usb", ATTRS{idVendor}=="1d50", ATTRS{idProduct}=="614e", ACTION=="add", RUN+="/bin/su pi -c '/bin/echo RESTART > /tmp/printer'"
       ```
       Replace "id50" and "614e" with your information if it's different
-   3. Reload the rules when you are done
+   3. Reload the rules when you are done.
       ```shell
       udevadm control --reload-rules
       systemctl restart systemd-udevd.service

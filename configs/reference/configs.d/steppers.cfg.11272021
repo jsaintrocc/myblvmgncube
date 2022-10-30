@@ -1,0 +1,111 @@
+[stepper_x]
+step_pin: P2.2
+dir_pin: !P2.6
+enable_pin: !P2.1
+microsteps: 16
+#rotation_distance: 16
+rotation_distance: 32
+endstop_pin: P1.29
+position_endstop: -22
+position_min: -22
+position_max: 310
+homing_speed: 70
+homing_retract_dist: 5
+full_steps_per_rotation: 400    # The number of full steps for one rotation of the stepper motor. 200 for 1.8 motor or 400 for 0.9 motor.
+
+[tmc2208 stepper_x]
+uart_pin: P1.10
+run_current: 0.800
+hold_current: 0.500
+stealthchop_threshold: 0 # 0 = disabled
+interpolate: True
+
+[stepper_y]
+step_pin: P0.19
+dir_pin: !P0.20
+enable_pin: !P2.8
+microsteps: 16
+rotation_distance: 32
+#rotation_distance: 16
+endstop_pin: P1.28
+position_endstop: 310
+position_max: 310
+homing_speed: 70
+homing_retract_dist: 5
+full_steps_per_rotation: 400    # The number of full steps for one rotation of the stepper motor. 200 for 1.8 motor or 400 for 0.9 motor.
+
+[tmc2208 stepper_y]
+uart_pin: P1.9
+run_current: 0.800
+hold_current: 0.500
+stealthchop_threshold: 0 # 0 = disabled
+interpolate: True
+
+[stepper_z]
+step_pin: P0.22
+dir_pin: !P2.11
+enable_pin: !P0.21
+microsteps: 16
+rotation_distance: 8
+endstop_pin: probe:z_virtual_endstop
+#endstop_pin: !P1.27
+#position_endstop: 0.0
+position_min: -10 # For Z_TILT_ADJUST this is max tilt it will handle
+position_max: 345
+homing_speed: 10.0
+homing_retract_dist: 3.0
+homing_retract_speed: 20
+second_homing_speed: 2.0
+full_steps_per_rotation: 200    # The number of full steps for one rotation of the stepper motor. 200 for 1.8 motor or 400 for 0.9 motor.
+
+[tmc2208 stepper_z]
+uart_pin: P1.8
+run_current: 0.650
+hold_current: 0.450
+stealthchop_threshold: 0 # 0 = disabled
+interpolate: True
+
+[stepper_z1]
+step_pin: P1.15
+dir_pin: !P1.14
+enable_pin: !P1.16
+microsteps: 16
+rotation_distance: 8
+full_steps_per_rotation: 200    # The number of full steps for one rotation of the stepper motor. 200 for 1.8 motor or 400 for 0.9 motor.
+
+[tmc2208 stepper_z1]
+uart_pin: P1.1
+run_current: 0.650
+hold_current: 0.450
+stealthchop_threshold: 0 # 0 = disabled
+interpolate: True
+
+[extruder]
+step_pin: P2.13
+dir_pin: !P0.11
+enable_pin: !P2.12
+microsteps: 16
+gear_ratio: 50:17
+rotation_distance: 22.62
+full_steps_per_rotation: 200 # 200 for 1.8 Deg motor, 400 for 0.9 Deg motor
+nozzle_diameter: 0.400
+filament_diameter: 1.750
+heater_pin: P2.7
+sensor_type: ATC Semitec 104GT-2
+sensor_pin: P0.24
+#control: pid # Saved config using PID TUNE
+#pid_Kp: 22.2
+#pid_Ki: 1.08
+#pid_Kd: 114
+min_temp: 0
+max_temp: 260
+max_extrude_only_distance: 900.0
+max_extrude_only_velocity: 60
+
+[tmc2208 extruder]
+uart_pin: P1.4
+run_current: 0.800
+hold_current: 0.500
+interpolate: True
+stealthchop_threshold: 0 # 0 = disabled
+interpolate: True
